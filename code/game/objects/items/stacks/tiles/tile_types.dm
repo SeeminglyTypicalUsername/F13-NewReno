@@ -302,7 +302,7 @@
 	icon_state = "tile-carpet_brown"
 	item_state = "tile-carpet_brown"
 	turf_type = /turf/open/floor/carpet/brown
-	tableVariant = /obj/structure/table/wood/fancy/brown
+	tableVariant = /obj/structure/table/wood/fancy/red //placeholder
 	merge_type = /obj/item/stack/tile/carpet/brown
 
 /obj/item/stack/tile/carpet/royalblack
