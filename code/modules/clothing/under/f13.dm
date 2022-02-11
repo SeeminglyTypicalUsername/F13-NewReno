@@ -9,6 +9,27 @@
 /obj/item/clothing/under/f13/female
 	fitted = FEMALE_UNIFORM_TOP
 
+//Salvatores
+
+/obj/item/clothing/under/f13/salvatores/don
+	name = "don suit"
+	desc = "A white suit and tie, with a black undershirt."
+	icon_state = "salvatores_don"
+	item_state = "salvatores_don"
+
+/obj/item/clothing/under/f13/salvatores/officer
+	name = "don suit"
+	desc = "A white suit and tie, with a black undershirt."
+	icon_state = "salvatores_officer"
+	item_state = "salvatores_officer"
+
+/obj/item/clothing/under/f13/salvatores/soldier
+	name = "salvatore family suit"
+	desc = "A white suit and tie, with a black undershirt."
+	icon_state = "salvatores_soldier"
+	item_state = "salvatores_soldier"
+
+
 //ENCLAVE PEACEKEEPERS
 
 /obj/item/clothing/under/f13/enclave/science
@@ -29,7 +50,7 @@
 	desc = "Khaki officers uniform with gold trimming over a black turtleneck."
 	icon_state = "uniform_enclave_officer"
 	item_state = "uniform_enclave_officer"
-	
+
 /obj/item/clothing/under/f13/enclave/intel
 	name = "intel officer uniform"
 	desc = "Dark pants and turtleneck with hidden kevlar layers, since intel officers often wear no proper armor."

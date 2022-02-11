@@ -48,6 +48,13 @@
 	. = ..()
 	AddComponent(/datum/component/wearertargeting/earprotection, list(SLOT_HEAD))*/
 
+//salvatores
+/obj/item/clothing/head/helmet/f13/salvatores/fedora
+	name = "salvatores fedora"
+	desc = "The family fedora of the salvatores."
+	icon_state = "salvatores_fedora"
+	item_state = "salvatores_fedora"
+
 //Raider
 /obj/item/clothing/head/helmet/f13/raider
 	name = "base raider helmet"
@@ -257,7 +264,7 @@
 	desc = "It's a leather skullcap issued to recruits."
 	icon_state = "legion-recruit"
 	item_state = "legion-recruit"
-	
+
 
 /obj/item/clothing/head/helmet/f13/legion/prime
 	name = "legion prime helmet"
@@ -281,14 +288,14 @@
 	icon_state = "legion-veteran"
 	item_state = "legion-veteran"
 	armor = list("melee" = 37, "bullet" = 37, "laser" = 20, "energy" = 15, "bomb" = 30, "bio" = 5, "rad" = 5, "fire" = 35, "acid" = 0)
-	
+
 /obj/item/clothing/head/helmet/f13/legion/vet/explorer
 	name = "legion explorer hood"
 	desc = "(It's a leather hood with metal reinforcments and built in headphones to plug the radio into."
 	icon_state = "legion-explorer"
 	item_state = "legion-explorer"
 	armor = list("melee" = 35, "bullet" = 35, "laser" = 15, "energy" = 10, "bomb" = 20, "bio" = 20, "rad" = 20, "fire" = 25, "acid" = 0)
-	
+
 /obj/item/clothing/head/helmet/f13/legion/vet/combvexil
 	name = "legion bear vexillarius helmet"
 	desc = "This helmet is decorated with the pelt of a ashland bear."
@@ -504,7 +511,7 @@
 	icon_state = "ncr_slouch"
 	item_state = "ncr_slouch"
 	armor = list("melee" = 35, "bullet" = 40, "laser" = 20, "energy" = 20, "bomb" = 25, "bio" = 30, "rad" = 20, "fire" = 60, "acid" = 0)
-	
+
 /obj/item/clothing/head/beret/ncr
 	name = "NCR officer beret"
 	desc = "A green beret, standard issue for all commissioned NCR Officers."
@@ -539,7 +546,7 @@
 	icon_state = "scoutberet"
 	item_state = "scoutberet"
 	armor = list("melee" = 35, "bullet" = 40, "laser" = 20, "energy" = 20, "bomb" = 25, "bio" = 30, "rad" = 20, "fire" = 60, "acid" = 0)
-	
+
 /obj/item/clothing/head/beret/ncr_scout_lt
 	name = "NCR Third Scout officer beret"
 	desc = "A brown beret, issued to officers of the NCR Third Scout Battallion."
@@ -560,7 +567,7 @@
 	icon_state = "ncr_sof_beret"
 	item_state = "ncr_sof_beret"
 	armor = list("melee" = 35, "bullet" = 40, "laser" = 20, "energy" = 20, "bomb" = 25, "bio" = 30, "rad" = 20, "fire" = 60, "acid" = 0)
-	
+
 /obj/item/clothing/head/f13/ncr_stetson
 	name = "NCR air cavalry stetson"
 	desc = "A black brahmin leather stetson, authorized for usage amongst all troopers assigned to Air Cavalry units."
@@ -639,7 +646,7 @@
 	flags_inv = HIDEMASK|HIDEEARS|HIDEEYES|HIDEHAIR|HIDEFACIALHAIR|HIDEFACE
 	flags_cover = HEADCOVERSEYES | HEADCOVERSMOUTH
 	armor = list("melee" = 35, "bullet" = 45, "laser" = 25, "energy" = 20, "bomb" = 25, "bio" = 30, "rad" = 20, "fire" = 60, "acid" = 0)
-	
+
 /obj/item/clothing/head/f13/combat/ncr_patrol/Initialize()
 	. = ..()
 	AddComponent(/datum/component/armor_plate)
@@ -721,7 +728,7 @@
 	icon_state = "brotherhood_helmet_senior"
 	item_state = "brotherhood_helmet_senior"
 	armor = list("melee" = 50, "bullet" = 50, "laser" = 40, "energy" = 22, "bomb" = 55, "bio" = 60, "rad" = 10, "fire" = 60, "acid" = 20)
-	
+
 /obj/item/clothing/head/helmet/f13/combat/brotherhood/captain
 	name = "brotherhood head knight helmet"
 	desc = "An improved combat helmet, bearing the symbol of the Head Knight."
@@ -799,7 +806,7 @@
 	mob_overlay_icon = 'icons/fallout/onmob/clothes/head.dmi'
 	icon_state = "police_officer"
 	item_state = "police_officer"
-	
+
 	armor = list("melee" = 40, "bullet" = 40, "laser" = 35,  "energy" = 35, "bomb" = 30, "bio" = 40, "rad" = 40, "fire" = 50, "acid" = 10)
 /obj/item/clothing/head/f13/town/officer/Initialize()
 	. = ..()
@@ -933,7 +940,7 @@
 	desc = "An antler skull headdress traditionally worn by the spiritually inclined."
 	icon_state = "antlerhelm"
 	item_state = "antlerhelm"
-	
+
 
 /obj/item/clothing/head/helmet/f13/wayfarer/shamanblue
 	name = "ritual headdress"
@@ -1021,7 +1028,7 @@
 	mob_overlay_icon = 'icons/fallout/onmob/clothes/head.dmi'
 	icon_state = "army_officer"
 	item_state = "army_officer"
-	
+
 
 /obj/item/clothing/head/f13/army/general
 	name = "US Army general's cap"
@@ -1048,7 +1055,7 @@ obj/item/clothing/head/f13/army/beret
 	mob_overlay_icon = 'icons/fallout/onmob/clothes/head.dmi'
 	icon_state = "army_beret_airborne"
 	item_state = "army_beret_airborne"
-	
+
 
 /obj/item/clothing/head/f13/army/beret/specialforces
 	name = "US Army special forces beret"
@@ -1057,7 +1064,7 @@ obj/item/clothing/head/f13/army/beret
 	mob_overlay_icon = 'icons/fallout/onmob/clothes/head.dmi'
 	icon_state = "army_beret_specialforces"
 	item_state = "army_beret_specialforces"
-	
+
 //People's Liberation Army
 
 /obj/item/clothing/head/f13/chinese
@@ -1088,7 +1095,7 @@ obj/item/clothing/head/f13/army/beret
 	icon_state = "police_officer"
 	item_state = "police_officer"
 	armor = list("melee" = 25, "bullet" = 10, "laser" = 10, "energy" = 15, "bomb" = 25, "bio" = 0, "rad" = 0, "fire" = 10, "acid" = 0)
-	
+
 /obj/item/clothing/head/f13/police/sergeant
 	name = "police campaign hat"
 	desc = "A simple dark navy campaign hat, worn by police."
@@ -1115,7 +1122,7 @@ obj/item/clothing/head/f13/army/beret
 	icon_state = "police_chief"
 	item_state = "police_chief"
 	armor = list("melee" = 27, "bullet" = 12, "laser" = 12, "energy" = 15, "bomb" = 25, "bio" = 0, "rad" = 0, "fire" = 10, "acid" = 0)
-	
+
 /obj/item/clothing/head/f13/police/trooper
 	name = "state police campaign hat"
 	desc = "A gray campaign hat, worn by the State Police."

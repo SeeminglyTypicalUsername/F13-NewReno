@@ -11,6 +11,7 @@
 #define FACTION_TRIBE "Tribe"
 #define FACTION_VAULT "Vault"
 #define FACTION_FOLLOWERS "Followers"
+#define FACTION_SALVATORES "Salvatores"
 
 #define ENGSEC			(1<<0)
 
@@ -185,6 +186,10 @@
 #define F13FOLLOWERGUARD	(1<<2)
 #define F13FOLLOWERVOLUNTEER	(1<<3)
 #define F13PROFESSOR	(1<<4)
+
+#define SALVATORES		(1<<12)
+
+#define F13SALVATRESDON	(1<<0)
 
 
 #define JOB_AVAILABLE 0

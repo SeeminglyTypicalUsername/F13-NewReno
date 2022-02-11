@@ -1,26 +1,33 @@
+"ab" = (/obj/effect/decal/cleanable/dirt,/obj/structure/closet/cabinet,/turf/open/floor/wood/f13/carpet,/area/space)
+"ac" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small{dir = 4},/turf/open/floor/wood/f13/carpet,/area/space)
 "ae" = (/obj/machinery/light/small{dir = 4},/turf/open/floor/wood/f13/carpet,/area/f13/building)
+"ao" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/carpet,/area/space)
 "au" = (/obj/structure/chair/stool/retro,/turf/open/floor/carpet/red,/area/f13/building)
 "ax" = (/obj/structure/table/wood/settler,/obj/item/paper,/obj/item/pen,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"aB" = (/obj/machinery/telecomms/broadcaster/preset_right,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
-"aF" = (/obj/machinery/requests_console{announcementConsole = 1; department = "Telecomms Admin"; departmentType = 5; name = "Telecomms RC"; pixel_x = 30},/turf/open/floor/plasteel,/area/f13/tcoms)
-"aL" = (/obj/machinery/telecomms/server/presets/security,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"aB" = (/obj/machinery/telecomms/broadcaster/preset_right,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"aF" = (/obj/machinery/requests_console{announcementConsole = 1; department = "Telecomms Admin"; departmentType = 5; name = "Telecomms RC"; pixel_x = 30},/turf/open/floor/plasteel,/area/space)
+"aL" = (/obj/machinery/telecomms/server/presets/security,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"aM" = (/obj/machinery/light{dir = 1; light_color = "#706891"},/turf/open/floor/carpet/purple,/area/f13/building)
 "aO" = (/obj/structure/railing{dir = 4},/turf/open/floor/wood/f13/carpet,/area/f13/building)
+"aY" = (/obj/structure/bed/old{pixel_y = 15},/obj/item/bedsheet/brown{pixel_y = 16},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "aZ" = (/obj/structure/curtain{color = "#845f58"},/turf/open/floor/carpet/purple,/area/f13/building)
 "ba" = (/turf/open/floor/wood/f13/oak{icon_state = "oakfloor3-broken"},/area/f13/building)
 "bh" = (/obj/structure/bed/pod{pixel_y = 14},/obj/item/bedsheet/rd{pixel_y = 13},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
-"bn" = (/obj/machinery/status_display,/turf/closed/wall,/area/f13/tcoms)
+"bn" = (/obj/machinery/status_display,/turf/closed/wall,/area/space)
 "bt" = (/obj/structure/chair/pew,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "by" = (/obj/structure/bed/pod,/obj/item/bedsheet/patriot,/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"bA" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/carpet,/area/space)
 "bE" = (/obj/structure/simple_door/metal/dirtystore,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/f13/building)
 "bO" = (/obj/structure/table/reinforced,/obj/structure/barricade/bars,/obj/item/paper_bin,/obj/item/pen,/turf/open/floor/plasteel/dark,/area/f13/building)
 "bX" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/table/wood/settler,/obj/item/twohanded/sledgehammer,/obj/item/restraints/handcuffs/cable,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "bY" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/blood,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "bZ" = (/obj/item/kirbyplants,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"cb" = (/obj/structure/table,/obj/item/radio/off,/turf/open/floor/plasteel/yellow/side{dir = 10},/area/f13/tcoms)
-"ci" = (/obj/structure/table,/turf/open/floor/plasteel/yellow/side{dir = 9},/area/f13/tcoms)
+"cb" = (/obj/structure/table,/obj/item/radio/off,/turf/open/floor/plasteel/yellow/side{dir = 10},/area/space)
+"ci" = (/obj/structure/table,/turf/open/floor/plasteel/yellow/side{dir = 9},/area/space)
 "ck" = (/obj/structure/shelf_wood,/obj/item/soap/homemade,/turf/open/floor/plasteel/f13{icon_state = "floorgrime"},/area/f13/building)
 "ct" = (/obj/item/trash/f13/borscht,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/space)
-"cz" = (/obj/machinery/telecomms/server/presets/medical,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"cz" = (/obj/machinery/telecomms/server/presets/medical,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"cC" = (/obj/effect/decal/cleanable/dirt,/turf/closed/wall/mineral/concrete,/area/f13/building)
 "cI" = (/obj/structure/simple_door/wood,/turf/open/floor/carpet/brown,/area/f13/building)
 "cJ" = (/obj/structure/simple_door/room,/turf/open/floor/plasteel/f13{icon_state = "floorgrime"},/area/f13/building)
 "cM" = (/obj/structure/ladder,/turf/open/floor/f13{icon_state = "darkdirtysolid"},/area/f13/building)
@@ -29,33 +36,40 @@
 "dm" = (/obj/structure/window/fulltile/store{icon_state = "ruinswindow"},/obj/structure/barricade/wooden/planks,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"},/area/f13/building)
 "do" = (/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor4-broken"},/area/f13/building)
 "ds" = (/obj/structure/chair/pew/right,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"dy" = (/obj/structure/window/fulltile/house{icon_state = "housewindowvertical"},/obj/structure/barricade/wooden/planks,/turf/open/floor/wood/f13/oak,/area/space)
 "dz" = (/obj/structure/chair/wood/worn{dir = 8},/turf/open/floor/wood/f13/oak,/area/f13/building)
+"dB" = (/obj/machinery/telecomms/relay/preset/telecomms,/turf/open/indestructible,/area/space)
 "dD" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor4-broken"},/area/f13/building)
 "dG" = (/turf/open/floor/wood/f13/housewoodbroken2,/area/f13/building)
-"dI" = (/obj/machinery/telecomms/bus/preset_one,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"dI" = (/obj/machinery/telecomms/bus/preset_one,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"dM" = (/turf/open/indestructible,/area/space)
 "dV" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "dZ" = (/obj/structure/bed/mattress{pixel_y = 1},/turf/open/floor/plasteel/dark,/area/f13/building)
 "ea" = (/obj/structure/chair/office/dark{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
+"ec" = (/obj/structure/chair/stool,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "eg" = (/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/plasteel/dark,/area/f13/building)
 "eB" = (/obj/structure/closet/locker,/obj/item/storage/box/bodybags,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"eC" = (/turf/open/floor/plasteel,/area/f13/tcoms)
+"eC" = (/turf/open/floor/plasteel,/area/space)
 "eJ" = (/obj/structure/simple_door/metal/dirtystore,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "eM" = (/obj/structure/table/wood/fancy/red,/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "eN" = (/obj/structure/chair/office/dark{dir = 8},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
-"eS" = (/obj/machinery/light{dir = 1},/turf/open/floor/circuit/telecomms/mainframe,/area/f13/tcoms)
-"eV" = (/obj/structure/closet/fridge/meat,/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"eS" = (/obj/machinery/light{dir = 1},/turf/open/floor/circuit/telecomms/mainframe,/area/space)
+"eV" = (/obj/structure/closet/fridge/meat,/obj/machinery/light{dir = 4},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "eX" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/chair/wood/modern,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "eY" = (/obj/structure/simple_door/room,/turf/open/floor/plasteel/dark,/area/f13/building)
+"eZ" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/old{icon_state = "housebase"},/area/space)
 "fa" = (/obj/structure/chair/sofa/corp{dir = 8},/turf/open/floor/carpet/purple,/area/f13/building)
+"fi" = (/obj/effect/overlay/junk/toilet{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/neutral/neutralchess/neutralchess2,/area/space)
 "fn" = (/obj/structure/table/wood/fancy/purple,/obj/item/reagent_containers/food/drinks/bottle/wine,/turf/open/floor/carpet/purple,/area/f13/building)
 "fo" = (/obj/structure/chair,/turf/open/floor/carpet/brown,/area/f13/building)
 "fH" = (/obj/structure/chair/f13chair2{dir = 4},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "fM" = (/obj/structure/chair/stool/bar,/turf/open/floor/carpet/purple,/area/f13/building)
-"fN" = (/obj/machinery/telecomms/receiver/preset_left,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"fN" = (/obj/machinery/telecomms/receiver/preset_left,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "fR" = (/obj/structure/wreck/trash/halftire,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/space)
 "fU" = (/obj/structure/bed/old,/turf/open/floor/carpet/brown,/area/f13/building)
+"gc" = (/obj/machinery/light,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "gd" = (/obj/structure/closet/crate/wooden,/obj/machinery/light/small{dir = 4},/turf/open/floor/wood/f13/oak,/area/f13/building)
-"gk" = (/obj/machinery/blackbox_recorder,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"gk" = (/obj/machinery/blackbox_recorder,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "gq" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/curtain{color = "#5c131b"},/turf/open/floor/carpet/red,/area/f13/building)
 "gs" = (/obj/structure/chair/wood{dir = 4},/turf/open/floor/carpet/red,/area/f13/building)
 "gv" = (/obj/structure/closet/crate/trashcart,/obj/effect/decal/cleanable/dirt,/obj/item/reagent_containers/syringe,/turf/open/floor/plasteel/dark,/area/f13/building)
@@ -67,10 +81,12 @@
 "ha" = (/obj/structure/railing,/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "he" = (/turf/closed/wall/f13/tentwall,/area/f13/building)
 "hk" = (/obj/structure/chair/office/dark{dir = 1},/turf/open/floor/wood/f13/oak,/area/f13/building)
-"hB" = (/turf/closed/wall/r_wall/f13superstore{icon_state = "supermart0"},/area/f13/tcoms)
+"ho" = (/obj/structure/table/wood/fancy/red,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"hB" = (/turf/closed/wall/r_wall/f13superstore{icon_state = "supermart0"},/area/space)
 "hC" = (/obj/structure/chair/wood/fancy{dir = 4},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "hN" = (/obj/structure/chair/booth{dir = 1},/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/carpet/red,/area/f13/building)
-"hP" = (/obj/machinery/telecomms/processor/preset_one,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"hO" = (/obj/structure/chair/wood/normal{dir = 4},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"hP" = (/obj/machinery/telecomms/processor/preset_one,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "hQ" = (/turf/open/floor/wood/f13/housewoodbroken4,/area/f13/building)
 "hR" = (/obj/structure/closet/cabinet,/obj/machinery/light{dir = 1; light_color = "#706891"},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "hU" = (/obj/effect/decal/cleanable/dirt,/obj/structure/bed/mattress{icon_state = "mattress1"; pixel_y = 1},/turf/open/floor/wood/f13/oak,/area/f13/building)
@@ -79,31 +95,36 @@
 "iw" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/closet/cabinet,/obj/item/reagent_containers/pill/happy,/obj/item/reagent_containers/pill/happy,/obj/item/clothing/under/f13/picnicdress50s,/obj/item/clothing/under/f13/formal,/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "iz" = (/turf/open/floor/wood/f13/housewoodbroken,/area/f13/building)
 "iB" = (/obj/machinery/light{dir = 8},/turf/open/floor/wood/f13/oak,/area/f13/building)
-"iF" = (/obj/structure/window/fulltile/house{icon_state = "housewindowvertical"},/obj/structure/barricade/bars,/obj/structure/barricade/wooden/planks,/turf/open/floor/wood/f13/oak,/area/space)
+"iF" = (/turf/open/floor/plating,/area/space)
 "iJ" = (/obj/structure/window/fulltile/house{dir = 2; icon_state = "housewindowbrokenvertical"},/obj/structure/barricade/bars,/turf/open/floor/wood/f13/oak,/area/space)
 "iN" = (/obj/structure/dresser,/turf/open/floor/carpet/red,/area/f13/building)
-"iT" = (/turf/open/floor/circuit/telecomms/mainframe,/area/f13/tcoms)
+"iT" = (/turf/open/floor/circuit/telecomms/mainframe,/area/space)
 "iU" = (/turf/open/floor/wood/f13/oak,/area/f13/building)
 "iW" = (/obj/structure/table,/obj/item/paper_bin,/obj/item/pen,/obj/item/pen,/turf/open/floor/carpet/red,/area/f13/building)
 "ji" = (/obj/structure/table/snooker{dir = 1},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
-"jB" = (/obj/machinery/telecomms/message_server,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"jB" = (/obj/machinery/telecomms/message_server,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "jC" = (/mob/living/simple_animal/hostile/wolf/alpha{desc = "This is a mongrel, but it appears to be tame. "; faction = list("neutral"); name = "tamed animal"},/turf/open/floor/wood/wood_tiled,/area/f13/building)
-"jO" = (/obj/structure/chair/wood/fancy{dir = 8},/turf/open/floor/wood/wood_tiled,/area/f13/building)
-"jY" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/chair/sofa/corp/left{dir = 8},/turf/open/floor/carpet/purple,/area/f13/building)
+"jO" = (/obj/structure/chair/wood/fancy{dir = 8},/obj/machinery/light{dir = 4},/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"jS" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/space)
+"jY" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/chair/sofa/corp/left{dir = 8},/obj/machinery/light{dir = 4},/turf/open/floor/carpet/purple,/area/f13/building)
 "kd" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/item/reagent_containers/syringe,/turf/open/floor/plasteel/dark,/area/f13/building)
 "ke" = (/obj/structure/bed/pod{pixel_y = 15},/obj/item/bedsheet/brown{pixel_y = 16},/turf/open/floor/wood/f13/oak,/area/f13/building)
+"ki" = (/obj/effect/decal/cleanable/dirt,/obj/structure/bed/old,/turf/open/floor/wood/f13/carpet,/area/space)
 "ku" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor1-broken"},/area/f13/building)
+"ky" = (/obj/structure/table/glass,/obj/item/reagent_containers/pill/happy,/obj/machinery/light{dir = 4},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "kE" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
 "kG" = (/obj/structure/stairs/north{color = "#A47449"},/turf/open/floor/plasteel/dark,/area/f13/building)
+"kJ" = (/obj/structure/curtain{color = "#5c131b"},/obj/structure/window/fulltile/house{icon_state = "storewindowbottom"},/turf/open/floor/plasteel/f13{icon_state = "plating"},/area/f13/building)
+"kP" = (/turf/open/indestructible/ground/outside/sidewalk,/area/space)
 "kR" = (/obj/structure/curtain{color = "#5c131b"},/turf/open/floor/carpet/red,/area/f13/building)
-"kV" = (/obj/machinery/telecomms/server/presets/science,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"kV" = (/obj/machinery/telecomms/server/presets/science,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "kX" = (/obj/structure/closet/crate/large,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/space)
-"kY" = (/obj/structure/rack,/obj/item/storage/toolbox/mechanical{pixel_x = -2; pixel_y = -1},/turf/open/floor/plasteel,/area/f13/tcoms)
+"kY" = (/obj/structure/rack,/obj/item/storage/toolbox/mechanical{pixel_x = -2; pixel_y = -1},/turf/open/floor/plasteel,/area/space)
 "ld" = (/obj/structure/sign/poster/prewar/poster61,/turf/closed/wall/rust,/area/f13/building)
-"le" = (/obj/machinery/light{dir = 4},/turf/open/floor/circuit/telecomms/mainframe,/area/f13/tcoms)
+"le" = (/obj/machinery/light{dir = 4},/turf/open/floor/circuit/telecomms/mainframe,/area/space)
 "lh" = (/obj/structure/bed/mattress{icon_state = "mattress2"},/turf/open/floor/plasteel/dark,/area/f13/building)
-"lq" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-2"},/obj/structure/cable,/turf/open/floor/plating,/area/f13/tcoms)
-"lx" = (/obj/structure/table,/obj/item/paper_bin,/turf/open/floor/plasteel,/area/f13/tcoms)
+"lq" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-2"},/obj/structure/cable,/turf/open/floor/plating,/area/space)
+"lx" = (/obj/structure/table,/obj/item/paper_bin,/turf/open/floor/plasteel,/area/space)
 "lH" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/space)
 "lJ" = (/obj/effect/decal/cleanable/dirt/dust,/obj/structure/table/wood/settler,/obj/machinery/computer/terminal{dir = 1; pixel_x = 9; termtag = "Business"},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "lO" = (/obj/effect/spawner/lootdrop/trash,/turf/open/floor/plasteel/dark,/area/f13/building)
@@ -113,113 +134,138 @@
 "lY" = (/obj/structure/table/wood/poker,/obj/item/toy/cards/deck,/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "ma" = (/obj/structure/window/fulltile/house{icon_state = "storewindowhorizontal"},/obj/structure/curtain{color = "#5c131b"},/turf/open/floor/plasteel/f13{icon_state = "plating"},/area/f13/building)
 "mq" = (/obj/machinery/light/small,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"mr" = (/obj/machinery/telecomms/server/presets/ranger,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"mr" = (/obj/machinery/telecomms/server/presets/ranger,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"mu" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/destructible/tribal_torch/wall/lit{dir = 4},/turf/open/floor/carpet/brown,/area/space)
 "mv" = (/obj/machinery/light{dir = 8; pixel_y = -16},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "mw" = (/obj/structure/wreck/trash/one_tire,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/space)
 "mF" = (/obj/structure/window/fulltile/house{icon_state = "storewindowhorizontal"},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "mN" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt/dust,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/turf/open/floor/carpet/red,/area/f13/building)
+"mP" = (/obj/effect/decal/cleanable/dirt,/obj/structure/chair/wood/modern{dir = 8},/turf/open/floor/wood/f13/carpet,/area/space)
 "mX" = (/obj/structure/table/reinforced,/obj/machinery/computer/terminal{dir = 8},/turf/open/floor/wood/f13/oak,/area/f13/building)
-"nn" = (/obj/machinery/light{dir = 1},/turf/open/floor/plasteel,/area/f13/tcoms)
+"nn" = (/obj/machinery/light{dir = 1},/turf/open/floor/plasteel,/area/space)
 "nw" = (/obj/structure/simple_door/metal/store,/turf/open/floor/plasteel/dark,/area/f13/building)
 "nz" = (/obj/machinery/door/unpowered/securedoor,/turf/open/floor/carpet/brown,/area/f13/building)
 "nC" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/table/wood/fancy/red,/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "nS" = (/turf/open/floor/wood/f13/housewoodbroken3,/area/f13/building)
 "nT" = (/obj/structure/shelf_wood,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"nW" = (/obj/machinery/telecomms/processor/preset_four,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"nW" = (/obj/machinery/telecomms/processor/preset_four,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "od" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "oe" = (/obj/structure/kitchenspike,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/blood,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
+"of" = (/obj/effect/decal/cleanable/dirt,/obj/structure/closet/crate/trashcart,/turf/open/floor/wood/f13/carpet,/area/space)
 "oi" = (/obj/structure/shelf_wood,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/obj/effect/spawner/lootdrop/f13/alcoholspawner,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "ok" = (/turf/open/floor/f13{icon_state = "darkdirtysolid"},/area/f13/building)
 "op" = (/obj/structure/table,/obj/item/electropack/shockcollar/explosive,/obj/item/electropack/shockcollar/explosive,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "ot" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/closet/cabinet,/obj/item/reagent_containers/pill/happy,/obj/item/reagent_containers/pill/happy,/obj/item/clothing/under/f13/picnicdress50s,/obj/item/clothing/under/f13/relaxedwear,/turf/open/floor/wood/wood_tiled,/area/f13/building)
-"oF" = (/obj/machinery/telecomms/server/presets/khans,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
-"oJ" = (/obj/machinery/telecomms/server/presets/common,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"oF" = (/obj/machinery/telecomms/server/presets/khans,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"oJ" = (/obj/machinery/telecomms/server/presets/common,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "oK" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "oN" = (/turf/closed/wall/f13/wood,/area/f13/building)
-"oW" = (/turf/closed/wall/r_wall,/area/f13/tcoms)
+"oW" = (/turf/closed/wall/r_wall,/area/space)
 "oY" = (/obj/structure/table,/obj/item/stamp/denied,/obj/item/stamp,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
 "ph" = (/turf/open/floor/carpet/purple,/area/f13/building)
-"pk" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/chair/comfy/brown{dir = 8},/turf/open/floor/wood/wood_tiled,/area/f13/building)
-"pp" = (/obj/structure/table,/obj/item/folder/blue,/obj/item/pen/blue,/turf/open/floor/plasteel,/area/f13/tcoms)
+"pk" = (/turf/open/floor/wood,/area/space)
+"pp" = (/obj/structure/table,/obj/item/folder/blue,/obj/item/pen/blue,/turf/open/floor/plasteel,/area/space)
 "pz" = (/obj/structure/chair/wood/normal{dir = 8},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "pE" = (/obj/structure/barricade/sandbags,/turf/open/floor/f13{icon_state = "darkdirtysolid"},/area/f13/building)
 "pQ" = (/obj/structure/dresser,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"qg" = (/obj/structure/railing{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/carpet/brown,/area/space)
 "qh" = (/obj/structure/table/wood/poker,/obj/item/toy/cards/deck,/turf/open/floor/carpet/purple,/area/f13/building)
-"qk" = (/obj/structure/chair/office/dark{dir = 8},/turf/open/floor/plasteel,/area/f13/tcoms)
+"qk" = (/obj/structure/chair/office/dark{dir = 8},/turf/open/floor/plasteel,/area/space)
 "qs" = (/obj/structure/closet/crate/trashcart,/obj/item/reagent_containers/syringe/stimulants,/turf/open/floor/plasteel/dark,/area/f13/building)
 "qv" = (/obj/structure/table/wood/settler,/obj/item/cultivator/rake,/obj/item/cultivator/rake,/obj/item/cultivator/rake,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"qH" = (/obj/machinery/telecomms/server/presets/supply,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
-"qJ" = (/obj/structure/dresser,/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"qH" = (/obj/machinery/telecomms/server/presets/supply,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"qJ" = (/obj/structure/dresser,/obj/machinery/light{dir = 8},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "qL" = (/obj/structure/chair/wood/normal{dir = 4},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "qO" = (/obj/structure/toilet,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/plasteel/f13{icon_state = "floorgrime"},/area/f13/building)
 "qR" = (/obj/effect/decal/cleanable/dirt/dust,/obj/structure/table/wood/settler,/obj/item/paper_bin,/obj/item/pen,/obj/item/pen,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"qV" = (/obj/machinery/airalarm{dir = 1; pixel_y = -22},/obj/machinery/light,/obj/structure/filingcabinet/chestdrawer,/turf/open/floor/plasteel,/area/f13/tcoms)
+"qV" = (/obj/machinery/airalarm{dir = 1; pixel_y = -22},/obj/machinery/light,/obj/structure/filingcabinet/chestdrawer,/turf/open/floor/plasteel,/area/space)
 "qW" = (/obj/structure/table/wood/settler,/obj/item/paper/secretrecipe,/turf/open/floor/carpet/red,/area/f13/building)
 "qZ" = (/obj/structure/chair/wood/fancy{dir = 4},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "rB" = (/obj/structure/table,/obj/item/stamp/denied,/obj/item/stamp,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
 "rC" = (/obj/structure/railing{dir = 1},/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "rE" = (/obj/structure/table/wood/fancy/purple,/obj/item/storage/box/dice,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "rF" = (/obj/structure/railing{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"rO" = (/obj/machinery/telecomms/server/presets/service,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"rO" = (/obj/machinery/telecomms/server/presets/service,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "rQ" = (/obj/effect/decal/cleanable/dirt/dust,/obj/structure/chair/stool,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"rV" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-4"},/obj/structure/cable,/turf/open/floor/plating,/area/f13/tcoms)
+"rV" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-4"},/obj/structure/cable,/turf/open/floor/plating,/area/space)
 "rX" = (/obj/structure/closet/cabinet,/turf/open/floor/carpet/brown,/area/f13/building)
 "sf" = (/obj/machinery/jukebox,/turf/open/floor/carpet/purple,/area/f13/building)
 "sj" = (/obj/structure/sign/poster/prewar/protectron,/turf/closed/wall/rust,/area/f13/building)
-"su" = (/obj/structure/chair/wood/fancy{dir = 8},/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/fireaxecabinet{pixel_x = 32},/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"su" = (/obj/structure/chair/wood/fancy{dir = 8},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "sx" = (/obj/structure/bookcase,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "sA" = (/obj/structure/bed{pixel_y = -16},/obj/item/bedsheet/rd{pixel_y = -16},/turf/open/floor/carpet/red,/area/f13/building)
-"sC" = (/obj/machinery/telecomms/server/presets/ncr,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"sC" = (/obj/machinery/telecomms/server/presets/ncr,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"sK" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/table_frame/wood,/turf/open/floor/wood/f13/carpet,/area/space)
 "sX" = (/obj/structure/filingcabinet/medical,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
-"ta" = (/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 8},/obj/machinery/door/airlock/engineering/glass{name = "Server Room"; req_access_txt = "61"},/turf/open/floor/plasteel/vault{dir = 5},/area/f13/tcoms)
+"ta" = (/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 8},/obj/machinery/door/airlock/engineering/glass{name = "Server Room"; req_access_txt = "61"},/turf/open/floor/plasteel/vault{dir = 5},/area/space)
 "te" = (/turf/closed/wall/mineral/concrete,/area/f13/building)
 "th" = (/turf/open/floor/wood/f13/oak{icon_state = "oakfloor4-broken"},/area/f13/building)
 "ti" = (/obj/structure/table/snooker{dir = 9},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "tj" = (/obj/item/storage/secure/safe{pixel_x = -19},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "to" = (/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/carpet/red,/area/f13/building)
-"tr" = (/obj/machinery/computer/message_monitor{dir = 4},/turf/open/floor/plasteel/yellow/side{dir = 8},/area/f13/tcoms)
+"tr" = (/obj/machinery/computer/message_monitor{dir = 4},/turf/open/floor/plasteel/yellow/side{dir = 8},/area/space)
 "tv" = (/obj/structure/dresser,/turf/open/floor/carpet/brown,/area/f13/building)
-"tw" = (/obj/machinery/telecomms/server/presets/den,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"tw" = (/obj/machinery/telecomms/server/presets/den,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"tA" = (/obj/structure/table/wood/poker,/obj/item/reagent_containers/food/drinks/soda_cans/monkey_energy,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "tC" = (/obj/structure/chair/stool/retro,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"tH" = (/obj/effect/overlay/junk/sink{dir = 8; pixel_x = -12},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/neutral/neutralchess/neutralchess2,/area/space)
 "tM" = (/obj/machinery/hydroponics/soil/pot,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor3-broken"},/area/f13/building)
 "tQ" = (/obj/effect/decal/cleanable/dirt/dust,/obj/effect/decal/cleanable/dirt/dust,/obj/structure/chair/wood/modern,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor2-broken"},/area/f13/building)
 "tT" = (/obj/structure/falsewall/rust,/turf/open/floor/plasteel/dark,/area/f13/building)
 "tZ" = (/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/f13/building)
+"ue" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/machinery/light{dir = 1; light_color = "#706891"},/turf/open/floor/carpet/purple,/area/f13/building)
 "uh" = (/obj/structure/rack/shelf_metal,/obj/item/stack/sheet/glass/ten,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "uu" = (/obj/structure/table/wood/poker,/turf/open/floor/carpet/brown,/area/f13/building)
 "uy" = (/obj/effect/spawner/lootdrop/trash,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
+"uG" = (/obj/structure/fireplace,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "uH" = (/turf/open/floor/plasteel/f13/vault_floor/plating,/area/f13/building)
+"uJ" = (/obj/structure/simple_door/metal,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/neutral/neutralchess/neutralchess2,/area/space)
 "uM" = (/obj/structure/stairs/north{color = "#A47449"},/turf/open/space/basic,/area/f13/building)
+"uX" = (/obj/structure/chair/wood/fancy{dir = 8},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "uZ" = (/obj/structure/bed/old,/obj/item/bedsheet{icon_state = "sheetbrown"},/turf/open/floor/carpet/brown,/area/f13/building)
 "vb" = (/obj/structure/chair/wood/worn{dir = 8},/obj/item/storage/secure/safe{pixel_y = 26},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "vl" = (/obj/structure/bookcase,/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "vx" = (/turf/closed/wall/f13/wood/interior,/area/f13/building)
 "vy" = (/obj/structure/table/wood/fancy/purple,/obj/item/katana,/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"vE" = (/obj/structure/simple_door/metal,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/carpet,/area/space)
+"vI" = (/obj/structure/table/wood/fancy/purple,/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
+"vP" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/old{icon_state = "housebase"},/area/space)
 "vT" = (/obj/structure/rack/shelf_metal,/obj/item/reagent_containers/glass/bucket,/obj/item/reagent_containers/glass/bucket,/obj/item/reagent_containers/glass/bucket,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"vU" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small{dir = 4},/turf/open/floor/wood/f13/old{icon_state = "housebase"},/area/space)
 "vV" = (/obj/structure/closet/cabinet,/turf/open/floor/carpet/red,/area/f13/building)
-"wh" = (/obj/structure/sign/warning/securearea{desc = "A warning sign which reads 'SERVER ROOM'."; name = "SERVER ROOM"},/turf/closed/wall,/area/f13/tcoms)
+"wh" = (/obj/structure/sign/warning/securearea{desc = "A warning sign which reads 'SERVER ROOM'."; name = "SERVER ROOM"},/turf/closed/wall,/area/space)
 "wC" = (/obj/machinery/door/unpowered/securedoor,/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "wK" = (/obj/structure/table/snooker{dir = 5},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
-"wM" = (/obj/machinery/ntnet_relay,/turf/open/floor/circuit/telecomms/mainframe,/area/f13/tcoms)
+"wM" = (/obj/machinery/ntnet_relay,/turf/open/floor/circuit/telecomms/mainframe,/area/space)
 "wS" = (/obj/structure/table,/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "wY" = (/obj/structure/chair/booth,/turf/open/floor/carpet/red,/area/f13/building)
 "xc" = (/obj/structure/bed/pod{pixel_y = 15},/obj/item/bedsheet/brown{pixel_y = 16},/obj/machinery/light/small{dir = 8; pixel_x = 2},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "xe" = (/obj/structure/table,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"xi" = (/obj/structure/table/wood/fancy/purple,/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
+"xo" = (/obj/structure/railing{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/carpet/brown,/area/space)
+"xp" = (/obj/item/twohanded/required/kirbyplants/random,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "xu" = (/obj/structure/bed/mattress{pixel_y = 1},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "xy" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/closet/fridge,/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "xG" = (/obj/structure/simple_door/metal/store,/turf/open/floor/f13{icon_state = "bluerustysolid"},/area/space)
 "xN" = (/obj/structure/table,/obj/machinery/computer/terminal{dir = 8},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
 "xQ" = (/obj/machinery/chem_heater,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/f13/building)
+"xR" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/closet/locker,/turf/open/floor/wood/f13/carpet,/area/space)
+"ya" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/machinery/light,/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "yu" = (/obj/structure/table/snooker,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
+"yx" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/space)
+"yJ" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/old{icon_state = "housebase"},/area/space)
 "yL" = (/turf/closed/wall/f13/ruins,/area/f13/building)
-"yM" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-4"},/obj/structure/cable{icon_state = "0-2"},/turf/open/floor/plating,/area/f13/tcoms)
+"yM" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-4"},/obj/structure/cable{icon_state = "0-2"},/turf/open/floor/plating,/area/space)
+"yN" = (/obj/effect/decal/cleanable/dirt,/obj/structure/chair/wood/modern{dir = 4; icon_state = "wooden_chair_settler"},/turf/open/floor/wood/f13/carpet,/area/space)
+"yQ" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/closet/cabinet,/obj/item/reagent_containers/pill/happy,/obj/item/reagent_containers/pill/happy,/obj/item/clothing/under/f13/spring,/obj/item/clothing/under/f13/picnicdress50s,/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "yT" = (/obj/structure/bed/roller,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
-"zf" = (/obj/machinery/telecomms/server/presets/town,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"zf" = (/obj/machinery/telecomms/server/presets/town,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"zg" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "zj" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor3-broken"},/area/f13/building)
 "zr" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/plating,/area/f13/building)
 "zs" = (/obj/structure/sign/poster/prewar/poster79,/turf/closed/wall/rust,/area/f13/building)
 "zx" = (/obj/structure/rack/shelf_metal,/obj/item/reagent_containers/food/drinks/bottle/brown/beer,/obj/item/reagent_containers/food/drinks/bottle/brown/beer,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"zC" = (/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 4},/obj/machinery/door/airlock/engineering/glass{name = "Server Room"; req_access_txt = "61"},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/vault{dir = 5},/area/f13/tcoms)
+"zC" = (/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 4},/obj/machinery/door/airlock/engineering/glass{name = "Server Room"; req_access_txt = "61"},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/vault{dir = 5},/area/space)
 "zF" = (/obj/structure/window/reinforced/spawner/east,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "zH" = (/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor3-broken"},/area/f13/building)
 "zJ" = (/obj/structure/table,/obj/machinery/workbench/bottler,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor3-broken"},/area/f13/building)
@@ -227,10 +273,12 @@
 "Ac" = (/obj/structure/closet/crate/secure/weapon,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Ag" = (/obj/machinery/photocopier,/turf/open/floor/wood/f13,/area/f13/building)
 "Ai" = (/obj/structure/bed/mattress{icon_state = "mattress2"},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
+"Az" = (/obj/structure/chair/wood/modern{dir = 4; icon_state = "wooden_chair_settler"},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/carpet/brown,/area/space)
 "AB" = (/obj/structure/table/snooker{dir = 6},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "AE" = (/obj/structure/girder,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/plating,/area/f13/building)
+"AM" = (/obj/structure/dresser,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "AU" = (/obj/structure/fermenting_barrel,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor1-broken"},/area/f13/building)
-"AX" = (/obj/machinery/telecomms/hub/preset,/turf/open/floor/plasteel/vault/telecomms/mainframe{dir = 8},/area/f13/tcoms)
+"AX" = (/obj/machinery/telecomms/hub/preset,/turf/open/floor/plasteel/vault/telecomms/mainframe{dir = 8},/area/space)
 "AY" = (/obj/structure/chair/stool,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "AZ" = (/obj/structure/chair/comfy/purple{dir = 1},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "Bc" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/femur_breaker,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
@@ -240,55 +288,72 @@
 "Br" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Bv" = (/obj/item/storage/secure/safe{pixel_x = 31},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Bw" = (/obj/item/kirbyplants{icon_state = "plant-06"},/turf/open/floor/wood/f13/oak,/area/f13/building)
-"BF" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/closet/cabinet,/obj/item/reagent_containers/pill/happy,/obj/item/reagent_containers/pill/happy,/obj/item/clothing/under/f13/spring,/obj/item/clothing/under/f13/picnicdress50s,/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"By" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/carpet,/area/space)
+"BF" = (/obj/structure/chair/wood/fancy{dir = 4},/obj/machinery/light{dir = 8},/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "BK" = (/obj/machinery/smartfridge/bottlerack,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "BO" = (/obj/effect/decal/cleanable/dirt/dust,/obj/structure/filingcabinet/employment,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "BQ" = (/obj/structure/table,/obj/item/paper_bin,/obj/item/pen,/turf/open/floor/plasteel/dark,/area/f13/building)
 "BV" = (/obj/structure/sign/poster/prewar/poster65,/turf/closed/wall/rust,/area/f13/building)
 "BZ" = (/obj/structure/railing{dir = 8},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "Ca" = (/turf/open/floor/carpet/brown,/area/f13/building)
-"Ck" = (/obj/structure/sign/warning/nosmoking{pixel_y = -32},/obj/machinery/light,/turf/open/floor/circuit/telecomms/mainframe,/area/f13/tcoms)
+"Ck" = (/obj/structure/sign/warning/nosmoking{pixel_y = -32},/obj/machinery/light,/turf/open/floor/circuit/telecomms/mainframe,/area/space)
+"Cs" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "Cu" = (/obj/structure/sign/poster/prewar/poster82,/turf/closed/wall/rust,/area/f13/building)
 "Cy" = (/obj/structure/simple_door/metal/store{icon_state = "brokenstore"; name = "service shutters"},/turf/open/floor/plasteel/dark,/area/f13/building)
-"CB" = (/turf/open/floor/plasteel/vault{dir = 5},/area/f13/tcoms)
+"CB" = (/turf/open/floor/plasteel/vault{dir = 5},/area/space)
 "CC" = (/turf/closed/wall/rust,/area/f13/building)
-"CG" = (/obj/structure/simple_door/metal/store,/turf/open/floor/plasteel/f13/vault_floor/dark{icon_state = "darkrusty"; name = "grimy tile"},/area/space)
+"CG" = (/obj/structure/window/fulltile/house{icon_state = "housewindowvertical"},/turf/open/floor/wood/f13/oak,/area/space)
+"CL" = (/obj/item/twohanded/required/kirbyplants/random,/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "CS" = (/obj/structure/filingcabinet/medical,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
-"CT" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-8"},/obj/structure/cable,/turf/open/floor/plating,/area/f13/tcoms)
-"CU" = (/obj/machinery/door/airlock/command/glass{name = "Control Room"; req_access_txt = "19; 61"},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,/turf/open/floor/plasteel,/area/f13/tcoms)
+"CT" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-8"},/obj/structure/cable,/turf/open/floor/plating,/area/space)
+"CU" = (/obj/machinery/door/airlock/command/glass{name = "Control Room"; req_access_txt = "19; 61"},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,/turf/open/floor/plasteel,/area/space)
+"CV" = (/obj/structure/chair/comfy/purple{dir = 8},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "CY" = (/obj/structure/table/wood/settler,/turf/open/floor/carpet/red,/area/f13/building)
+"CZ" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/carpet/brown,/area/space)
 "Dg" = (/turf/open/indestructible/ground/outside/ruins,/area/f13/building)
 "Dl" = (/obj/effect/decal/cleanable/dirt/dust,/obj/structure/filingcabinet/chestdrawer,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Dq" = (/obj/structure/table,/obj/machinery/computer/terminal{dir = 4; termtag = "Public"},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
 "Dx" = (/obj/structure/table,/obj/item/paper_bin,/obj/item/pen,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
-"DB" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/table,/obj/item/surgicaldrill,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
+"Dy" = (/obj/structure/table/wood/settler,/turf/open/floor/wood/f13/carpet,/area/space)
+"DB" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/table,/obj/item/surgicaldrill,/obj/machinery/light/fo13colored/Red{dir = 4},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "DD" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/machinery/computer/security/wooden_tv{pixel_y = 8},/obj/structure/table/wood/fancy/purple,/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"DG" = (/obj/structure/chair/wood/fancy{dir = 4},/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "DI" = (/obj/machinery/light/small{dir = 4},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "DO" = (/obj/structure/chair/office/dark{dir = 4},/turf/open/floor/plasteel/dark,/area/f13/building)
 "DP" = (/obj/structure/chair{dir = 4},/turf/open/floor/carpet/brown,/area/f13/building)
-"Ea" = (/obj/machinery/telecomms/server/presets/command,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"Ea" = (/obj/machinery/telecomms/server/presets/command,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"Ed" = (/obj/effect/decal/cleanable/dirt,/obj/structure/closet/locker,/turf/open/floor/wood/f13/carpet,/area/space)
 "Ej" = (/obj/item/storage/secure/safe{pixel_y = 26},/obj/machinery/light{dir = 1; light_color = "#706891"},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Eo" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
 "Er" = (/obj/structure/table,/obj/machinery/computer/terminal{dir = 4; termtag = "Public"},/turf/open/floor/carpet/red,/area/f13/building)
-"Et" = (/mob/living/carbon/monkey,/turf/open/space/basic,/area/space)
+"Et" = (/mob/living/carbon/monkey,/obj/item/storage/box/monkeycubes,/turf/open/floor/plasteel/dark,/area/space)
 "Ew" = (/obj/structure/window/fulltile/store,/turf/open/floor/plasteel/f13{icon_state = "plating"},/area/f13/building)
 "Ez" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/blood/gibs/human,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
+"EA" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/space)
+"EE" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
+"EK" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "EX" = (/obj/structure/chair/wood/modern,/turf/open/floor/f13{icon_state = "darkdirtysolid"},/area/f13/building)
 "Fb" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
-"Ff" = (/obj/effect/turf_decal/stripes/line{dir = 8},/turf/open/floor/plasteel,/area/f13/tcoms)
+"Ff" = (/obj/effect/turf_decal/stripes/line{dir = 8},/turf/open/floor/plasteel,/area/space)
 "Fh" = (/obj/structure/table/wood/settler,/obj/item/reagent_containers/glass/beaker/waterbottle/large,/obj/item/reagent_containers/glass/beaker/waterbottle/large,/obj/item/reagent_containers/glass/beaker/waterbottle/large,/obj/item/reagent_containers/glass/beaker/waterbottle/large,/obj/item/reagent_containers/glass/beaker/waterbottle/large,/obj/item/reagent_containers/glass/beaker/waterbottle/large,/obj/item/reagent_containers/glass/bottle/nutrient/ez,/obj/item/reagent_containers/glass/bottle/nutrient/ez,/obj/item/reagent_containers/glass/bottle/nutrient/ez,/obj/item/reagent_containers/glass/bottle/nutrient/ez,/obj/item/reagent_containers/glass/bottle/nutrient/ez,/obj/item/reagent_containers/glass/bottle/nutrient/ez,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"Fm" = (/obj/structure/railing{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor/carpet/brown,/area/space)
 "Fp" = (/turf/open/floor/wood/f13/oak{icon_state = "oakfloor1-broken"},/area/f13/building)
+"Ft" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/neutral/neutralchess/neutralchess2,/area/space)
 "Fu" = (/obj/machinery/door/unpowered/securedoor,/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "FF" = (/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "FK" = (/obj/structure/railing{dir = 1},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "FN" = (/obj/structure/shelf_wood,/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"FQ" = (/obj/machinery/telecomms/bus/preset_three,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"FQ" = (/obj/machinery/telecomms/bus/preset_three,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "FW" = (/obj/structure/sign/poster/prewar/poster81,/turf/closed/wall/rust,/area/f13/building)
+"FY" = (/obj/effect/decal/cleanable/dirt,/obj/structure/closet/cabinet,/obj/machinery/light/small/broken,/turf/open/floor/wood/f13/carpet,/area/space)
 "FZ" = (/obj/effect/decal/cleanable/dirt/dust,/obj/structure/closet/crate/bin,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor1-broken"},/area/f13/building)
 "Gf" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/closed/wall/mineral/concrete,/area/f13/building)
+"Gi" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/chair/comfy/brown{dir = 8},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "Gy" = (/obj/structure/table/reinforced,/obj/structure/barricade/bars,/turf/open/floor/plasteel/dark,/area/f13/building)
 "Gz" = (/obj/structure/rack/shelf_metal,/obj/item/stack/sheet/glass/ten,/obj/item/stack/sheet/glass/ten,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"GB" = (/obj/structure/stairs/north{color = "#A47449"},/turf/open/floor/carpet/brown,/area/space)
 "GG" = (/obj/effect/decal/cleanable/dirt/dust,/turf/closed/wall/mineral/concrete,/area/f13/building)
+"GY" = (/obj/structure/table/wood/fancy/purple,/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "Hc" = (/obj/structure/table/reinforced,/obj/item/paper_bin,/obj/item/pen,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Hk" = (/obj/structure/table,/obj/machinery/computer/terminal{dir = 4; termtag = "Public"},/turf/open/floor/plasteel/dark,/area/f13/building)
 "Hl" = (/obj/effect/decal/cleanable/dirt/dust,/obj/structure/chair/comfy/beige,/turf/open/floor/wood/f13/oak,/area/f13/building)
@@ -297,14 +362,17 @@
 "Hx" = (/obj/structure/chair/pew/left,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "HC" = (/obj/structure/table/wood/settler,/obj/item/binoculars,/turf/open/floor/f13{icon_state = "darkdirtysolid"},/area/f13/building)
 "HF" = (/turf/open/floor/plasteel/dark,/area/space)
-"HL" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/plating,/area/f13/tcoms)
+"HL" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/plating,/area/space)
+"HN" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/carpet/brown,/area/space)
 "HR" = (/obj/structure/table,/obj/item/stamp/denied,/obj/item/stamp,/turf/open/floor/plasteel/dark,/area/f13/building)
 "HS" = (/obj/structure/chair/wood,/turf/open/floor/carpet/brown,/area/f13/building)
-"HV" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/item/twohanded/sledgehammer,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
+"HU" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/closet/cabinet,/obj/item/camera,/obj/machinery/light/fo13colored/Red{dir = 8},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
+"HV" = (/obj/structure/table,/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/item/twohanded/sledgehammer,/obj/machinery/light/fo13colored/Red{dir = 4},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
+"Ib" = (/obj/structure/table/wood/poker,/obj/item/toy/cards/deck,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "Ie" = (/obj/structure/table,/obj/machinery/computer/terminal{dir = 8},/turf/open/floor/plasteel/dark,/area/f13/building)
 "Ig" = (/obj/structure/bookcase{icon_state = "book-3"},/turf/open/floor/wood/f13/oak,/area/f13/building)
-"Ip" = (/obj/machinery/telecomms/server/presets/bos,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
-"Iu" = (/obj/machinery/telecomms/processor/preset_two,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"Ip" = (/obj/machinery/telecomms/server/presets/bos,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"Iu" = (/obj/machinery/telecomms/processor/preset_two,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "IL" = (/obj/structure/table,/obj/machinery/computer/terminal{dir = 1; pixel_y = 4},/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/f13/building)
 "IN" = (/obj/structure/chair/stool,/turf/open/floor/carpet/brown,/area/f13/building)
 "IU" = (/obj/structure/bed,/obj/item/bedsheet{icon_state = "sheetbrown"},/turf/open/floor/carpet/brown,/area/f13/building)
@@ -314,44 +382,56 @@
 "Jg" = (/obj/structure/kitchenspike,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "Ji" = (/turf/open/transparent/openspace,/area/f13/building)
 "Jk" = (/obj/structure/chair/wood/fancy,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"Jp" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/item/twohanded/required/kirbyplants/random,/turf/open/floor/carpet/purple,/area/f13/building)
 "Js" = (/obj/structure/table/wood/poker,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Ju" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/table,/obj/item/weldingtool/basic,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
-"Jz" = (/obj/machinery/telecomms/broadcaster/preset_left,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"Jy" = (/obj/item/stack/sheet/animalhide/monkey,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
+"Jz" = (/obj/machinery/telecomms/broadcaster/preset_left,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "JG" = (/obj/structure/closet/cabinet/anchored,/obj/item/storage/pill_bottle/happy,/obj/item/pda,/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "JH" = (/obj/structure/table,/obj/item/reagent_containers/glass/beaker/large,/obj/item/reagent_containers/glass/beaker/large,/obj/item/reagent_containers/glass/beaker/large,/obj/item/reagent_containers/glass/beaker/large,/obj/item/reagent_containers/glass/beaker/large,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/f13/building)
 "JK" = (/obj/structure/table/wood/fancy/purple,/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/item/storage/pill_bottle/happy,/turf/open/floor/carpet/purple,/area/f13/building)
+"Kn" = (/obj/machinery/light{dir = 4},/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"Kv" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/chair/wood/modern{dir = 8},/turf/open/floor/wood/f13/carpet,/area/space)
+"Kw" = (/obj/structure/simple_door/metal,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/carpet,/area/space)
 "KA" = (/obj/structure/simple_door/tent,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/f13/building)
+"KM" = (/obj/machinery/smartfridge/bottlerack,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "KU" = (/obj/structure/railing{dir = 1},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "Lc" = (/obj/structure/bed/pod,/obj/item/bedsheet/hos,/turf/open/floor/carpet/red,/area/f13/building)
 "Lk" = (/turf/open/floor/plasteel/f13/vault_floor/dark{icon_state = "darkrusty"; name = "grimy tile"},/area/f13/building)
-"Ln" = (/obj/machinery/telecomms/bus/preset_four,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"Ln" = (/obj/machinery/telecomms/bus/preset_four,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "Ls" = (/obj/structure/railing{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor4-broken"},/area/f13/building)
 "LG" = (/obj/structure/bed/pod,/obj/item/bedsheet/rd,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "LL" = (/turf/closed/wall/rust,/area/space)
 "LO" = (/obj/structure/bed,/obj/item/bedsheet/rd,/turf/open/floor/carpet/red,/area/f13/building)
-"LQ" = (/obj/structure/falsewall/rust,/turf/open/space/basic,/area/space)
+"LQ" = (/obj/structure/falsewall/rust,/turf/open/floor/plasteel/dark,/area/space)
 "LR" = (/obj/item/shard,/obj/effect/decal/cleanable/glass,/turf/open/floor/plasteel/f13{icon_state = "plating"},/area/f13/building)
 "LV" = (/obj/structure/railing{dir = 1},/obj/machinery/vending/nukacolavend,/turf/open/floor/wood/f13/carpet,/area/f13/building)
-"Me" = (/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"Me" = (/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "Mq" = (/obj/effect/decal/cleanable/dirt,/obj/item/reagent_containers/syringe,/turf/open/floor/plasteel/dark,/area/f13/building)
 "Mx" = (/obj/structure/girder,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"},/area/f13/building)
 "Mz" = (/obj/structure/chair/office/dark{dir = 8},/turf/open/floor/plasteel/dark,/area/f13/building)
+"MA" = (/obj/structure/chair/sofa/corp/right{dir = 1},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "MG" = (/obj/structure/chair/booth,/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/carpet/red,/area/f13/building)
-"MQ" = (/obj/machinery/telecomms/server/presets/legion,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"MJ" = (/obj/structure/chair/sofa/corp/left{dir = 1},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
+"MK" = (/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small,/turf/open/floor/wood/f13/carpet,/area/space)
+"MQ" = (/obj/machinery/telecomms/server/presets/legion,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "MZ" = (/obj/item/chair/wood,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"Ne" = (/obj/structure/table/wood/poker{name = "felt table"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "Nf" = (/obj/structure/bookshelf,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Nk" = (/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor2-broken"},/area/f13/building)
 "Nl" = (/obj/structure/dresser,/obj/machinery/light{dir = 1; light_color = "#706891"},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Nm" = (/obj/structure/chair/wood/normal{dir = 8},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "No" = (/obj/structure/legion_extractor,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Ns" = (/obj/structure/chair/office/dark{dir = 4},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
+"NC" = (/turf/closed/indestructible/riveted,/area/space)
 "ND" = (/obj/structure/rack/shelf_metal,/obj/machinery/light{dir = 1; light_color = "#706891"},/turf/open/floor/wood/f13/oak,/area/f13/building)
-"NI" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable,/turf/open/floor/plating,/area/f13/tcoms)
+"NI" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable,/turf/open/floor/plating,/area/space)
+"NO" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/carpet/brown,/area/space)
 "NQ" = (/obj/effect/decal/cleanable/dirt,/obj/structure/bed/mattress{icon_state = "mattress1"; pixel_y = 1},/turf/open/floor/wood/f13/oak{icon_state = "oakfloor1-broken"},/area/f13/building)
 "NR" = (/obj/structure/fermenting_barrel,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"NY" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-2"},/turf/open/floor/plating,/area/f13/tcoms)
+"NY" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-2"},/turf/open/floor/plating,/area/space)
 "Oc" = (/obj/structure/stairs/north{color = "#A47449"},/turf/open/floor/plasteel/f13/vault_floor/dark{icon_state = "darkrusty"; name = "grimy tile"},/area/f13/building)
-"Oh" = (/obj/structure/table,/obj/item/multitool,/turf/open/floor/plasteel/yellow/side{dir = 9},/area/f13/tcoms)
+"Oh" = (/obj/structure/table,/obj/item/multitool,/turf/open/floor/plasteel/yellow/side{dir = 9},/area/space)
 "On" = (/obj/machinery/hydroponics/soil/pot,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor1-broken"},/area/f13/building)
 "Op" = (/obj/structure/bookcase{icon_state = "book-2"},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Oq" = (/obj/structure/simple_door/metal/store{icon_state = "brokenstore"},/turf/open/floor/plasteel/f13/vault_floor/dark{icon_state = "darkrusty"; name = "grimy tile"},/area/f13/building)
@@ -362,14 +442,16 @@
 "OH" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "OQ" = (/obj/machinery/hydroponics/soil/pot,/obj/effect/decal/cleanable/dirt,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "OT" = (/obj/structure/filingcabinet,/turf/open/floor/wood/f13,/area/f13/building)
-"OY" = (/obj/machinery/computer/telecomms/server{dir = 4; network = "tcommsat"},/turf/open/floor/plasteel/yellow/side{dir = 10},/area/f13/tcoms)
+"OY" = (/obj/machinery/computer/telecomms/server{dir = 4; network = "tcommsat"},/turf/open/floor/plasteel/yellow/side{dir = 10},/area/space)
 "OZ" = (/obj/structure/railing{dir = 8},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Pn" = (/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
+"Ps" = (/obj/effect/decal/cleanable/dirt,/obj/structure/bed/old,/obj/structure/destructible/tribal_torch/wall/lit{dir = 1; pixel_y = 12},/turf/open/floor/wood/f13/old{icon_state = "housebase"},/area/space)
 "Pz" = (/obj/structure/closet/crate/wooden,/obj/machinery/light{dir = 1; light_color = "#706891"},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "PH" = (/obj/structure/tires/five,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/space)
 "PK" = (/obj/structure/girder,/turf/open/floor/plasteel/f13/vault_floor/plating,/area/f13/building)
 "PN" = (/obj/structure/closet/crate/wooden,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "PP" = (/obj/structure/simple_door/metal/store{icon_state = "brokenstore"},/turf/open/floor/plasteel/dark,/area/f13/building)
+"PS" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small{dir = 8},/turf/open/floor/carpet/brown,/area/space)
 "PT" = (/turf/open/floor/wood/f13/oak{icon_state = "oakfloor2-broken"},/area/f13/building)
 "PV" = (/obj/structure/railing{dir = 4},/obj/structure/filingcabinet/medical,/turf/open/floor/plasteel/dark,/area/f13/building)
 "Qd" = (/obj/structure/closet/cabinet,/turf/open/floor/wood/f13/oak,/area/f13/building)
@@ -377,9 +459,11 @@
 "Qj" = (/obj/item/reagent_containers/syringe,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/space)
 "Qo" = (/obj/structure/stairs/north{color = "#A47449"},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "Qp" = (/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor2-broken"},/area/f13/building)
-"QA" = (/obj/structure/table/glass,/obj/item/reagent_containers/pill/happy,/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"Qr" = (/obj/structure/junk/small/tv{pixel_y = 7},/obj/structure/table/glass,/turf/open/floor/carpet/purple,/area/f13/building)
+"Qz" = (/obj/machinery/light,/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
+"QA" = (/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"},/area/space)
 "QB" = (/turf/open/floor/wood/f13,/area/f13/building)
-"QI" = (/obj/machinery/computer/telecomms/monitor{dir = 4; network = "tcommsat"},/turf/open/floor/plasteel/yellow/side{dir = 8},/area/f13/tcoms)
+"QI" = (/obj/machinery/computer/telecomms/monitor{dir = 4; network = "tcommsat"},/turf/open/floor/plasteel/yellow/side{dir = 8},/area/space)
 "QJ" = (/obj/structure/table/snooker{dir = 10},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "QL" = (/obj/structure/fermenting_barrel,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "QO" = (/obj/machinery/gibber,/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
@@ -390,22 +474,26 @@
 "RD" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/bed/mattress{icon_state = "mattress2"; pixel_y = 7},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "RO" = (/obj/structure/simple_door/metal/store,/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/plasteel/dark,/area/f13/building)
 "RR" = (/obj/structure/table,/obj/item/hand_labeler,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/f13/building)
-"RV" = (/obj/machinery/telecomms/bus/preset_two,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"RV" = (/obj/machinery/telecomms/bus/preset_two,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "Sa" = (/turf/open/floor/plasteel/dark,/area/f13/building)
 "Si" = (/obj/structure/table/reinforced,/obj/machinery/computer/terminal{dir = 4; pixel_y = 3; termtag = "Business"},/turf/open/floor/wood/f13/oak,/area/f13/building)
-"Sl" = (/obj/machinery/telecomms/receiver/preset_right,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"Sl" = (/obj/machinery/telecomms/receiver/preset_right,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"Sp" = (/obj/structure/chair/wood/modern{dir = 8},/obj/effect/decal/cleanable/dirt,/obj/machinery/light/small{dir = 4},/turf/open/floor/carpet/brown,/area/space)
 "Sy" = (/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/space)
 "Sz" = (/obj/structure/chair/f13chair2{dir = 8},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "SA" = (/obj/structure/sign/poster/official/help_others,/turf/closed/wall/rust,/area/f13/building)
 "SE" = (/obj/structure/sign/poster/prewar/poster73,/turf/closed/wall/rust,/area/f13/building)
 "SF" = (/turf/open/floor/carpet/red,/area/f13/building)
-"SI" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-2"},/obj/structure/cable{icon_state = "0-8"},/turf/open/floor/plating,/area/f13/tcoms)
+"SI" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/cable{icon_state = "0-2"},/obj/structure/cable{icon_state = "0-8"},/turf/open/floor/plating,/area/space)
 "SK" = (/obj/structure/window/fulltile/house{icon_state = "storewindowbottom"},/obj/structure/curtain{color = "#5c131b"},/turf/open/floor/plasteel/f13{icon_state = "plating"},/area/f13/building)
 "SQ" = (/obj/structure/bed/mattress{icon_state = "mattress2"; pixel_y = 7},/obj/item/reagent_containers/pill/patch/jet,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/space)
+"ST" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/destructible/tribal_torch/wall/lit{dir = 8},/turf/open/floor/carpet/brown,/area/space)
 "SU" = (/obj/structure/bed/pod{pixel_y = 14},/obj/item/bedsheet/patriot{pixel_y = 14},/turf/open/floor/wood/f13/oak{icon_state = "oakfloor4-broken"},/area/f13/building)
-"SV" = (/obj/machinery/telecomms/server/presets/engineering,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"SV" = (/obj/machinery/telecomms/server/presets/engineering,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"SX" = (/obj/effect/decal/cleanable/dirt,/obj/structure/dresser,/turf/open/floor/wood/f13/carpet,/area/space)
 "Tf" = (/obj/structure/table,/obj/item/stamp/denied,/obj/item/stamp,/obj/effect/spawner/lootdrop/trash,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
 "Tg" = (/turf/open/transparent/openspace,/area/space)
+"Ti" = (/obj/machinery/door/unpowered/securedoor,/turf/open/space/basic,/area/f13/building)
 "Tk" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "Ts" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/table,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "Tt" = (/obj/structure/window/fulltile/store{icon_state = "ruinswindowbroken"},/obj/structure/barricade/wooden/planks,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"},/area/f13/building)
@@ -413,54 +501,68 @@
 "Tv" = (/obj/structure/table/wood/settler,/obj/machinery/computer/terminal{dir = 4; pixel_y = 3; termtag = "Business"},/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Tw" = (/obj/machinery/door/airlock/vault,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "TC" = (/obj/machinery/door/unpowered/securedoor,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"TD" = (/obj/machinery/telecomms/server/presets/vault,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
-"TF" = (/obj/machinery/telecomms/server/presets/enclave,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"TD" = (/obj/machinery/telecomms/server/presets/vault,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
+"TF" = (/obj/machinery/telecomms/server/presets/enclave,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "TJ" = (/turf/open/floor/wood/f13/oak,/area/space)
 "TL" = (/obj/structure/simple_door/room,/turf/open/floor/wood/f13/oak,/area/space)
-"TQ" = (/obj/structure/chair/sofa/corp/right{dir = 8},/turf/open/floor/carpet/purple,/area/f13/building)
-"TX" = (/obj/structure/closet/emcloset,/turf/open/floor/plasteel,/area/f13/tcoms)
+"TQ" = (/obj/structure/chair/sofa/corp/right{dir = 8},/obj/machinery/light{dir = 4},/turf/open/floor/carpet/purple,/area/f13/building)
+"TX" = (/obj/structure/closet/emcloset,/turf/open/floor/plasteel,/area/space)
 "Ub" = (/obj/structure/table/wood/settler,/turf/open/floor/carpet/brown,/area/f13/building)
 "Uq" = (/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak,/area/f13/building)
-"UI" = (/turf/closed/indestructible/rock,/area/f13/caves)
+"Ur" = (/obj/structure/closet/cabinet,/obj/item/clothing/mask/gas/monkeymask,/obj/item/clothing/suit/monkeysuit,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
+"Uu" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/item/twohanded/required/kirbyplants/random,/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"UI" = (/turf/closed/indestructible/rock,/area/space)
 "UP" = (/turf/open/floor/wood/cold,/area/f13/building)
 "Vc" = (/obj/structure/table,/obj/item/reagent_containers/food/drinks/bottle/f13nukacola,/turf/open/floor/wood/f13/carpet,/area/f13/building)
+"Vj" = (/obj/structure/bed/old,/obj/item/bedsheet/brown,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/grimy,/area/space)
 "Vt" = (/obj/structure/table/optable,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "VA" = (/obj/structure/bookcase{icon_state = "book-2"},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "VG" = (/obj/structure/closet/locker,/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"VL" = (/obj/effect/decal/cleanable/dirt,/obj/structure/table_frame/wood,/turf/open/floor/wood/f13/carpet,/area/space)
 "VY" = (/obj/structure/window/reinforced/spawner/east,/obj/structure/table/wood/fancy/red,/obj/item/clothing/mask/rat/raven,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "VZ" = (/obj/structure/chair/booth{dir = 8},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "Wa" = (/obj/structure/chair/office/dark{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
-"Wb" = (/obj/machinery/light{dir = 8},/turf/open/floor/circuit/telecomms/mainframe,/area/f13/tcoms)
+"Wb" = (/obj/machinery/light{dir = 8},/turf/open/floor/circuit/telecomms/mainframe,/area/space)
 "Wc" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "Wh" = (/obj/machinery/light{dir = 1; light_color = "#706891"},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "WJ" = (/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor1-broken"},/area/f13/building)
-"Xd" = (/obj/item/radio/intercom{dir = 8; freerange = 1; name = "Station Intercom (Telecomms)"; pixel_y = 26},/turf/open/floor/plasteel,/area/f13/tcoms)
+"WT" = (/obj/structure/table/wood/poker,/obj/effect/decal/cleanable/dirt,/turf/open/floor/carpet/brown,/area/space)
+"WU" = (/obj/effect/decal/cleanable/dirt,/obj/structure/table/wood/settler,/turf/open/floor/wood/f13/carpet,/area/space)
+"Xd" = (/obj/item/radio/intercom{dir = 8; freerange = 1; name = "Station Intercom (Telecomms)"; pixel_y = 26},/turf/open/floor/plasteel,/area/space)
+"Xe" = (/obj/effect/decal/cleanable/dirt,/obj/structure/bed/old,/turf/open/floor/wood/f13/old{icon_state = "housebase"},/area/space)
 "Xs" = (/obj/structure/railing{dir = 4},/turf/open/floor/wood/f13/oak,/area/f13/building)
 "Xt" = (/obj/machinery/light{dir = 8},/turf/open/floor/wood/f13/carpet,/area/f13/building)
-"XC" = (/obj/machinery/telecomms/processor/preset_three,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/f13/tcoms)
+"Xy" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/machinery/light{dir = 4},/turf/open/floor/wood/wood_tiled,/area/f13/building)
+"XC" = (/obj/machinery/telecomms/processor/preset_three,/turf/open/floor/plasteel/dark/telecomms/mainframe,/area/space)
 "XF" = (/obj/structure/chair/stool/bar,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "XI" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
 "XQ" = (/obj/structure/chair/wood/fancy{dir = 4},/turf/open/floor/carpet/red,/area/f13/building)
+"Yd" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/machinery/light/fo13colored/Red{dir = 8},/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "Ye" = (/obj/structure/table,/obj/item/electropack/shockcollar,/obj/item/electropack/shockcollar,/obj/item/assembly/signaler,/obj/item/assembly/signaler,/obj/item/assembly/signaler,/obj/item/assembly/signaler,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
+"Yi" = (/obj/structure/chair/wood/normal{dir = 8},/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/wood/wood_tiled,/area/f13/building)
 "Yy" = (/obj/structure/closet/locker,/obj/effect/decal/cleanable/dirt/dust,/turf/open/floor/wood/f13/oak{icon_state = "oakfloor1-broken"},/area/f13/building)
 "Yz" = (/obj/structure/bed/pod,/obj/item/bedsheet/brown,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "YA" = (/obj/machinery/chem_dispenser/fullupgrade,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"; sunlight_state = 1},/area/f13/building)
 "YK" = (/obj/structure/table,/obj/item/stamp/denied,/obj/item/stamp,/obj/effect/decal/cleanable/dirt,/obj/item/reagent_containers/pill/stimulant,/turf/open/floor/plasteel/dark,/area/f13/building)
 "YM" = (/obj/structure/table,/obj/machinery/computer/terminal{dir = 4; termtag = "Public"},/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
-"YP" = (/obj/item/radio/intercom{name = "Station Intercom (General)"; pixel_y = -35},/turf/open/floor/plasteel,/area/f13/tcoms)
+"YN" = (/obj/structure/fireplace,/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/carpet/purple,/area/f13/building)
+"YP" = (/obj/item/radio/intercom{name = "Station Intercom (General)"; pixel_y = -35},/turf/open/floor/plasteel,/area/space)
 "YS" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "YU" = (/obj/structure/closet/locker,/turf/open/floor/wood/f13/oak,/area/f13/building)
+"YZ" = (/obj/effect/decal/cleanable/dirt,/obj/effect/decal/cleanable/dirt,/obj/structure/bed/old,/turf/open/floor/wood/f13/carpet,/area/space)
 "Zc" = (/obj/structure/table/wood/poker,/obj/item/reagent_containers/food/drinks/bottle/f13nukacola{pixel_y = 12},/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "Zd" = (/obj/structure/chair/stool/retro,/turf/open/floor/carpet/brown,/area/f13/building)
+"Zg" = (/obj/structure/girder,/turf/open/floor/plating,/area/space)
 "Zu" = (/obj/structure/closet/crate/bin,/obj/item/storage/secure/safe{pixel_x = 31},/turf/open/floor/wood/f13,/area/f13/building)
 "ZA" = (/obj/structure/table,/obj/machinery/computer/terminal{dir = 8},/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/dark,/area/f13/building)
+"ZB" = (/obj/effect/decal/cleanable/dirt/dust,/obj/effect/landmark/start/f13/don,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "ZM" = (/obj/structure/bed/pod,/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/item/bedsheet/hos,/turf/open/floor/carpet/red,/area/f13/building)
 "ZP" = (/obj/structure/rack,/turf/open/floor/wood/f13/carpet,/area/f13/building)
 "ZQ" = (/obj/machinery/hydroponics/soil/pot,/turf/open/floor/wood/f13/oak,/area/f13/building)
 "ZU" = (/obj/effect/decal/cleanable/dirt{color = "000000"},/obj/structure/closet/cabinet,/obj/item/camera,/turf/open/floor/plasteel/f13/vault_floor/red/white,/area/f13/building)
 "ZV" = (/obj/effect/decal/cleanable/dirt/dust,/obj/structure/window/fulltile/store{icon_state = "ruinswindowdestroyed"},/obj/structure/barricade/wooden/planks,/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{name = "metal plating"},/area/f13/building)
 "ZW" = (/obj/machinery/door/unpowered/securedoor,/turf/open/floor/wood/f13,/area/f13/building)
-"ZX" = (/obj/machinery/light_switch{pixel_x = 27},/turf/open/floor/plasteel,/area/f13/tcoms)
+"ZX" = (/obj/machinery/light_switch{pixel_x = 27},/turf/open/floor/plasteel,/area/space)
 "ZY" = (/obj/structure/table/wood/settler,/turf/open/floor/wood/f13/oak,/area/f13/building)
 
 (1,1,1) = {"
@@ -536,82 +638,82 @@ TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
 TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
 TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
 TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTgTgTgTgTgTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCuCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgTgTgTgCCiUiUiUiUiUiUHxbtbtdsiUCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgTgTgTgCCiUiUiUiUiUiUiUiUiUiUiUCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgTgTgTgCCiUiUCCCCCCCCCCCCCCCCFpzsCCCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgTgTgTgCCiUiUCCvViNRdRdSFauCCiUiUiUsxsxCCOTOTAgZuCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgCCCCCCCCCCiUbaCCSFSFSFSFSFlQCCXsJiJiOZiUCCQBQBQBQBldTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgCCtvfUrXCCiUiUCCBoSFSFsASFauCCiUFKFKPTiUZWQBSFinSFBVTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteNQBrBrBrteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgCCUbINCacIiUiUCCCYSFSFLOSFSFCCiUthiUiUiUCCQBgsErzNCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgtedmteZVteTttedmtehUNkXsJiteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgHFHFHFHFHFHFHFHFHFTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgCCCCCCCCCCiUiUCCCCnzCCCCCCCCCCiUiUtCJstCCCQBgsiWSFCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteLsNRBrNRQZBKBKBKBriUBrFKteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgHFHFHFHFHFHFHFHFHFTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgsjuZCaCacIiUiUCCCaCaCaFWfoCaCCiUCCCCCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgterFNRzjQLQZNkBriUBrbaiUxuteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgHFHFHFHFHFHFHFHFHFTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgpkpkpkpkpkpkpkpkpkTgTgTgTgTgTgTgCCtvCaHSCCiUiUCCDPUbCanzCaCanziUCCtvIUrXCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteteteteterFAUiUNROZBrkuiUBrBriUBrteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgHFHFHFHFHFHFHFHFHFTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgTgpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgCCrXCaUbCCiUiUCCCCCCCCCCCCCCCCiUCCCaCaCaCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteOQOnZQZQtMthiUBriUiUxezJiUvTBrGzBrteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgHFHFHFHFHFHFHFHFHFTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgTgpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgCCCCCCCCCCiUiUiUiUiUiUiUiUiUbaiUcICaCaCaCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgtezjBriUiUNkiUiUiUbaBrBrdVBrzxkuOzzjteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgHFHFHFHFHFHFHFHFHFTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgTgpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgTgTgCCJiCCiUFpiUiUiUiUiUiUiUiUiUCCZduuZdCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteqvJbFhNogxOzgJgJgJxuNkdVBruhBrOzdDteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFTgTgpkpkpkpkpkpkpkTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCSECCCCCCCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteGGteteteteteteteteteteteteteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTJTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgHFHFHFHFHFTgTgTgTgTgTgTgpkTgTgTgTgTgpkTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgtetetetetetetetemamamatetetemamamatemamamamamateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteEwLRLRteteEwEwEwteCyPPteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteFFFuFFFFteZMgqqLeMpzteLcgqIWnCpzteLGphaZWceVteTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQATgTgteteteteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteJiteYSYStekRgqWcOrKntekRkRWcWcXyGfbhphaZOrDDSKTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQATgTgteegegROSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTJTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteteYSYSteOvWcWcOrCLteOvWcTkTkUuGfaZaZaZWcAZSKTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQATgTgtenwteteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgyLyLCCCCCCCCyLCCCCCCCCyLCCyLyLTgTgTgTgteteteYSYSteiwyaxyWcTkteotyaxyWcWcteqJWcOrjCWcSKTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQATgTgTgTgTgteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgCCizUPUPyLLkLkyLyLyLyLLkLkLkyLTgTgTgTgteqOteFFFFtetetetetewCteteteteteBqteJGWcWcJkWcSKTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQATgTgteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgTgTgTgTgCCUPdGUPyLLkLkyLOcOcyLLkLkLkCCTgTgTgTgtelScJYSYSFFFFFFYSYSYSYSYSYSYSFFFFteRqWchCOBsuteTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQATgTgDgSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJyxTJTgTgTgTgTJTJTJTJTJTgTgTJTJTJTJTJTJTJTJTgTgTgTgTgyLdGUPUPUPLkLkLkLkLkLkLkLkLkCCTgTgTgTgteckteYSYSFFYSYSYSYSYSYSFFFFYSYSYSTiWcWcqZvyjOteTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQATgTgteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJjSTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCyLyLCCCCLkCCCCCCCCyLyLLkLkyLTgTgTgTgteteteteteteteteteteTiteteteteteTitetewCteteteteTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQATgTgteSaSaSaSateteteteteteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRlRlRlRlRlRlRlRlRlRlRlRlRlRlRlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJEATJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCdGUPUPCCLkyLUPUPUPUPCCLkLkCCTgTgTgTgkJxpYNQraMphphsfXIueXIXIXIphteOHPnPnzFOHFbopYeteTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQATgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRgJgJgJgJgJNDSiiUlRPNPNPzPNPNlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCUPUPUPyLLkCCUPdGUPUPyLLkLkCCTgTgTgTgkJzgCszgXIXIXIXIAByuQJXIJKTQteYdOHBlVYOHoKFbHVteTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQATgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRiBiUiUiUiUiUiUiUTwiUiUiUiUBvlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLLLLLLLLLLLLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTgTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgyLUPizUPUPLkyLizUPizUPUPLkLkCCTgTgTgTgkJDGGYxiuXXIXIXIwKjitiXIfnfateOHOHBlHtOHFbOHVtteTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQATgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRAcAcAcAcAcAciUiUlRIYIYHciUmXlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJyxyxyxyxTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCyLLkyLyLCCCCyLyLLkLkyLTgTgTgTgteBFGYxiuXXIXIXIphphXIXIrEjYteHUOHBlVYOHFbOHDBteTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQATgTgteJiSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRlRlRlRlRlRlRlRTwlRlRlRlRlRlRlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTgTgTgTgTgTgTgTgCCCCCCPKuHCCCCCCCCCCCCCCCCCCCCTgTgTgTgTgyLizUPUPyLLkCCizUPUPUPyLLkLkOqTgTgTgTgkJDGvIxiuXXIgcXFqhfMJpXIXIXIteZUOHBlVYOHBcTsJuteTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQATgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCpQYzQdWhOpIgCCmvdfdfFFFFFFgNCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTJTJTJTJTJTgTgTgTgTgTgTgCCkEkEuykdEoEoEokEuysXPVkGkGCCTgTgTgTgTgyLUPUPUPUPLkCCnShQUPUPUPLkLkOqTgTgTgTgkJXICsXIXINetemamamamamamamateteteteteteteteteteTgTgTgTgTgTgQAQAQAQAQAQAQAQAQATgTgTgTgTgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCtjkeiUiUiUiUCCFFwSwSVZaOJiJiCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTgTgTgTgTguHvxvxvxkEvxvxvxvxEokdgzkEkEzrTgTgTgTgTgyLUPdGnSyLLkCCUPizdGUPyLLkLkyLTgTgTgTgkJxpQzXIXICVcCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQATgTgTgTgTgTgteteteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCZYNmiUijiUiUTCFFFFFFFFFFKULVCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgxGHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTguHDxoYvxkEvxoYDxvxCSEokEMquyAETgTgTgTgTgyLyLyLyLyLyLyLyLyLyLCCCCyLyLyLTgTgTgTgtetetewCteteteTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCCCFFCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgxGHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgPKYMeNkEEoSaWaZAvxCSEovxvxvxuHTgTgTgTgTgTgTgTgTgTgTgTgTgTJTJTgTgLLTgTgTgTgTgTgGGLcgqWcWcCLteTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNoNoNoNoNoNoNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCYzpQhRIgijCCVcFFCCaxvbWhIgYzCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFTgHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgCCvxvxvxMqvxvxvxvxCSAivxoYDxCCTgTgTgTgTgQAQAQAQAQATgTgTJTJTJTJTgTgTgTgTgTgTgTgGGgqgqWcWckyteTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNQdUqUqiUZBbyoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCxciUiUiUiUTCFFFFCCpQiUiUiUkeCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgCCDxrBvxkEvxYKDxvxsXkEkEWaZACCTgTgTgTgTgQAQAQAQAQATgTJTJTJTJTJTJTJTgTgTgTgTgTgteOvWcWcWcGikJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPTgTgkPkPkPkPTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNQdUqtototoSUoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCtjiUiUiUBKCCFFFFTCiUmqijPNQdCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgCCDqeNdZEokENsxNvxCCCCCCCCtTCCTgTgTgTgTgQAQAQAQAQAQATJTJTJTJTJTJTJTJTJTgTgTgTgteyQWcWcWcTkkJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPTgTgTgkPkPkPTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNUqWJXQqWtopQoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCaxdziUiUgdCCFFVcCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLLLLLLLLLLLLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgCCvxvxvxuyvxvxvxvxoeJgbXeXodCCTgTgTgTgTgQAQAQAQAQAQATJTJTJTJTJTJTJTJTJTgTgTgTgtexyyahOhoYikJTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPTgTgkPkPkPkPTgTgTgTgTgTgTgTgoNoNoNoNoNoNoNoNTCoNoNoNoNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCFFFFTCiUiUEjiUYzCCTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLTJTJTJTJTJTJLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgCCDxTfvxkEvxHRBQvxodEzodododCCTgTgTgTgTgQAQAQAQAQAQATJTJTJTJTJTJTJTJTJTgTgTgTgtetetemamamateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgoNNfNfUqFpUqoNDlUqUqHlbaBvoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCYzpQhROpIgCCFFFFCCQdaxdzpQkeCCTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLTgLLTJTJTJTJTLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTguHDqeaSakElODOIevxoeJgQObYRDCCTgTgTgTgTgQAQAQAQAQAQATJTJTJTJTJTJTJTJTgTgTgTgTgkPkPkPkPkPkPTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgoNiUiUiUXsJioNBOUqqRlJHviUoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCkeiUiUiUiUTCFFFFCCCCCCCCCCCCCCTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLLLLLTJTJTJTJgKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgPKvxvxvxkEvxvxvxvxCCCCCCCCCCCCTgTgTgTgTgQAQAQAQAQAQATgTJTJTJTJTJTJTJTgTgTgTgTgkPkPkPkPkPkPTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgoNtoMGwYtorCoNWJUqrQrQAYWJoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCaxdzijiUBvCCFFFFFFZPZPVAvlVACCTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLTJTJTJTJTJTJiJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgCCBQHRvxMqkEkEkEkEkEkEkEEoEoCCTgTgTgTgTgQAQAQAQAQAQATgTJTJTJTJTJTJTJTJTgTgTgTgkPkPkPkPkPkPTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgTgoNtomNinSFUqTCUqoNoNoNoNoNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCTCCCXtFFFFFFFFFFCCTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLTJTJTJTJTJTJiJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgCCHkMzlhkEkElOCCCCCCCCCCkEkEPKTgTgTgTgTgQAQAQAQAQAQATgTJTJTJTJTgTJTgTJTgTgTgTgkPkPkPkPkPkPTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgTgoNtohNQUtoBwoNoNoNTuFNFNFNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCYzNlOpIgOpIgiUCCFFFFFFFFhaaeCCTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLTJTJTJTJTJTJLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgCCvxvxvxgvkESaeYkEWaZACCkEkECCTgTgTgTgTgQAQAQAQAQAQATJTJTJTJTgTJTJTJTgTgTgTgTgkPkPkPkPkPkPTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgTgoNzHUqiUiUthoNTviUWJUqUqFpoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCkeiUiUiUiUiUDICCfHlYSzaOQoBZCCTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLTJTJTJTJTJTJgKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgPKDxYKvxyTkESaCCkEkEkEbOkEMqPKTgTgTgTgTgQAQAQAQAQAQATJTJTJTJTgTJTJTgTgTgTgTgTgkPkPkPkPkPkPTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgoNbZWJiUUqUqTCdobaoinTFNFNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCQdiUijaxdziUBvCCfHZcSzFFFFFFCCTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLTJTJTJTJTJTJLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgCCYMeNuykESaqsCCsXsXWaGykEkECCTgTgTgTgTgQAQAQAQAQATgTJTJTJTJTgTJTgTgTgTgTgTgTgkPkPkPkPkPkPTgTJTJTJTJTJTJTJTJTJTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPkPkPkPkPkPkPkPTgTgTgTgTgTgTgTgoNoNmFmFmFoNoNoNoNoNoNoNoNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLTJTJTJTJTJTJgKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTJTJTJTJTJTJTJTJTJTgTgTgTgPKPKCCPKCCPKCCMxCCCCCCCCPPPPCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgkPkPkPkPkPkPTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQALLLLLLgKgKgKLLLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
 TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
 TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
 TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCuCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCiUiUiUiUiUiUHxbtbtdsiUCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCiUiUiUiUiUiUiUiUiUiUiUCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCiUiUCCCCCCCCCCCCCCCCFpzsCCCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCiUiUCCvViNRdRdSFauCCiUiUiUsxsxCCOTOTAgZuCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCiUbaCCSFSFSFSFSFlQCCXsJiJiOZiUCCQBQBQBQBldTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCtvfUrXCCiUiUCCBoSFSFsASFauCCiUFKFKPTiUZWQBSFinSFBVTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteNQBrBrBrteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCUbINCacIiUiUCCCYSFSFLOSFSFCCiUthiUiUiUCCQBgsErzNCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgtedmteZVteTttedmtehUNkXsJiteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCiUiUCCCCnzCCCCCCCCCCiUiUtCJstCCCQBgsiWSFCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteLsNRBrNRQZBKBKBKBriUBrFKteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgsjuZCaCacIiUiUCCCaCaCaFWfoCaCCiUCCCCCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgterFNRzjQLQZNkBriUBrbaiUxuteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCtvCaHSCCiUiUCCDPUbCanzCaCanziUCCtvIUrXCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteteteteterFAUiUNROZBrkuiUBrBriUBrteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCrXCaUbCCiUiUCCCCCCCCCCCCCCCCiUCCCaCaCaCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteOQOnZQZQtMthiUBriUiUxezJiUvTBrGzBrteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCiUiUiUiUiUiUiUiUiUbaiUcICaCaCaCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgtezjBriUiUNkiUiUiUbaBrBrdVBrzxkuOzzjteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCJiCCiUFpiUiUiUiUiUiUiUiUiUCCZduuZdCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteqvJbFhNogxOzgJgJgJxuNkdVBruhBrOzdDteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCSECCCCCCCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteGGteteteteteteteteteteteteteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
 TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
 TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgtetetetetetetetemamamatetetemamamatemamamamamateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteEwLRLRteteEwEwEwteCyPPteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteFFFuFFFFteZMgqqLeMpzteLcgqIWnCpzteLGphaZWceVteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteteteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteJiteYSYStekRgqWcOrOrtekRkRWcWcWcGfbhphaZOrDDSKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteegegROSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteteYSYSteOvWcWcOrOrteOvWcTkTkWcGfaZaZaZWcAZSKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgtenwteteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgyLyLCCCCCCCCyLCCCCCCCCyLCCyLyLTgTgTgTgteteteYSYSteiwWcxyWcTkteotWcxyWcWcteqJWcOrjCWcSKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCizUPUPyLLkLkyLyLyLyLLkLkLkyLTgTgTgTgteqOteFFFFtetetetetewCteteteteteBqteJGWcWcJkWcSKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCUPdGUPyLLkLkyLOcOcyLLkLkLkCCTgTgTgTgtelScJYSYSFFFFFFYSYSYSYSYSYSYSFFFFteRqWchCOBsuteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgDgSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgyLdGUPUPUPLkLkLkLkLkLkLkLkLkCCTgTgTgTgteckteYSYSFFYSYSYSYSYSYSFFFFYSYSYSBqWcWcqZvyjOteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteSaSaSaSaSaSaSaSaSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCyLyLCCCCLkCCCCCCCCyLyLLkLkyLTgTgTgTgtetetetetewCteteteteBqteteteteteBqtetewCteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteSaSaSaSateteteteteteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRlRlRlRlRlRlRlRlRlRlRlRlRlRlRlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCdGUPUPCCLkyLUPUPUPUPCCLkLkCCTgTgTgTgteLcgqWcWcOrtesfXIXIXIXIXIphteOHPnPnzFOHFbopYeteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRgJgJgJgJgJNDSiiUlRPNPNPzPNPNlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCUPUPUPyLLkCCUPdGUPUPyLLkLkCCTgTgTgTgtegqgqWcWcQAteXIAByuQJXIJKTQteOHOHBlVYOHoKFbHVteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRiBiUiUiUiUiUiUiUTwiUiUiUiUBvlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLLLLLLLLLLLLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgyLUPizUPUPLkyLizUPizUPUPLkLkCCTgTgTgTgteOvWcWcOrpkteXIwKjitiXIfnfateOHOHBlHtOHFbOHVtteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRAcAcAcAcAcAciUiUlRIYIYHciUmXlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCyLLkyLyLCCCCyLyLLkLkyLTgTgTgTgteBFWcWcOrWcteXIphphXIXIrEjYteZUOHBlVYOHFbOHDBteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteJiSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTglRlRlRlRlRlRlRlRTwlRlRlRlRlRlRlRTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCPKuHCCCCCCCCCCCCCCCCCCCCTgTgTgTgTgyLizUPUPyLLkCCizUPUPUPyLLkLkOqTgTgTgTgtexyWcqLeMpzteXFqhfMXIXIXIXIteZUOHBlVYOHBcTsJuteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCpQYzQdWhOpIgCCmvdfdfFFFFFFgNCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCkEkEuykdEoEoEokEuysXPVkGkGCCTgTgTgTgTgyLUPUPUPUPLkCCnShQUPUPUPLkLkOqTgTgTgTgtetetemamamatemamamamamamamateteteteteteteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteSaSaSaSateTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCtjkeiUiUiUiUCCFFwSwSVZaOJiJiCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTguHvxvxvxkEvxvxvxvxEokdgzkEkEzrTgTgTgTgTgyLUPdGnSyLLkCCUPizdGUPyLLkLkyLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgteteteteteteTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCZYNmiUijiUiUTCFFFFFFFFFFKULVCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgxGHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTguHDxoYvxkEvxoYDxvxCSEokEMquyAETgTgTgTgTgyLyLyLyLyLyLyLyLyLyLCCCCyLyLyLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCCCFFCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgxGHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgPKYMeNkEEoSaWaZAvxCSEovxvxvxuHTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNoNoNoNoNoNoNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCYzpQhRIgijCCVcFFCCaxvbWhIgYzCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFTgHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCvxvxvxMqvxvxvxvxCSAivxoYDxCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNQdUqUqiUUqbyoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCxciUiUiUiUTCFFFFCCpQiUiUiUkeCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCDxrBvxkEvxYKDxvxsXkEkEWaZACCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNQdUqtototoSUoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCtjiUiUiUBKCCFFFFTCiUmqijPNQdCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCDqeNdZEokENsxNvxCCCCCCCCtTCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNUqWJXQqWtopQoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCaxdziUiUgdCCFFVcCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLLLLLLLLLLLLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCvxvxvxuyvxvxvxvxoeJgbXeXodCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNoNoNoNoNoNoNoNTCoNoNoNoNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCFFFFTCiUiUEjiUYzCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLTJTJTJTJTJTJLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCDxTfvxkEvxHRBQvxodEzodododCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNNfNfUqFpUqoNDlUqUqHlbaBvoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCYzpQhROpIgCCFFFFCCQdaxdzpQkeCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLTgLLTJTJTJTJTLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTguHDqeaSakElODOIevxoeJgQObYRDCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNiUiUiUXsJioNBOUqqRlJHviUoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCkeiUiUiUiUTCFFFFCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLTJTJTJTJgKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgPKvxvxvxkEvxvxvxvxCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNtoMGwYtorCoNWJUqrQrQAYWJoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCaxdzijiUBvCCFFFFFFZPZPVAvlVACCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLTJTJTJTJTJTJiJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCBQHRvxMqkEkEkEkEkEkEkEEoEoCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNtomNinSFUqTCUqoNoNoNoNoNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCTCCCXtFFFFFFFFFFCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLTJTJTJTJTJTJiJTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCHkMzlhkEkElOCCCCCCCCCCkEkEPKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNtohNQUtoBwoNoNoNTuFNFNFNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCYzNlOpIgOpIgiUCCFFFFFFFFhaaeCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLTJTJTJTJTJTJLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCvxvxvxgvkESaeYkEWaZACCkEkECCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNzHUqiUiUthoNTviUWJUqUqFpoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCkeiUiUiUiUiUDICCfHlYSzaOQoBZCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLTJTJTJTJTJTJgKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgPKDxYKvxyTkESaCCkEkEkEbOkEMqPKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNbZWJiUUqUqTCdobaoinTFNFNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCQdiUijaxdziUBvCCfHZcSzFFFFFFCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLTJTJTJTJTJTJLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCYMeNuykESaqsCCsXsXWaGykEkECCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgoNoNmFmFmFoNoNoNoNoNoNoNoNoNTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLTJTJTJTJTJTJgKTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgPKPKCCPKCCPKCCMxCCCCCCCCPPPPCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLgKgKgKLLLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgSylHSySySyheheheheheTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLLLLLLLLLiFiFiFCGCGLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgSySySySySySySyQhheYAdaxQheTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFiFTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgSyctSySQSySySySyKAtZtZtZheTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFiFTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgSySySySySyQjSykXheILRRJHheTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFiFTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgSyQjSyCCbECCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgSymwfRCCQpeJUqiUeJUqthUqCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFLLLLLLLLLLLLLLLLLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgSyPHSyCCzHCCeBiUCCtQMZUqCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgSySySyCCuMCCVGUqSAZYZYUqCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFHFTgTgHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCJiCCYUQpCChkUqUqCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCYyUqCCtjDlFZCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCCCCCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLQLLHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLEtLLHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFHFLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
-TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQAQAQATgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgSylHSySySyheheheheheTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLdydyLLLLLLLLLLLLLLCGCGLLTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQAQAQATgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgSySySySySySySyQhheYAdaxQheTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgiFVLmPPsLLLLLLLLBysKKvacLLTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQAQAQATgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgSyctSySQSySySySyKAtZtZtZheTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgZgyJyJByLLGBGBLLyJeZaoaoiFTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQAQAQATgTgTJTJTJTJTJTJTJTJTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgSySySySySyQjSykXheILRRJHheTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLabSXByKwHNHNvEyJSXabkiLLTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQAQAQATgTJTJTJTJTJTJTgTgTgTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgSyQjSyCCbECCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLLLLLvPHNLLLLLLLLLLLLTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQATgTgQAQAQAQAQAQAQAQAQAQAQATgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQAQAQATgTJTJTJTJTJTJTgTgTgTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgSymwfRCCQpeJUqiUeJUqthUqCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgCGeZaoaoLLNOHNLLtHFtfiLLLLLLLLLLLLLLdyLLLLTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQATgTgQAQAQAQAQAQAQAQAQAQAQATgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQAQAQATgTJTJTJTJTJTJTgTgTgTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgSyPHSyCCzHCCeBiUCCtQMZUqCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLXeabMKvENOHNuJFtFtFtLLCZCZCZmuLLSXyNWULLTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQATgTgQAQAQAQAQAQAQAQAQAQAQATgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQAQATgTgTJTJTJTJTJTJTJTJTgTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgSySySyCCuMCCVGUqSAZYZYUqCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLLLLLPSHNLLLLZgLLLLqgTgTgxoZgyJaoBydyTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQATgTgTgTJTJTJTJTJTJTJTJTgTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgCCJiCCYUQpCChkUqUqCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLEKuGEKLLCZCZyJCZCZCZCZHNFmFmHNiFyJByBydyTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQATgQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgQAQAQAQATgTgTgTgTJTJTJTJTJTJTJTgTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgCCCCCCYyUqCCtjDlFZCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLEKJyEKLLLLLLLLLLZgLLLLAzyJCZCZvEByabkiiFTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTgTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgCCCCCCCCCCCCCCCCCCCCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLEKMAMJUrAMVjLLxRaoofLLAzCZCZSpLLLLZgZgiFTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+TgTgTgTgTgTgTgTgTgTJTJTJTJTJTJTJTJTgTJTJTJTJTJTJTJTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLEKEKEEEKEKaYLLaobAaovEHNCZCZCZvEByyNDydyTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQATgQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+NCNCNCNCNCTgTgTgTgTJTJTJTJTJTJTJTJTgTJTJTJTJTJTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLQLLEKecIbEKLLYZaovULLSTWTWTCZZgyJByBydyTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgQATgQAQAQAQAQAQATgQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+NCdMdMdMNCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLQEtLLKMEKtAecLLByEdyJLLHNCZyJyJLLSXFYkiZgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+NCdMdBdMNCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLZgZgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgQAQAQAQAQAQAQAQAQAQAQAQATgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+NCdMdMdMNCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
+NCNCNCNCNCTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTgTg
 "}

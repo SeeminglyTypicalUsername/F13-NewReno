@@ -800,7 +800,7 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 
 /obj/effect/landmark/start/f13/dendoctor
 	name = "Den Doctor"
-	
+
 /obj/effect/landmark/start/f13/mobboss
 	name = "Den Mob Boss"
 	icon_state = "Boss"
@@ -854,7 +854,7 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 /obj/effect/landmark/start/f13/chief
 	name = "Chief"
 	icon_state = "Tribal"
-	
+
 /obj/effect/landmark/start/f13/shaman
 	name = "Shaman"
 	icon_state = "Tribal"
@@ -899,3 +899,8 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 
 /obj/effect/landmark/start/f13/followersscientist
 	name = "Followers Scientist"
+
+//salvatores
+/obj/effect/landmark/start/f13/don
+	name = "Salvatores Don"
+	icon_state = "salvatores_don"
