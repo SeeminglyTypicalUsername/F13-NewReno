@@ -902,5 +902,5 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 
 //salvatores
 /obj/effect/landmark/start/f13/don
-	name = "Salvatores Don"
+	name = "Salvatore's Don"
 	icon_state = "salvatores_don"

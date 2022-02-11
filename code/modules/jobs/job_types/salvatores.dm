@@ -38,7 +38,7 @@
 /*--------------------------------------------------------------*/
 
 /datum/job/salvatores/f13don
-	title = "salvatore's don"
+	title = "Salvatore's Don"
 	flag = F13SALVATRESDON
 	department_flag = SALVATORES
 	total_positions = 1
