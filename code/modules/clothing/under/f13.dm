@@ -18,7 +18,7 @@
 	item_state = "salvatores_don"
 
 /obj/item/clothing/under/f13/salvatores/officer
-	name = "don suit"
+	name = "officer suit"
 	desc = "A white suit and tie, with a black undershirt."
 	icon_state = "salvatores_officer"
 	item_state = "salvatores_officer"
