@@ -29,6 +29,19 @@
 	icon_state = "salvatores_soldier"
 	item_state = "salvatores_soldier"
 
+//Mordinos
+
+/obj/item/clothing/under/f13/mordinos/boss
+	name = "stylish uuit"
+	desc = "A charcoal suit with a red shirt and black tie."
+	icon_state = "mordino_boss"
+	item_state = "mordino_boss"
+
+/obj/item/clothing/under/f13/mordinos/goon
+	name = "mordino family suit"
+	desc = "A black suit with a blue tie. Nice."
+	icon_state = "mordino_goon"
+	item_state = "mordino_goon"
 
 //ENCLAVE PEACEKEEPERS
 

@@ -910,3 +910,15 @@
 	item_state = "white_coat"
 	armor = list("melee" = 25, "bullet" = 25, "laser" = 25, "bio" = 0, "rad" = 0, "fire" = 25, "acid" = 25) //up to change
 	pocket_storage_component_path = /datum/component/storage/concrete/pockets/bulletbelt
+
+////////////
+//Mordinos//
+////////////
+
+/obj/item/clothing/suit/armor/f13/mordinos/grey_trench_coat
+	name = "grey trench coat"
+	desc = "An armored coat with large pockets."
+	icon_state = "grey_trench_coat"
+	item_state = "grey_trench_coat"
+	armor = list("melee" = 25, "bullet" = 25, "laser" = 25, "bio" = 0, "rad" = 0, "fire" = 25, "acid" = 25) //up to change
+	pocket_storage_component_path = /datum/component/storage/concrete/pockets/bulletbelt

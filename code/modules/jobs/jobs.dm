@@ -275,6 +275,15 @@ GLOBAL_LIST_INIT(salvatores_positions, list(
 	"Salvatores Bartender",
 ))
 
+GLOBAL_LIST_INIT(mordinos_positions, list(
+	"Mordinos Boss",
+	"Mordinos Underboss",
+	"Mordinos Capo",
+	"Mordinos Goon",
+	"Mordinos Casino Worker",
+	"Mordinos Chemist",
+))
+
 // job categories for rendering the late join menu
 GLOBAL_LIST_INIT(position_categories, list(
 	EXP_TYPE_NCR = list("jobs" = ncr_positions, "color" = "#ffeeaa"),
@@ -314,6 +323,7 @@ GLOBAL_LIST_INIT(exp_jobsmap, list(
 	EXP_TYPE_SCRIBE = list("titles" = list("Scribe")),
 	EXP_TYPE_DECANUS = list("titles" = list("Legion Decanus")),
 	EXP_TYPE_SALVATORES = list("titles" = salvatores_positions),
+	EXP_TYPE_MORDINOS = list("titles" = mordinos_positions),
 
 	EXP_TYPE_TRIBALCOMMAND = list("titles" = list("Chief","Shaman","Head Hunter")),
 	EXP_TYPE_FOLLOWERSCOMMAND = list("titles" = list("Followers Administrator")),
