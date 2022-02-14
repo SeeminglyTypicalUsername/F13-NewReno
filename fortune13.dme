@@ -2347,6 +2347,7 @@
 #include "code\modules\jobs\job_types\bos.dm"
 #include "code\modules\jobs\job_types\followers.dm"
 #include "code\modules\jobs\job_types\legion.dm"
+#include "code\modules\jobs\job_types\mordinos.dm"
 #include "code\modules\jobs\job_types\ncr.dm"
 #include "code\modules\jobs\job_types\oasis.dm"
 #include "code\modules\jobs\job_types\salvatores.dm"

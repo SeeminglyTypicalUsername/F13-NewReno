@@ -902,5 +902,47 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 
 //salvatores
 /obj/effect/landmark/start/f13/don
-	name = "Salvatore's Don"
-	icon_state = "salvatores_don"
+	name = "Salvatores Don"
+	icon_state = "Salvatores Don"
+
+/obj/effect/landmark/start/f13/underboss
+	name = "Salvatores Underboss"
+	icon_state = "Salvatores Underboss"
+
+/obj/effect/landmark/start/f13/capo
+	name = "Salvatores Capo"
+	icon_state = "Salvatores Capo"
+
+/obj/effect/landmark/start/f13/soldier
+	name = "Salvatores Soldier"
+	icon_state = "Salvatores Soldier"
+
+/obj/effect/landmark/start/f13/bartender
+	name = "Salvatores Bartender"
+	icon_state = "Salvatores Bartender"
+
+//mordinos
+
+/obj/effect/landmark/start/f13/mordinos/boss
+	name = "Mordinos Boss"
+	icon_state = "Mordinos Boss"
+
+/obj/effect/landmark/start/f13/mordinos/underboss
+	name = "Mordinos Underboss"
+	icon_state = "Mordinos Underboss"
+
+/obj/effect/landmark/start/f13/mordinos/capo
+	name = "Mordinos Capo"
+	icon_state = "Mordinos Capo"
+
+/obj/effect/landmark/start/f13/mordinos/soldier
+	name = "Mordinos Goon"
+	icon_state = "Mordinos Goon"
+
+/obj/effect/landmark/start/f13/mordinos/bartender
+	name = "Mordinos Casino Worker"
+	icon_state = "Mordinos Casino Worker"
+
+/obj/effect/landmark/start/f13/mordinos/chemist
+	name = "Mordinos Chemist"
+	icon_state = "Mordinos Chemist"

@@ -51,9 +51,16 @@
 //salvatores
 /obj/item/clothing/head/helmet/f13/salvatores/fedora
 	name = "salvatores fedora"
-	desc = "The family fedora of the salvatores."
+	desc = "The family fedora of the Salvatores."
 	icon_state = "salvatores_fedora"
 	item_state = "salvatores_fedora"
+
+//mordinos
+/obj/item/clothing/head/helmet/f13/mordinos/fedora
+	name = "mordino fedora"
+	desc = "The family fedora of the Mordinos."
+	icon_state = "mordinos_fedora"
+	item_state = "mordinos_fedora"
 
 //Raider
 /obj/item/clothing/head/helmet/f13/raider
