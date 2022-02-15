@@ -946,3 +946,13 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 /obj/effect/landmark/start/f13/mordinos/chemist
 	name = "Mordinos Chemist"
 	icon_state = "Mordinos Chemist"
+
+//hotel
+
+/obj/effect/landmark/start/f13/civilians/hotelowner
+	name = "Hotel Owner"
+	icon_state = "Hotel Owner"
+
+/obj/effect/landmark/start/f13/civilians/hotelconcierge
+	name = "Hotel Concierges"
+	icon_state = "Hotel Concierges"

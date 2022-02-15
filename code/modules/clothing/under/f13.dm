@@ -43,6 +43,20 @@
 	icon_state = "mordino_goon"
 	item_state = "mordino_goon"
 
+//hotel
+
+/obj/item/clothing/under/f13/hotel/concierge/uniform
+	name = "concierger uniform"
+	desc = "An old yellowish shirt with a black tie, intended for the hotel staff."
+	icon_state = "concierge_uniform"
+	item_state = "concierge_uniform"
+
+/obj/item/clothing/under/f13/hotel/concierge/uniform/skirt
+	name = "concierge skirt"
+	desc = "An old yellowish shirt with a black tie and a feminine skirt, intended for the hotel staff."
+	icon_state = "concierge_skirt"
+	item_state = "concierge_skirt"
+
 //ENCLAVE PEACEKEEPERS
 
 /obj/item/clothing/under/f13/enclave/science

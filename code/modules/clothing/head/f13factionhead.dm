@@ -61,6 +61,12 @@
 	desc = "The family fedora of the Mordinos."
 	icon_state = "mordinos_fedora"
 	item_state = "mordinos_fedora"
+//hotel
+/obj/item/clothing/head/helmet/f13/hotel/concierge/cap
+	name = "concierge cap"
+	desc = "A slightly worn out concierge cap."
+	icon_state = "concierge_cap"
+	item_state = "concierge_cap"
 
 //Raider
 /obj/item/clothing/head/helmet/f13/raider
