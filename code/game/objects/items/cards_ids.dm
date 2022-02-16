@@ -21,6 +21,11 @@
 	user.visible_message("<span class='suicide'>[user] begins to swipe [user.p_their()] neck with \the [src]! It looks like [user.p_theyre()] trying to commit suicide!</span>")
 	return BRUTELOSS
 
+/obj/item/card/slotmachine
+	name = "slot machine card"
+	desc = "Allows you to cash out the stored money inside of the slot machines."
+	icon_state = "budgetcard"
+
 /obj/item/card/data
 	name = "data card"
 	desc = "A plastic magstripe card for simple and speedy data storage and transfer. This one has a stripe running down the middle."
@@ -924,7 +929,7 @@
 	item_state = "card-doctor"
 	assignment = "citizenship permit"
 	access = list(ACCESS_BAR)
-	
+
 /obj/item/card/id/dogtag/MDfakepermit
 	name = "faded medical license"
 	desc = "a revoked medical license. This is why we do not remove people's skeletons "
