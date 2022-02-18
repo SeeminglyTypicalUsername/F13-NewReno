@@ -294,7 +294,7 @@
 	ears = /obj/item/pen
 	//id =
 	//glasses = /obj/item/clothing/glasses/monocle
-	gloves = /obj/item/clothing/gloves/color/black
+	//gloves = /obj/item/clothing/gloves/color/black
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	//r_hand = /obj/item/gun/ballistic/revolver/caravan_shotgun
@@ -304,14 +304,14 @@
 	//mask = /obj/item/clothing/mask/cigarette/cigar/ncr
 	//head = /obj/item/clothing/head/bowler
 //	neck =
-	shoes = /obj/item/clothing/shoes/jackboots
-	uniform = /obj/item/clothing/under/syndicate/camo
-	suit= /obj/item/clothing/suit/jacket/miljacket
-	suit_store = /obj/item/gun/ballistic/revolver/caravan_shotgun
-	belt = /obj/item/storage/belt/military/assault
+	shoes = /obj/item/clothing/shoes/laceup
+	uniform = /obj/item/clothing/under/f13/bennys
+	//suit= /obj/item/clothing/suit/jacket/miljacket
+	//suit_store = /obj/item/gun/ballistic/revolver/caravan_shotgun
+	belt = /obj/item/gun/ballistic/revolver/caravan_shotgun
 	backpack_contents = list(
 		/obj/item/ammo_box/shotgun/buck = 1,
-		/obj/item/melee/onehanded/knife/hunting = 1,
+		/obj/item/melee/unarmed/brass = 1,
 		/obj/item/paper = 1,
 		)
 
@@ -360,7 +360,7 @@
 	//head = /obj/item/clothing/head/beret/durathread
 	mask =  /obj/item/clothing/mask/surgical
 	backpack_contents = list(
-		/obj/item/reagent_containers/hypospray/medipen/stimpak=2, \
+		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2, \
 		/obj/item/healthanalyzer=1, \
 		/obj/item/storage/bag/money/small/wastelander)
 
@@ -495,19 +495,17 @@
 	name = "Mercenary"
 	jobtype = /datum/job/citizens/f13hotelconcierge
 
-	ears = /obj/item/pen
+	//ears = /obj/item/pen
 	gloves = /obj/item/clothing/gloves/color/white
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
 //	r_pocket =
 	head = /obj/item/clothing/head/helmet/f13/hotel/concierge/cap
-	shoes = /obj/item/clothing/shoes/laceup
+	shoes = /obj/item/clothing/shoes/jackboots
 	uniform = /obj/item/clothing/under/f13/hotel/concierge/uniform
 	backpack_contents = list(
-		/obj/item/kitchen/knife/butcher = 1,
-		/obj/item/clipboard = 1,
-		/obj/item/paper = 1,
+		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2,
 		)
 
 /datum/outfit/loadout/hitman
@@ -529,6 +527,56 @@
 		/obj/item/reagent_containers/glass/bucket =1)
 
 /*--------------------------------------------------------------*/
+/datum/job/citizens/f13priest
+	title = "Priest"
+	flag = F13MERCENARY
+	faction = FACTION_CITIZENS
+	total_positions = 1
+	spawn_positions = 1
+	description = "You are the lone priest of the small local chapel, either as the leader of the local Temperance Faction, a New Canaanite Pastor, a Children of the Atom Cultist, or something entirely different. You have taken the bow to lead your flock, even here in the sinful city of New Reno, be it by feeding the poor, cooperating with the clinic, giving mass, and so on. Bug the gang members to make them reconsider their sinful ways, and also try to get the tourists and the citizens to stay away from chems and the casinos. If you push your proselytism too far, you may have to look for protection from the gangs... though consider that the Wrights will probably be the only ones willing to help."
+	supervisors = "the highest bidder"
+	selection_color = "#F7EFCF"
+	exp_requirements = EXP_TYPE_CITIZENS
+
+	outfit = /datum/outfit/job/citizens/f13mercenary
+
+/*
+	loadout_options = list(
+	/datum/outfit/loadout/pr,
+	/datum/outfit/loadout/pw,
+	)
+
+	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
+	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
+	matchmaking_allowed = list(
+		/datum/matchmaking_pref/friend = list(
+			/datum/job/oasis,
+		),
+		/datum/matchmaking_pref/rival = list(
+			/datum/job/oasis,
+		),
+	)
+*/
+
+
+/datum/outfit/job/citizens/f13priest
+	name = "Priest"
+	jobtype = /datum/job/citizens/f13priest
+
+	//ears = /obj/item/pen
+	gloves = /obj/item/clothing/gloves/color/white
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
+	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+//	r_pocket =
+	head = /obj/item/clothing/head/helmet/f13/hotel/concierge/cap
+	shoes = /obj/item/clothing/shoes/laceup
+	uniform = /obj/item/clothing/under/f13/hotel/concierge/uniform
+	backpack_contents = list(
+		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2,
+		)
+
+/*--------------------------------------------------------------*/
 
 /datum/job/citizens/f13yakuza
 	title = "Yakuza"
@@ -536,8 +584,8 @@
 	faction = FACTION_CITIZENS
 	total_positions = 3
 	spawn_positions = 3
-	description = "
-	supervisors = "the highest bidder"
+	description = "You are part of an small band of Yakuzas settled in New Reno, advocated to perpetuate the traditions of the old Japanese Mafia with your expertise in swordplay and customary attires. Unlike the big gangs of the city, there is no concrete hierarchy among your ranks, nor is there any type of manufacturing of chems, alcohol or guns, having only the old abandoned Dojo of the town to serve you as headquarters. Work as mercenaries for the big gangs, assault lone tourists on the streets, act as vigilantes for the town; whatever you decide to do with your small band of brothers is up to you, but remember: you're no simple raiders, fight with honor."
+	supervisors = "yourselves"
 	selection_color = "#F7EFCF"
 	exp_requirements = EXP_TYPE_CITIZENS
 
@@ -561,12 +609,6 @@
 	)
 */
 
-	loadout_options = list(
-	/datum/outfit/loadout/hitman,
-	/datum/outfit/loadout/guard,
-	)
-
-
 /datum/outfit/job/citizens/f13yakuza
 	name = "Yakuza"
 	jobtype = /datum/job/citizens/f13yakuza
@@ -577,29 +619,69 @@
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
 //	r_pocket =
-	head = /obj/item/clothing/head/helmet/f13/hotel/concierge/cap
-	shoes = /obj/item/clothing/shoes/laceup
-	uniform = /obj/item/clothing/under/f13/hotel/concierge/uniform
+	head = /obj/item/clothing/head/rice_hat
+	shoes = /obj/item/clothing/shoes/f13/raidertreads
+	uniform = /obj/item/clothing/under/f13/raider_leather
+	belt = obj/item/katana
 	backpack_contents = list(
-		/obj/item/kitchen/knife/butcher = 1,
-		/obj/item/clipboard = 1,
-		/obj/item/paper = 1,
+		/obj/item/melee/onehanded/knife/throwing = 3,
+		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2,
 		)
 
-/datum/outfit/loadout/hitman
-	name = "Hitman"
-	suit = /obj/item/clothing/suit/armor/f13/hotel/concierge/coat
-	glasses = /obj/item/clothing/glasses/concierge_m
-	backpack_contents = list(
-		/obj/item/mop = 1,
-		/obj/item/storage/fancy/cigarettes/cigpack_cannabis=1,
-		/obj/item/reagent_containers/glass/bucket =1)
+/*--------------------------------------------------------------*/
 
-/datum/outfit/loadout/guard
-	name = "Guard"
-	suit = /obj/item/clothing/suit/armor/f13/hotel/concierge/vest
-	glasses = /obj/item/clothing/glasses/concierge_f
+/datum/job/citizens/f13farmer
+	title = "Farmer"
+	flag = F13farmer
+	faction = FACTION_CITIZENS
+	total_positions = 2
+	spawn_positions = 2
+	description = "You are part of a group of farmers who have settled outside the relatively safe walls of Reno. You make your living off of raising cattle and growing crops, selling the fruits of your labor to the various businesses within the city. Though you'll most likely prove to be of vital use for the businesses of New Reno, you may be forced to seek protection from those who would wish to destroy what is yours."
+	supervisors = "yourselves"
+	selection_color = "#F7EFCF"
+	exp_requirements = EXP_TYPE_CITIZENS
+
+	outfit = /datum/outfit/job/citizens/f13farmer
+
+/*
+	loadout_options = list(
+	/datum/outfit/loadout/pr,
+	/datum/outfit/loadout/pw,
+	)
+
+	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
+	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
+	matchmaking_allowed = list(
+		/datum/matchmaking_pref/friend = list(
+			/datum/job/oasis,
+		),
+		/datum/matchmaking_pref/rival = list(
+			/datum/job/oasis,
+		),
+	)
+*/
+
+/datum/outfit/job/citizens/f13farmer
+	name = "Farmer"
+	jobtype = /datum/job/citizens/f13farmer
+
+	//ears = /obj/item/pen
+	gloves = /obj/item/clothing/gloves/color/brown
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
+	r_hand = /obj/item/gun/ballistic/rifle/hunting
+	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+//	r_pocket =
+	head = /obj/item/clothing/head/scarecrow_hat
+	mask = /obj/item/clothing/mask/facewrap
+	shoes = /obj/item/clothing/shoes/f13/rag
+	uniform = /obj/item/clothing/under/f13/settler
+//	belt = obj/item/katana
 	backpack_contents = list(
-		/obj/item/mop = 1,
-		/obj/item/storage/fancy/cigarettes/cigpack_cannabis=1,
-		/obj/item/reagent_containers/glass/bucket =1)
+		/obj/item/ammo_box/a308 = 2,
+		/obj/item/reagent_containers/hypospray/medipen/stimpak = 1,
+		/obj/item/reagent_containers/glass/beaker/waterbottle = 3,
+		/obj/item/reagent_containers/glass/glass/bucket/wood = 1,
+		/obj/item/shovel/spade = 1,
+		/obj/item/cultivator/rake = 1,
+		)

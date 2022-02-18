@@ -284,6 +284,14 @@ GLOBAL_LIST_INIT(mordinos_positions, list(
 	"Mordinos Chemist",
 ))
 
+GLOBAL_LIST_INIT(mordinos_positions, list(
+	"Bishops Boss",
+	"Bishops Underboss",
+	"Bishops Capo",
+	"Bishops Soldier",
+	"Bishops Casino Worker",
+))
+
 GLOBAL_LIST_INIT(citizens_positions, list(
 	"Hotel Owner",
 	"Hotel Concierges",
@@ -300,6 +308,7 @@ GLOBAL_LIST_INIT(position_categories, list(
 	EXP_TYPE_OASIS = list("jobs" = oasis_positions, "color" = "#d7b088"),
 	EXP_TYPE_SALVATORES = list("jobs" = salvatores_positions, "color" = "#ffeeaa"),
 	EXP_TYPE_MORDINOS = list("jobs" = mordinos_positions, "color" = "#D50000"),
+	EXP_TYPE_BISHOPS = list("jobs" = bishops_positions, "color" = "#D50000"),
 	EXP_TYPE_CITIZENS = list("jobs" = citizens_positions, "color" = "#F7EFCF"),
 ))
 
@@ -331,6 +340,7 @@ GLOBAL_LIST_INIT(exp_jobsmap, list(
 	EXP_TYPE_DECANUS = list("titles" = list("Legion Decanus")),
 	EXP_TYPE_SALVATORES = list("titles" = salvatores_positions),
 	EXP_TYPE_MORDINOS = list("titles" = mordinos_positions),
+	EXP_TYPE_BISHOPS = list("titles" = bishops_positions),
 	EXP_TYPE_CITIZENS = list("titles" = citizens_positions),
 
 	EXP_TYPE_TRIBALCOMMAND = list("titles" = list("Chief","Shaman","Head Hunter")),

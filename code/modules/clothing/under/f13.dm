@@ -43,6 +43,32 @@
 	icon_state = "mordino_goon"
 	item_state = "mordino_goon"
 
+//Bishops
+
+/obj/item/clothing/under/f13/bishops/boss
+	name = "blue checkers"
+	desc = "Ay, dat's a nice suit ya got there. Be a shame if something were to happen to it."
+	icon_state = "bishop_boss"
+	item_state = "bishop_boss"
+
+/obj/item/clothing/under/f13/bishops/officer
+	name = "officer suit"
+	desc = "A navy blue suit with a light blue undershirt."
+	icon_state = "bishop_officer"
+	item_state = "bishop_officer"
+
+/obj/item/clothing/under/f13/bishops/soldier
+	name = "bishop family suit"
+	desc = "A light blue suit. Nice."
+	icon_state = "bishop_soldier"
+	item_state = "bishop_soldier"
+
+/obj/item/clothing/under/f13/bishops/casino_worker
+	name = "shark club uniform"
+	desc = "The standard uniform for workers at sharkclub"
+	icon_state = "bishop_casino_worker"
+	item_state = "bishop_casino_worker"
+
 //hotel
 
 /obj/item/clothing/under/f13/hotel/concierge/uniform

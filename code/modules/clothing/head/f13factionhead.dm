@@ -61,6 +61,14 @@
 	desc = "The family fedora of the Mordinos."
 	icon_state = "mordinos_fedora"
 	item_state = "mordinos_fedora"
+
+//bishops
+/obj/item/clothing/head/helmet/f13/bishops/fedora
+	name = "bishop fedora"
+	desc = "The family fedora of the Bishops."
+	icon_state = "bishops_fedora"
+	item_state = "bishops_fedora"
+
 //hotel
 /obj/item/clothing/head/helmet/f13/hotel/concierge/cap
 	name = "concierge cap"
