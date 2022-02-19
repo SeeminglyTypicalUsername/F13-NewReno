@@ -65,6 +65,20 @@
 	fire_sound = 'sound/f13weapons/22pistol.ogg'
 
 
+/obj/item/gun/ballistic/automatic/pistol/pisto32
+	name = ".32 holdout pistol"
+	desc = "a cheap ccompact pistol chambered in .32acp. Look's like something out of a pre-war spy movie. "
+	icon = 'icons/obj/guns/projectile.dmi'
+	icon_state = "ipistol"
+	item_state = "gun"
+	mag_type = /obj/item/ammo_box/magazine/c32
+	extra_damage = 19
+	weapon_weight = WEAPON_LIGHT
+	w_class = WEIGHT_CLASS_TINY
+	can_attachments = TRUE
+	can_suppress = TRUE
+	fire_sound = 'sound/f13weapons/22pistol.ogg'
+
 //N99  10mm								Keywords: 10mm, Semi-auto, 12/24 round magazine
 /obj/item/gun/ballistic/automatic/pistol/n99
 	name = "10mm pistol"
