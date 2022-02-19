@@ -32,6 +32,15 @@ Civilian round				=	-10% damage. AP reduced by 50%
 	wound_bonus = 0
 	sharpness = SHARP_NONE
 
+//////////////
+// .32 ACP //
+/////////////-light round, for concealment
+	
+	name = ".32acp bullet"
+	damage = 0
+	wound_bonus = 5
+	bare_wound_bonus = 5
+
 /////////////////
 // .38 SPECIAL //
 /////////////////		-Light round, damage focus
