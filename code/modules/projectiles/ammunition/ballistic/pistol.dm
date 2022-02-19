@@ -16,6 +16,11 @@
 /obj/item/ammo_casing/c10mm/incendiary
 	name = "A 10mm incendiary bullet casing."
 	projectile_type = /obj/item/projectile/bullet/c10mm/incendiary
+	
+//.32
+/obj/item/ammo_casing/c32
+	name = "a .32acp bullet casing/"
+	projectile_type = /obj/item/projectile/bullet/c32
 
 // 9mm 
 /obj/item/ammo_casing/c9mm
