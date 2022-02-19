@@ -35,7 +35,7 @@ Civilian round				=	-10% damage. AP reduced by 50%
 //////////////
 // .32 ACP //
 /////////////-light round, for concealment
-	
+/obj/item/projectile/bullet/c32
 	name = ".32acp bullet"
 	damage = 0
 	wound_bonus = 5
