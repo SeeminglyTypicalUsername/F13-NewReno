@@ -23,6 +23,16 @@
 /obj/item/ammo_box/magazine/m22/empty
 	start_empty = 1
 
+//.32
+/obj/item/ammo_box/magazine/c32
+	name = "pistol magazine (.32)"
+	icon = 'icons/fallout/objects/guns/ammo.dmi'
+	icon_state = "pistol22"
+	ammo_type = /obj/item/ammo_casing/c32
+	caliber = ".32"
+	max_ammo = 8
+	multiple_sprites = 2
+
 //9mm
 /obj/item/ammo_box/magazine/zipgun
 	name = "Zip gun clip (9mm)"

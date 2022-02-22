@@ -138,6 +138,22 @@
 	spread = 4
 	obj_flags = UNIQUE_RENAME
 	var/list/safe_calibers
+	
+///////////////////
+// .32 REVOLVERS //
+///////////////////
+
+// .32 Detective					Keywords: .38, Double action, 6 rounds cylinder, Short barrel, Bootgun
+/obj/item/gun/ballistic/revolver/detective/32rev
+	name = ".32 Holdout revolver"
+	desc = "A small revolver that is very concealable."
+	w_class = WEIGHT_CLASS_TINY
+	fire_delay = 4
+	mag_type = /obj/item/ammo_box/magazine/internal/cylinder/c32
+	force = 9
+	extra_damage = 25
+	spread = 2 //very flat shooting round
+
 
 /////////////////////
 // 10 MM REVOLVERS //

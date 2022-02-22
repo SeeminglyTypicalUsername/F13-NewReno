@@ -4,6 +4,12 @@
 	caliber = "38"
 	max_ammo = 6
 
+/obj/item/ammo_box/magazine/internal/cylinder/c32
+	name = "detective revolver cylinder"
+	ammo_type = /obj/item/ammo_casing/c32
+	caliber = ".32"
+	max_ammo = 6
+
 /obj/item/ammo_box/magazine/internal/cylinder/rus357
 	name = "\improper Russian revolver cylinder"
 	ammo_type = /obj/item/ammo_casing/a357
