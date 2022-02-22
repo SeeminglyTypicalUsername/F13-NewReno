@@ -69,12 +69,34 @@
 	icon_state = "bishops_fedora"
 	item_state = "bishops_fedora"
 
+//wrights
+/obj/item/clothing/head/helmet/f13/wrights/tophat
+	name = "wright top hat"
+	desc = "The family top hat of the Wrights."
+	icon_state = "wrights_tophat"
+	item_state = "wrights_tophat"
+
 //hotel
 /obj/item/clothing/head/helmet/f13/hotel/concierge/cap
 	name = "concierge cap"
 	desc = "A slightly worn out concierge cap."
 	icon_state = "concierge_cap"
 	item_state = "concierge_cap"
+
+//civilians
+/obj/item/clothing/head/helmet/f13/civilians/ncr_police_helmet
+	name = "concierge cap"
+	desc = "A slightly worn out concierge cap."
+	armor = list("melee" = 35, "bullet" = 35, "laser" = 30, "bio" = 0, "rad" = 0, "fire" = 25, "acid" = 25)
+	icon_state = "ahp_helmet"
+	item_state = "ahp_helmet"
+
+/obj/item/clothing/head/helmet/f13/foreign_hat
+	name = "formal hat"
+	desc = "A very well made hat."
+	icon_state = "schlimmhat"
+	item_state = "schlimmhat"
+
 
 //Raider
 /obj/item/clothing/head/helmet/f13/raider

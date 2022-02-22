@@ -4,7 +4,7 @@
 /* exchange rates X * CAP*/
 #define CASH_AUR 100 /* 100 caps to 1 AUR */
 #define CASH_DEN 4 /* 4 caps to 1 DEN */
-#define CASH_NCR 0.4 /* $100 to 40 caps */
+#define CASH_NCR 1 /* $100 to 40 caps */
 
 /* value of coins to spawn, use as-is for caps */
 /* LOW_MIN / AUR = amount in AUR */
@@ -247,6 +247,30 @@
 
 /obj/item/stack/f13Cash/random/ncr
 	money_type = /obj/item/stack/f13Cash/ncr
+
+/obj/item/stack/f13Cash/ncr/onefivezero
+    amount = 150
+    merge_type = /obj/item/stack/f13Cash/ncr
+
+/obj/item/stack/f13Cash/ncr/onezerozero
+    amount = 100
+    merge_type = /obj/item/stack/f13Cash/ncr
+
+/obj/item/stack/f13Cash/ncr/sevenzero
+    amount = 70
+    merge_type = /obj/item/stack/f13Cash/ncr
+
+/obj/item/stack/f13Cash/ncr/fivezero
+    amount = 50
+    merge_type = /obj/item/stack/f13Cash/ncr
+
+/obj/item/stack/f13Cash/ncr/fourzero
+    amount = 40
+    merge_type = /obj/item/stack/f13Cash/ncr
+
+/obj/item/stack/f13Cash/ncr/threezero
+    amount = 30
+    merge_type = /obj/item/stack/f13Cash/ncr
 
 /obj/item/stack/f13Cash/random/ncr/low
 	min_qty = TEMP3_MIN / CASH_NCR

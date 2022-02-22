@@ -947,6 +947,45 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	name = "Mordinos Chemist"
 	icon_state = "Mordinos Chemist"
 
+//bishops
+
+/obj/effect/landmark/start/f13/bishops/boss
+	name = "Bishops Boss"
+	icon_state = "Bishops Boss"
+
+/obj/effect/landmark/start/f13/bishops/underboss
+	name = "Bishops Underboss"
+	icon_state = "Bishops Underboss"
+
+/obj/effect/landmark/start/f13/bishops/capo
+	name = "Bishops Capo"
+	icon_state = "Bishops Capo"
+
+/obj/effect/landmark/start/f13/bishops/soldier
+	name = "Bishops Soldier"
+	icon_state = "Bishops Soldier"
+
+/obj/effect/landmark/start/f13/bishops/bartender
+	name = "Bishops Casino Worker"
+	icon_state = "Bishops Casino Worker"
+
+//wrights
+/obj/effect/landmark/start/f13/wrights/boss
+	name = "Wrights Boss"
+	icon_state = "Wrights Boss"
+
+/obj/effect/landmark/start/f13/wrights/underboss
+	name = "Wrights Underboss"
+	icon_state = "Wrights Underboss"
+
+/obj/effect/landmark/start/f13/wrights/capo
+	name = "Wrights Capo"
+	icon_state = "Wrights Capo"
+
+/obj/effect/landmark/start/f13/wrights/soldier
+	name = "Wrights Soldier"
+	icon_state = "Wrights Soldier"
+
 //hotel
 
 /obj/effect/landmark/start/f13/civilians/hotelowner
@@ -956,3 +995,42 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 /obj/effect/landmark/start/f13/civilians/hotelconcierge
 	name = "Hotel Concierges"
 	icon_state = "Hotel Concierges"
+
+//citizens
+
+/obj/effect/landmark/start/f13/civilians/yakuza
+	name = "Yakuza"
+	icon_state = "Yakuza"
+
+/obj/effect/landmark/start/f13/civilians/pharmacist
+	name = "Pharmacist"
+	icon_state = "Pharmacist"
+
+/obj/effect/landmark/start/f13/civilians/armsdealer
+	name = "Arms Dealer"
+	icon_state = "Arms Dealer"
+
+/obj/effect/landmark/start/f13/civilians/priest
+	name = "Priest"
+	icon_state = "Priest"
+
+/obj/effect/landmark/start/f13/civilians/junglegymowner
+	name = "Jungle Gym Owner"
+	icon_state = "Jungle Gym Owner"
+
+/obj/effect/landmark/start/f13/civilians/bum
+	name = "Bum"
+	icon_state = "Bum"
+
+/obj/effect/landmark/start/f13/civilians/mercenary
+	name = "Mercenary"
+	icon_state = "Mercenary"
+
+/obj/effect/landmark/start/f13/civilians/farmer
+	name = "Farmer"
+	icon_state = "Farmer"
+
+/obj/effect/landmark/start/f13/civilians/doctor
+	name = "Doctor"
+	icon_state = "Doctor"
+

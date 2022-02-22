@@ -86,6 +86,8 @@
 #define EXP_TYPE_OUTLAW			"Outlaw"
 #define EXP_TYPE_SALVATORES		"Salvatores"
 #define EXP_TYPE_MORDINOS		"Mordinos"
+#define EXP_TYPE_BISHOPS		"Bishops"
+#define EXP_TYPE_WRIGHTS		"Wrights"
 #define EXP_TYPE_CITIZENS		"Citizens"
 //Flags in the players table in the db
 #define DB_FLAG_EXEMPT 							(1<<0)

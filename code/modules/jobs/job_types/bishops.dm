@@ -1,6 +1,6 @@
 /datum/job/bishops //do NOT use this for anything, it's just to store faction datums
 	department_flag = BISHOPS
-	selection_color = "#D50000"
+	selection_color = "#8CA2BD"
 	faction = FACTION_BISHOPS
 	exp_type = EXP_TYPE_BISHOPS
 
@@ -37,7 +37,7 @@
 	spawn_positions = 1
 	supervisors = "Yourself"
 	description = "You are the head of the Bishop family. Your management of the Shark Club, the most famous casino in the city, and the good relations of the family with he NCR, have placed the gang in a comfortable situation, attracting most of the new blood in the city among their ranks, making the Bishops the most 'populated' family in New Reno. Nevertheless, the Bishops still rely on the other gangs of the city to provide them with new guns, chems, and alcohol. Manage the Casino, organize meetings with the other gangs to make ends meet, rely on prostitution if necessary, assign soldiers to your capos, allow capos to have some level of autonomy regarding their soldiers, as long as it doesn't hinder the flow of business, and remember to get someone to manage the acts at the Shark to attract visitors. Though you have made it to the top, you never know who may be plotting against you to take your place, so always be weary, even of your own family."
-	selection_color = "#CD0101"
+	selection_color = "#7C93AF"
 	exp_requirements = EXP_TYPE_BISHOPS
 
 	outfit = /datum/outfit/job/bishops/f13boss
@@ -73,7 +73,7 @@
 	//l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
 	r_pocket = /obj/item/stock_parts/cell/ammo/ec
 	mask = /obj/item/clothing/mask/cigarette/cigar/ncr
-	head = /obj/item/clothing/head/helmet/f13/mordinos/fedora
+	head = /obj/item/clothing/head/helmet/f13/bishops/fedora
 	neck = /obj/item/storage/belt/holster/legholster
 	shoes = /obj/item/clothing/shoes/laceup
 	uniform = /obj/item/clothing/under/f13/bishops/boss
@@ -96,10 +96,10 @@
 	spawn_positions = 1
 	supervisors = "Mordino Boss"
 	description = "You are the underboss of the Bishop family. Your role may vary from a simple consigliere, to a diplomat with the other families, to assigning soldiers to the capos, or even as the chief supervisor of the family casino; keep the dialogue with the boss constant and clear to know what he needs from you. In a world where treason is treated as common currency, a position such as a 'right hand man' for the boss is extremely valuable... nevertheless, should the boss be unable to lead the family, the job will fall unto you."
-	selection_color = "CD0101"
+	selection_color = "#7C93AF"
 	exp_requirements = EXP_TYPE_BISHOPS
 
-	outfit = /datum/outfit/job/mordinos/f13underboss
+	outfit = /datum/outfit/job/bishops/f13underboss
 /*
 	loadout_options = list(
 	/datum/outfit/loadout/pr,
@@ -152,7 +152,7 @@
 	spawn_positions = 2
 	supervisors = "Bishop Underboss and the Bishop Boss"
 	description = "You have proven your worth as an earner for the Bishop Family and, as such, it has been trusted to you to lead a small band of soldiers for the boss. You are the mediator between the head of the family and said soldiers, so expect to be given some level of autonomy to use your subordinates in the most efficient way possible to meet the needs of the boss and the family. Should the soldiers not be assigned to you by the Boss or the Underboss, the decision will fall unto you and the other capos. Help to manage the Casino, make sure there's entertainment for the visitors, follow the instructions of your superiors, keep the soldiers in line."
-	selection_color = "#DA0202"
+	selection_color = "#8CA2BD"
 	exp_requirements = EXP_TYPE_BISHOPS
 
 	outfit = /datum/outfit/job/bishops/f13capo
@@ -192,7 +192,7 @@
 //	neck = /obj/item/storage/belt/holster/legholster
 	shoes = /obj/item/clothing/shoes/laceup
 	uniform = /obj/item/clothing/under/f13/bishops/officer
-	suit = /obj/item/clothing/suit/armor/f13/mordinos/blue_trench_coat
+	suit = /obj/item/clothing/suit/armor/f13/bishops/blue_trench_coat
 	belt = /obj/item/gun/ballistic/revolver/detective
 //	backpack_contents = list(
 //		/obj/item/ammo_box/m44 = 1,
@@ -209,7 +209,7 @@
 	spawn_positions = 7
 	supervisors = "Bishop Capos, the Underboss, and the Bishop Boss"
 	description = "You have been made a soldier of the Bishop Family. Expect to be assigned to follow the orders of one of the Capos, be it helping in the casino, extorting businesses, protecting your superiors during a meeting, and so on. Do not disturb the boss or the underboss with unnecessary affairs."
-	selection_color = "#DA0202"
+	selection_color = "#8CA2BD"
 	exp_requirements = EXP_TYPE_BISHOPS
 
 	outfit = /datum/outfit/job/bishops/f13soldier
@@ -256,7 +256,7 @@
 //		/obj/item/storage/bag/money/small/ncr = 1,
 //		)
 
-/datum/outfit/job/mordinos/f13goon/pre_equip(mob/living/carbon/human/H)
+/datum/outfit/job/bishops/f13soldier/pre_equip(mob/living/carbon/human/H)
 	. = ..()
 	r_hand = pick(
 		/obj/item/melee/onehanded/knife/switchblade, \
@@ -276,7 +276,7 @@
 	spawn_positions = 3
 	supervisors = "Bishop Capos, the Underboss, and the Bishop Boss"
 	description = "You are an employee of the Shark Club, the Bishop owned casino in New Reno. Though you're not a proper member of the family, you count with their protection and you're also expected to fulfill their demands. Serve drinks to the costumers, deal the cards on the tables, change money for casino chips (and viceversa), and keep a constant dialogue with whoever is keeping the casino safe to kick out drunkards, cheaters, and the more dangerous folks that may come to pay a visit to the family."
-	selection_color = "#DA0202"
+	selection_color = "#8CA2BD"
 	exp_requirements = EXP_TYPE_BISHOPS
 
 	outfit = /datum/outfit/job/bishops/f13casinoworker

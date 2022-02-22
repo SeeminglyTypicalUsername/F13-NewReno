@@ -262,7 +262,7 @@
 	faction = FACTION_CITIZENS
 	total_positions = 1
 	spawn_positions = 1
-	description =
+	description = "You're sort of a jack of all trades in town. On one hand, you manage the local pawn shop, taking gamblers goods for money that they will lose in the casinos, and reselling said goods for double the price you paid it in the first place. On the other hand, next to the pawn shop, you're also the owner of the Jungle Gym, both coaching athletes who wants to put the installations to use and arranging box fights in the Gym's Ring and getting the visitors to place bets on the fighters. You will probably be making a fair amount of money in the process too, so expect the other families to be aware of this and ask you for a cut."
 	supervisors = "Money"
 	selection_color = "#F7EFCF"
 	exp_requirements = EXP_TYPE_CITIZENS
@@ -432,7 +432,7 @@
 		)
 
 
-/datum/outfit/job/wasteland/f13raider/pre_equip(mob/living/carbon/human/H)
+/datum/outfit/job/citizens/f13bum/pre_equip(mob/living/carbon/human/H)
 	. = ..()
 	uniform = pick(
 		/obj/item/clothing/under/f13/brahmin, \
@@ -493,43 +493,48 @@
 
 /datum/outfit/job/citizens/f13mercenary
 	name = "Mercenary"
-	jobtype = /datum/job/citizens/f13hotelconcierge
+	jobtype = /datum/job/citizens/f13mercenary
 
-	//ears = /obj/item/pen
-	gloves = /obj/item/clothing/gloves/color/white
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
-//	r_pocket =
-	head = /obj/item/clothing/head/helmet/f13/hotel/concierge/cap
 	shoes = /obj/item/clothing/shoes/jackboots
-	uniform = /obj/item/clothing/under/f13/hotel/concierge/uniform
 	backpack_contents = list(
 		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2,
+		/obj/item/melee/onehanded/knife/trench = 1,
 		)
+/datum/outfit/job/citizens/f13mercenary/pre_equip(mob/living/carbon/human/H)
+	. = ..()
+	uniform = pick(
+		/obj/item/clothing/under/f13/merca, \
+		/obj/item/clothing/under/syndicate/camo, \
+		/obj/item/clothing/under/f13/mercc)
 
 /datum/outfit/loadout/hitman
 	name = "Hitman"
-	suit = /obj/item/clothing/suit/armor/f13/hotel/concierge/coat
-	glasses = /obj/item/clothing/glasses/concierge_m
+	suit = /obj/item/clothing/suit/armored/light/vest/kevlar
+	belt = /obj/item/storage/belt/military/assault
+	mask = /obj/item/clothing/mask/russian_balaclava
 	backpack_contents = list(
-		/obj/item/mop = 1,
-		/obj/item/storage/fancy/cigarettes/cigpack_cannabis=1,
-		/obj/item/reagent_containers/glass/bucket =1)
+		/obj/item/suppressor = 1,
+		/obj/item/gun/ballistic/automatic/pistol/n99 = 1,
+		/obj/item/ammo_box/magazine/m10mm_adv = 1)
 
 /datum/outfit/loadout/guard
 	name = "Guard"
-	suit = /obj/item/clothing/suit/armor/f13/hotel/concierge/vest
-	glasses = /obj/item/clothing/glasses/concierge_f
+	suit = /obj/item/clothing/head/helmet/armyhelmet/heavy
+	belt = /obj/item/storage/belt/military/assault
+	head = /obj/item/clothing/head/helmet/armyhelmet/heavy
+	mask = /obj/item/clothing/mask/russian_balaclava
+	uniform = /obj/item/clothing/under/syndicate/camo
 	backpack_contents = list(
-		/obj/item/mop = 1,
-		/obj/item/storage/fancy/cigarettes/cigpack_cannabis=1,
-		/obj/item/reagent_containers/glass/bucket =1)
+		/obj/item/gun/ballistic/automatic/autopipe = 1,
+		/obj/item/ammo_box/magazine/autopipe = 1)
 
 /*--------------------------------------------------------------*/
 /datum/job/citizens/f13priest
 	title = "Priest"
-	flag = F13MERCENARY
+	flag = F13PRIEST
 	faction = FACTION_CITIZENS
 	total_positions = 1
 	spawn_positions = 1
@@ -564,14 +569,14 @@
 	jobtype = /datum/job/citizens/f13priest
 
 	//ears = /obj/item/pen
-	gloves = /obj/item/clothing/gloves/color/white
+	//gloves = /obj/item/clothing/gloves/color/white
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
 //	r_pocket =
-	head = /obj/item/clothing/head/helmet/f13/hotel/concierge/cap
+	//head = /obj/item/clothing/head/helmet/f13/hotel/concierge/cap
 	shoes = /obj/item/clothing/shoes/laceup
-	uniform = /obj/item/clothing/under/f13/hotel/concierge/uniform
+	uniform = /obj/item/clothing/under/f13/religion/priest
 	backpack_contents = list(
 		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2,
 		)
@@ -622,7 +627,6 @@
 	head = /obj/item/clothing/head/rice_hat
 	shoes = /obj/item/clothing/shoes/f13/raidertreads
 	uniform = /obj/item/clothing/under/f13/raider_leather
-	belt = obj/item/katana
 	backpack_contents = list(
 		/obj/item/melee/onehanded/knife/throwing = 3,
 		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2,
@@ -630,9 +634,9 @@
 
 /*--------------------------------------------------------------*/
 
-/datum/job/citizens/f13farmer
-	title = "Farmer"
-	flag = F13farmer
+/datum/job/citizens/f13peasant
+	title = "Peasant"
+	flag = F13PEASANT
 	faction = FACTION_CITIZENS
 	total_positions = 2
 	spawn_positions = 2
@@ -663,7 +667,7 @@
 
 /datum/outfit/job/citizens/f13farmer
 	name = "Farmer"
-	jobtype = /datum/job/citizens/f13farmer
+	jobtype = /datum/job/citizens/f13peasant
 
 	//ears = /obj/item/pen
 	gloves = /obj/item/clothing/gloves/color/brown
@@ -681,7 +685,280 @@
 		/obj/item/ammo_box/a308 = 2,
 		/obj/item/reagent_containers/hypospray/medipen/stimpak = 1,
 		/obj/item/reagent_containers/glass/beaker/waterbottle = 3,
-		/obj/item/reagent_containers/glass/glass/bucket/wood = 1,
+		/obj/item/reagent_containers/glass/bucket/wood = 1,
 		/obj/item/shovel/spade = 1,
 		/obj/item/cultivator/rake = 1,
 		)
+
+/*--------------------------------------------------------------*/
+/datum/job/citizens/f13renoraider
+	title = "Raider"
+	flag = F13RENORAIDER
+	faction = FACTION_CITIZENS
+	total_positions = -1
+	spawn_positions = -1
+	description = "You are a member of one of the infamous raider gangs of the wastes. Pillaging, robbing, murdering wasters are a recurrent chore for your people. Depending on their affiliation, though, raiders may vary from an illiterate chemhead, to a straight edge tribal, or even a member of a group with strong connections and an unique culture based on raiding, and all of this should be considered when defining your character. Form loose associations with other raiders to get an edge. Betray said raiders because of a dumb argument. Be weary of the inside of the city or destroying family businesses, since the gangs may not take kindly to your presence in town."
+	supervisors = "the man with the biggest stick"
+	selection_color = "#F7EFCF"
+	exp_requirements = EXP_TYPE_CITIZENS
+
+	outfit = /datum/outfit/job/citizens/f13renoraider
+
+/*
+	loadout_options = list(
+	/datum/outfit/loadout/pr,
+	/datum/outfit/loadout/pw,
+	)
+
+	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
+	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
+	matchmaking_allowed = list(
+		/datum/matchmaking_pref/friend = list(
+			/datum/job/oasis,
+		),
+		/datum/matchmaking_pref/rival = list(
+			/datum/job/oasis,
+		),
+	)
+*/
+
+	loadout_options = list(
+	/datum/outfit/loadout/painspike,
+	/datum/outfit/loadout/guard,
+	)
+
+
+/datum/outfit/job/citizens/f13mercenary
+	name = "Mercenary"
+	jobtype = /datum/job/citizens/f13mercenary
+
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
+	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+	shoes = /obj/item/clothing/shoes/jackboots
+	backpack_contents = list(
+		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2,
+		/obj/item/melee/onehanded/knife/trench = 1,
+		)
+/datum/outfit/job/citizens/f13mercenary/pre_equip(mob/living/carbon/human/H)
+	. = ..()
+	uniform = pick(
+		/obj/item/clothing/under/f13/merca, \
+		/obj/item/clothing/under/syndicate/camo, \
+		/obj/item/clothing/under/f13/mercc)
+
+/datum/outfit/loadout/hitman
+	name = "Hitman"
+	suit = /obj/item/clothing/suit/armored/light/vest/kevlar
+	belt = /obj/item/storage/belt/military/assault
+	mask = /obj/item/clothing/mask/russian_balaclava
+	backpack_contents = list(
+		/obj/item/suppressor = 1,
+		/obj/item/gun/ballistic/automatic/pistol/n99 = 1,
+		/obj/item/ammo_box/magazine/m10mm_adv = 1)
+
+/datum/outfit/loadout/guard
+	name = "Guard"
+	suit = /obj/item/clothing/head/helmet/armyhelmet/heavy
+	belt = /obj/item/storage/belt/military/assault
+	head = /obj/item/clothing/head/helmet/armyhelmet/heavy
+	mask = /obj/item/clothing/mask/russian_balaclava
+	uniform = /obj/item/clothing/under/syndicate/camo
+	backpack_contents = list(
+		/obj/item/gun/ballistic/automatic/autopipe = 1,
+		/obj/item/ammo_box/magazine/autopipe = 1)
+
+/*--------------------------------------------------------------*/
+
+/datum/job/citizens/f13tourist
+	title = "Tourist"
+	flag = F13TOURIST
+	faction = FACTION_CITIZENS
+	total_positions = -1
+	spawn_positions = -1
+	description = "You have found you way to New Reno, The Biggest Little City in the World. Though the city itself is usually in a perpetual state of tension between the clashes among the families, the poor state of the charities, or the rampant hobo criminality, you don't need to think too much about it. You've come here to visit the landmarks, stay at the hotel, play some cards in the casinos, or enjoy the so called 'New Reno experience', and you have enough caps to make that happen."
+	supervisors = "hedonism"
+	selection_color = "#F7EFCF"
+	exp_requirements = EXP_TYPE_CITIZENS
+
+	outfit = /datum/outfit/job/citizens/f13tourist
+
+	loadout_options = list(
+	/datum/outfit/loadout/tourist,
+	/datum/outfit/loadout/ncroffduty,
+	/datum/outfit/loadout/vaultcityscientist,
+	/datum/outfit/loadout/vaultcitytourist,
+	/datum/outfit/loadout/vaultcitydiplomat,
+	/datum/outfit/loadout/vaquero,
+	/datum/outfit/loadout/reporter,
+	/datum/outfit/loadout/detective,
+	/datum/outfit/loadout/ncrpolice,
+	/datum/outfit/loadout/gambler,
+	)
+
+
+/datum/outfit/job/citizens/f13tourist
+	name = "Tourist"
+	jobtype = /datum/job/citizens/f13tourist
+
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
+	///l_pocket =
+	shoes = /obj/item/clothing/shoes/f13/brownie
+	backpack_contents = list(
+		/obj/item/reagent_containers/hypospray/medipen/stimpak = 1,
+		)
+/datum/outfit/job/citizens/f13mercenary/pre_equip(mob/living/carbon/human/H)
+	. = ..()
+	uniform = pick(
+		/obj/item/clothing/under/f13/hawaiian/red, \
+		/obj/item/clothing/under/f13/hawaiian/blue, \
+		/obj/item/clothing/under/f13/hawaiian/orange, \
+		/obj/item/clothing/under/f13/hawaiian/pink)
+
+/datum/outfit/loadout/tourist
+	name = "Tourist"
+	backpack_contents = list(
+		/obj/item/card/id/dogtag/town/ncr = 1,
+		/obj/item/melee/onehanded/club = 1) //fill in with cash amount
+
+/datum/outfit/loadout/ncroffduty
+	name = "NCRA Off-Duty"
+	suit = /obj/item/clothing/suit/armor/f13/ncrarmor/ncr_dressjack
+	suit_store = /obj/item/gun/ballistic/rifle/hunting
+	belt = /obj/item/storage/belt/military/assault/ncr
+	mask = /obj/item/clothing/mask/ncr_facewrap
+	uniform = /obj/item/clothing/under/f13/ncr
+	head = obj/item/clothing/head/f13/ncr_cap
+	shoes = /obj/item/clothing/shoes/f13/military/ncr
+	backpack_contents = list(
+		/obj/item/clothing/under/f13/ncr/ncr_officer = 1,
+		/obj/item/clothing/under/f13/ncr/ncr_shorts = 1,
+		/obj/item/clothing/shoes/f13/military/ncr_officer_boots = 1,
+		/obj/item/card/id/dogtag/town/ncr = 1,
+		/obj/item/melee/onehanded/knife/bayonet = 1,
+		/obj/item/clothing/under/f13/ncr/ncr_shorts = 1,
+		/obj/item/ammo_box/a308 = 2)
+
+/datum/outfit/loadout/vaultcityscientist
+	name = "Vault City Scientist"
+	belt = /obj/item/storage/belt/medical
+	uniform = /obj/item/clothing/under/f13/vault/vcity
+	shoes = /obj/item/clothing/shoes/jackboots
+	suit = /obj/item/clothing/suit/toggle/labcoat/f13
+	glasses = /obj/item/clothing/glasses/hud/health/f13
+	backpack_contents = list(
+		/obj/item/book/granter/trait/chemistry = 1,
+		/obj/item/book/granter/trait/medical = 1,
+		/obj/item/melee/onehanded/knife/survival = 1,
+		/obj/item/pda = 1,
+		/obj/item/card/id = 1,
+		/obj/item/storage/backpack/duffelbag/med = 1)
+
+/datum/outfit/loadout/vaultcitytourist
+	name = "Vault City Tourist"
+	uniform = /obj/item/clothing/under/f13/vault/vcity
+	shoes = /obj/item/clothing/shoes/jackboots
+	backpack_contents = list(
+		/obj/item/melee/clasic_baton/telescopic = 1,
+		/obj/item/card/id = 1,
+		/obj/item/pda = 1)
+
+/datum/outfit/loadout/vaultcitydiplomat
+	name = "Vault City Diplomat"
+	uniform = /obj/item/clothing/under/f13/vault/vcity
+	shoes = /obj/item/clothing/shoes/jackboots
+	backpack_contents = list(
+		/obj/item/card/id = 1,
+		/obj/item/gun/ballistic/automatic/hobo/zipgun = 1,
+		/obj/item/pda = 1,
+		/obj/item/pen = 1,
+		/obj/item/storage/secure/briefcase = 1)
+
+/datum/outfit/loadout/vaquero
+	name = "Vaquero"
+	belt = obj/item/gun/ballistic/revolver/colt357
+	neck = /obj/item/storage/belt/holster
+	mask = /obj/item/clothing/mask/ncr_facewrap
+	uniform = /obj/item/clothing/under/f13/jamrock
+	head = obj/item/clothing/head/helmet/f13/vaquerohat
+	glasses = /obj/item/clothing/glasses/f13/biker
+	shoes = /obj/item/clothing/shoes/workboots/mining
+	backpack_contents = list(
+		/obj/item/ammo_box/a357 = 1,
+		/obj/item/card/id/dogtag/town/ncr = 1)
+
+/datum/outfit/loadout/reporter
+	name = "Reporter"
+	uniform = /obj/item/clothing/under/lawyer/blacksuit
+	shoes = /obj/item/clothing/shoes/laceup
+	backpack_contents = list(
+		/obj/item/card/id = 1,
+		/obj/item/card/id/dogtag/town/ncr = 1,
+		/obj/item/taperecorder = 1,
+		/obj/item/pda = 1,
+		/obj/item/pen = 1,
+		/obj/item/paper = 1,
+		/obj/item/camera = 1,
+		/obj/item/gun/energy/disabler = 1,
+		/obj/item/reagent_containers/spray/pepper = 1,
+		/obj/item/wallframe/newscaster = 1)
+
+/datum/outfit/loadout/detective
+	name = "Detective"
+	suit = /obj/item/clothing/suit/det_suit/grey
+	uniform = /obj/item/clothing/under/f13/detectivealt
+	head = /obj/item/clothing/head/f13/det_hat_alt
+	shoes =  /obj/item/clothing/shoes/laceup
+	r_pocket = /obj/item/flashlight/flare
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
+	suit_store = /obj/item/gun/ballistic/revolver/police
+	backpack_contents = list(
+		/obj/item/pda/detective = 1,
+		/obj/item/card/id/dogtag/town/ncr = 1,
+		/obj/item/card/id/syndicate = 1,
+		/obj/item/camera/detective = 1,
+		/obj/item/toy/crayon/white = 1,
+		/obj/item/detective_scanner = 1,
+		/obj/item/storage/box/gloves = 1,
+		/obj/item/storage/box/evidence = 1,
+		/obj/item/ammo_box/a357 = 1)
+
+/datum/outfit/loadout/ncrpolice
+	name = "NCR Police"
+	suit = /obj/item/clothing/suit/armor/f13/civilians/ncr_police_coat
+	uniform = /obj/item/clothing/under/f13/ncr/police
+	head = /obj/item/clothing/head/helmet/f13/civilians/ncr_police_helmet
+	shoes =  /obj/item/clothing/shoes/jackboots
+	r_pocket = /obj/item/flashlight/flare
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
+	suit_store = /obj/item/gun/ballistic/revolver/police
+	backpack_contents = list(
+		/obj/item/pda = 1,
+		/obj/item/card/id = 1,
+		/obj/item/card/id/dogtag/town/ncr = 1,
+		/obj/item/ammo_box/a357 = 1)
+
+/datum/outfit/loadout/gambler
+	name = "Gambler"
+	uniform = /obj/item/clothing/under/suit/checkered
+	head = /obj/item/clothing/head/fedora
+	shoes =  /obj/item/clothing/shoes/laceup
+	r_pocket = /obj/item/flashlight/flare
+	backpack = /obj/item/storage/backpack/satchel/leather/withwallet
+	satchel = /obj/item/storage/backpack/satchel/leather/withwallet
+	backpack_contents = list(
+		/obj/item/card/id/dogtag/town/ncr = 1,
+		/obj/item/ammo_box/a357 = 1)
+
+//Tourist
+//NCR off duty
+//Vault City Scientist
+//Vault City Tourist
+//Vault City Diplomat
+//Reporter
+//Detective
+//NCR Police
+//Gambler

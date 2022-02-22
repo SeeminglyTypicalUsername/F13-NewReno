@@ -69,6 +69,26 @@
 	icon_state = "bishop_casino_worker"
 	item_state = "bishop_casino_worker"
 
+//wrights
+
+/obj/item/clothing/under/f13/wrights/boss
+	name = "formal suit"
+	desc = "A neat, well maintained suit."
+	icon_state = "wright_boss"
+	item_state = "wright_boss"
+
+/obj/item/clothing/under/f13/wrights/officer
+	name = "wright officer suit"
+	desc = "A brown suit with a sense of formality to it."
+	icon_state = "wright_officer"
+	item_state = "wright_officer"
+
+/obj/item/clothing/under/f13/wrights/soldier
+	name = "wright family suit"
+	desc = "A suit with suspenders."
+	icon_state = "wright_soldier"
+	item_state = "wright_soldier"
+
 //hotel
 
 /obj/item/clothing/under/f13/hotel/concierge/uniform
@@ -82,6 +102,52 @@
 	desc = "An old yellowish shirt with a black tie and a feminine skirt, intended for the hotel staff."
 	icon_state = "concierge_skirt"
 	item_state = "concierge_skirt"
+
+//religion
+
+/obj/item/clothing/under/f13/religion/priest
+	name = "priest clothing"
+	desc = "Typical priest clothing."
+	icon_state = "priest"
+	item_state = "priest"
+
+//civilian
+
+/obj/item/clothing/under/f13/hawaiian/red
+	name = "red hawaiian outfit"
+	desc = "Woooaahh, dude, party on."
+	icon_state = "hawaiianred_s"
+	item_state = "hawaiianred_s"
+
+/obj/item/clothing/under/f13/hawaiian/blue
+	name = "blue hawaiian outfit"
+	desc = "Woooaahh, dude, party on."
+	icon_state = "hawaiianblue_s"
+	item_state = "hawaiianblue_s"
+
+/obj/item/clothing/under/f13/hawaiian/orange
+	name = "orange hawaiian outfit"
+	desc = "Woooaahh, dude, party on."
+	icon_state = "hawaiianorange_s"
+	item_state = "hawaiianorange_s"
+
+/obj/item/clothing/under/f13/hawaiian/pink
+	name = "pink hawaiian outfit"
+	desc = "Woooaahh, dude, party on."
+	icon_state = "hawaiianpink_s"
+	item_state = "hawaiianpink_s"
+
+/obj/item/clothing/under/f13/ncr/police
+	name = "NCR police uniform"
+	desc = "A standard issue NCR police uniform, repurposed from the old world."
+	icon_state = "ahp_uniform"
+	item_state = "ahp_uniform"
+
+/obj/item/clothing/under/f13/religion/priest
+	name = "priest clothing"
+	desc = "Typical priest clothing."
+	icon_state = "schlimmsuit"
+	item_state = "schlimmsuit"
 
 //ENCLAVE PEACEKEEPERS
 

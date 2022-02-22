@@ -10,16 +10,6 @@
 	enforces = "The Salvatore family is not of many taboos and will consider most types of business a 'fair game', but due to the lack of proper numbers to confront the big families, subterfuge and scheming should be favored instead of direct confrontation. Dispose of anyone digging among the family affairs. Do not allow your family to be insulted."
 	objectivesList = list("Focus on the acquisition and selling of laser weaponry.", "Focus on managing the Salvatore's Bar", "Extort the small businesses of New Reno to get a cut from their profits, but be weary, the other families may want a cut from them too; 'Extend loans to the tourists and gamblers, break their legs when they're unwilling (or unable) to pay'.")
 
-/datum/outfit/job/salvatores
-	jobtype = /datum/job/ncr
-	backpack = /obj/item/storage/backpack/trekker
-	satchel = /obj/item/storage/backpack/satchel/trekker
-	ears = /obj/item/radio/headset/headset_ncr
-	uniform	= /obj/item/clothing/under/f13/ncr
-	belt = /obj/item/storage/belt/military/assault/ncr
-	shoes = /obj/item/clothing/shoes/f13/military/ncr
-	l_pocket = /obj/item/book/manual/ncr/jobguide
-
 /datum/outfit/job/ncr/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
 	..()
 	if(visualsOnly)

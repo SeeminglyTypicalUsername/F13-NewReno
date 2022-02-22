@@ -935,6 +935,18 @@
 	armor = list("melee" = 25, "bullet" = 25, "laser" = 25, "bio" = 0, "rad" = 0, "fire" = 25, "acid" = 25) //up to change
 	pocket_storage_component_path = /datum/component/storage/concrete/pockets/bulletbelt
 
+///////////
+//Wrights//
+///////////
+
+/obj/item/clothing/suit/armor/f13/wrights/armored_vest
+	name = "brown vest"
+	desc = "An armored vest with large interior pockets."
+	icon_state = "wrights_vest"
+	item_state = "wrights_vest"
+	armor = list("melee" = 25, "bullet" = 25, "laser" = 25, "bio" = 0, "rad" = 0, "fire" = 25, "acid" = 25) //up to change
+	pocket_storage_component_path = /datum/component/storage/concrete/pockets/bulletbelt
+
 /////////
 //Hotel//
 /////////
@@ -951,3 +963,20 @@
 	icon_state = "concierge_coat"
 	item_state = "concierge_coat"
 
+/////////////
+//civilians//
+/////////////
+
+/obj/item/clothing/suit/armor/f13/civilians/ncr_police_coat
+	name = "NCR police coat"
+	desc = "A repurposed oldworld police coat."
+	icon_state = "ahp_suit"
+	item_state = "ahp_suit"
+	armor = list("melee" = 25, "bullet" = 25, "laser" = 25, "bio" = 0, "rad" = 0, "fire" = 25, "acid" = 25) //up to change
+
+/obj/item/clothing/suit/armor/f13/civilians/schlimmcoat
+	name = "foreign coat"
+	desc = "A well made coat."
+	icon_state = "schlimmcoat"
+	item_state = "schlimmcoat"
+	armor = list("melee" = 10, "bullet" = 10, "laser" = 10, "bio" = 0, "rad" = 0, "fire" = 25, "acid" = 25) //up to change
