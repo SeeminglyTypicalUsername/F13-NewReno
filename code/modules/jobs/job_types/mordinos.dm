@@ -194,7 +194,7 @@
 //	r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/ncrenlisted //placeholder
-	r_pocket = /obj/item/ammo_box/magazine/internal/cylinder/rev38
+	r_pocket = /obj/item/ammo_box/c38
 	mask = /obj/item/clothing/mask/cigarette/cigar
 	head = /obj/item/clothing/head/helmet/f13/mordinos/fedora
 //	neck = /obj/item/storage/belt/holster/legholster
@@ -252,7 +252,7 @@
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/ncrenlisted //placeholder
 	r_pocket = /obj/item/ammo_box/magazine/internal/cylinder/rev38
-	mask = /obj/item/clothing/mask/cigarette/cigar
+	mask = /obj/item/clothing/mask/cigarette/bigboss
 	head = /obj/item/clothing/head/helmet/f13/mordinos/fedora
 //	neck = /obj/item/storage/belt/holster/legholster
 	shoes = /obj/item/clothing/shoes/laceup
@@ -272,7 +272,7 @@
 		/obj/item/gun/ballistic/automatic/hobo/zipgun, \
 		/obj/item/twohanded/sledgehammer, \
 		/obj/item/kitchen/knife, \
-		/obj/item/gun/ballistic/revolver/single_shotgun)
+		/obj/item/twohanded/baseball)
 
 /*--------------------------------------------------------------*/
 
