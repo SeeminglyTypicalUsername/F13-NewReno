@@ -723,14 +723,26 @@
 */
 
 	loadout_options = list(
+	/datum/outfit/loadout/fugative,
+	/datum/outfit/loadout/bandido,
+	/datum/outfit/loadout/ncra_deserter,
+	/datum/outfit/loadout/den_slaver,
 	/datum/outfit/loadout/painspike,
-	/datum/outfit/loadout/guard,
+	/datum/outfit/loadout/eyebot,
+	/datum/outfit/loadout/jackals,
+	/datum/outfit/loadout/white_legs,
+	/datum/outfit/loadout/khans,
+	/datum/outfit/loadout/vipers,
+	/datum/outfit/loadout/80s,
+	/datum/outfit/loadout/manhunter,
+
 	)
 
+//West Coast types (blastmaster, etc)
 
-/datum/outfit/job/citizens/f13mercenary
-	name = "Mercenary"
-	jobtype = /datum/job/citizens/f13mercenary
+/datum/outfit/job/citizens/f13renoraider
+	name = "Reno Raider"
+	jobtype = /datum/job/citizens/f13renoraider
 
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
@@ -739,6 +751,7 @@
 	backpack_contents = list(
 		/obj/item/reagent_containers/hypospray/medipen/stimpak = 2,
 		/obj/item/melee/onehanded/knife/trench = 1,
+		/obj/item/restraints/handcuffs = 2,
 		)
 /datum/outfit/job/citizens/f13mercenary/pre_equip(mob/living/carbon/human/H)
 	. = ..()
@@ -747,26 +760,56 @@
 		/obj/item/clothing/under/syndicate/camo, \
 		/obj/item/clothing/under/f13/mercc)
 
-/datum/outfit/loadout/hitman
-	name = "Hitman"
-	suit = /obj/item/clothing/suit/armored/light/vest/kevlar
-	belt = /obj/item/storage/belt/military/assault
+/datum/outfit/loadout/fugative
+	name = "Fugative"
+	suit = /obj/item/clothing/suit/armor/f13/ncrcfjacket
+	uniform = /obj/item/clothing/under/f13/ncrcf
 	mask = /obj/item/clothing/mask/russian_balaclava
 	backpack_contents = list(
-		/obj/item/suppressor = 1,
-		/obj/item/gun/ballistic/automatic/pistol/n99 = 1,
-		/obj/item/ammo_box/magazine/m10mm_adv = 1)
+		/obj/item/gun/ballistic/revolver/caravan_shotgun = 1,
+		/obj/item/ammo_box/shotgun/improvised = 1,
+		/obj/item/grenade/f13/dynamite = 5,
+		/obj/item/melee/classic_baton = 1)
 
-/datum/outfit/loadout/guard
-	name = "Guard"
-	suit = /obj/item/clothing/head/helmet/armyhelmet/heavy
-	belt = /obj/item/storage/belt/military/assault
-	head = /obj/item/clothing/head/helmet/armyhelmet/heavy
-	mask = /obj/item/clothing/mask/russian_balaclava
-	uniform = /obj/item/clothing/under/syndicate/camo
+/datum/outfit/loadout/bandido
+	name = "bandido"
+	belt = obj/item/gun/ballistic/revolver/colt357
+	neck = /obj/item/storage/belt/holster
+	mask = /obj/item/clothing/mask/ncr_facewrap
+	uniform = /obj/item/clothing/under/f13/jamrock
+	head = obj/item/clothing/head/helmet/f13/vaquerohat
+	glasses = /obj/item/clothing/glasses/f13/biker
+	shoes = /obj/item/clothing/shoes/workboots/mining
 	backpack_contents = list(
-		/obj/item/gun/ballistic/automatic/autopipe = 1,
-		/obj/item/ammo_box/magazine/autopipe = 1)
+		/obj/item/ammo_box/a357 = 2,
+		/obj/item/kitchen/knife = 1)
+
+/datum/outfit/loadout/ncra_deserter
+	name = "NCRA Deserter"
+	suit = /obj/item/clothing/suit/armor/f13/ncrarmor
+	suit_store = /obj/item/gun/ballistic/rifle/hunting
+	belt = /obj/item/storage/belt/military/assault/ncr
+	mask = /obj/item/clothing/mask/ncr_facewrap
+	uniform = /obj/item/clothing/under/f13/ncr
+	head = obj/item/clothing/head/f13/ncr/goggles
+	shoes = /obj/item/clothing/shoes/f13/military/ncr
+	backpack_contents = list(
+		/obj/item/melee/onehanded/knife/bayonet = 1,
+		/obj/item/ammo_box/a308 = 2)
+
+/datum/outfit/loadout/ncra_deserter
+	name = "NCRA Deserter"
+	suit = /obj/item/clothing/suit/armored/light/duster/autumn
+	suit_store = /obj/item/gun/ballistic/automatic/autopipe
+	belt = /obj/item/storage/belt/military/assault/ncr
+	mask = /obj/item/clothing/mask/ncr_facewrap
+	uniform = /obj/item/clothing/under/f13/ncr
+	head = obj/item/clothing/head/f13/ncr/goggles
+	shoes = /obj/item/clothing/shoes/f13/military/ncr
+	backpack_contents = list(
+		/obj/item/melee/onehanded/knife/bayonet = 1,
+		/obj/item/restraints/legcuffs/bola/tactical = 2,
+		/obj/item/ammo_box/a308 = 2)
 
 /*--------------------------------------------------------------*/
 
@@ -953,12 +996,16 @@
 		/obj/item/card/id/dogtag/town/ncr = 1,
 		/obj/item/ammo_box/a357 = 1)
 
-//Tourist
-//NCR off duty
-//Vault City Scientist
-//Vault City Tourist
-//Vault City Diplomat
-//Reporter
-//Detective
-//NCR Police
-//Gambler
+//White Legs
+//Khans
+//Den Slaver
+//Fugative
+//Jackals
+//Vipers
+//80s
+//Bandido
+//NCRA Deserter
+//Manhunter
+//West Coast types (painspike, blastmaster, etc)
+
+
