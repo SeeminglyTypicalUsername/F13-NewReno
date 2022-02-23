@@ -693,7 +693,7 @@
 /*--------------------------------------------------------------*/
 /datum/job/citizens/f13renoraider
 	title = "Raider"
-	flag = F13RENORAIDER
+	flag = F13RAIDER
 	faction = FACTION_CITIZENS
 	total_positions = -1
 	spawn_positions = -1
@@ -702,7 +702,7 @@
 	selection_color = "#F7EFCF"
 	exp_requirements = EXP_TYPE_CITIZENS
 
-	outfit = /datum/outfit/job/citizens/f13renoraider
+	outfit = /datum/outfit/job/wasteland/f13raider
 
 /*
 	loadout_options = list(
@@ -723,10 +723,15 @@
 */
 
 	loadout_options = list(
-	/datum/outfit/loadout/painspike,
-	/datum/outfit/loadout/guard,
+	/datum/outfit/loadout/raider_supafly,
+	/datum/outfit/loadout/raider_yankee,
+	/datum/outfit/loadout/raider_blast,
+	/datum/outfit/loadout/raider_sadist,
+	/datum/outfit/loadout/raider_painspike,
+	/datum/outfit/loadout/raider_badlands,
+	/datum/outfit/loadout/raider_vault,
+	/datum/outfit/loadout/raider_ncr
 	)
-
 
 /datum/outfit/job/citizens/f13mercenary
 	name = "Mercenary"
@@ -796,18 +801,6 @@
 	/datum/outfit/loadout/gambler,
 	)
 
-
-/datum/outfit/job/citizens/f13tourist
-	name = "Tourist"
-	jobtype = /datum/job/citizens/f13tourist
-
-	backpack = /obj/item/storage/backpack/satchel/explorer
-	satchel = /obj/item/storage/backpack/satchel/explorer
-	///l_pocket =
-	shoes = /obj/item/clothing/shoes/f13/brownie
-	backpack_contents = list(
-		/obj/item/reagent_containers/hypospray/medipen/stimpak = 1,
-		)
 /datum/outfit/job/citizens/f13mercenary/pre_equip(mob/living/carbon/human/H)
 	. = ..()
 	uniform = pick(
@@ -822,6 +815,18 @@
 		/obj/item/card/id/dogtag/town/ncr = 1,
 		/obj/item/melee/onehanded/club = 1) //fill in with cash amount
 
+/datum/outfit/job/citizens/f13tourist
+	name = "Tourist"
+	jobtype = /datum/job/citizens/f13tourist
+
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
+	///l_pocket =
+	shoes = /obj/item/clothing/shoes/f13/brownie
+	backpack_contents = list(
+		/obj/item/reagent_containers/hypospray/medipen/stimpak = 1,
+		)
+
 /datum/outfit/loadout/ncroffduty
 	name = "NCRA Off-Duty"
 	suit = /obj/item/clothing/suit/armor/f13/ncrarmor/ncr_dressjack
@@ -829,7 +834,7 @@
 	belt = /obj/item/storage/belt/military/assault/ncr
 	mask = /obj/item/clothing/mask/ncr_facewrap
 	uniform = /obj/item/clothing/under/f13/ncr
-	head = obj/item/clothing/head/f13/ncr_cap
+	head = /obj/item/clothing/head/f13/ncr_cap
 	shoes = /obj/item/clothing/shoes/f13/military/ncr
 	backpack_contents = list(
 		/obj/item/clothing/under/f13/ncr/ncr_officer = 1,
@@ -860,7 +865,7 @@
 	uniform = /obj/item/clothing/under/f13/vault/vcity
 	shoes = /obj/item/clothing/shoes/jackboots
 	backpack_contents = list(
-		/obj/item/melee/clasic_baton/telescopic = 1,
+		/obj/item/melee/classic_baton/telescopic = 1,
 		/obj/item/card/id = 1,
 		/obj/item/pda = 1)
 
@@ -877,11 +882,11 @@
 
 /datum/outfit/loadout/vaquero
 	name = "Vaquero"
-	belt = obj/item/gun/ballistic/revolver/colt357
+	belt = /obj/item/gun/ballistic/revolver/colt357
 	neck = /obj/item/storage/belt/holster
 	mask = /obj/item/clothing/mask/ncr_facewrap
 	uniform = /obj/item/clothing/under/f13/jamrock
-	head = obj/item/clothing/head/helmet/f13/vaquerohat
+	head = /obj/item/clothing/head/helmet/f13/vaquerohat
 	glasses = /obj/item/clothing/glasses/f13/biker
 	shoes = /obj/item/clothing/shoes/workboots/mining
 	backpack_contents = list(
@@ -911,8 +916,7 @@
 	head = /obj/item/clothing/head/f13/det_hat_alt
 	shoes =  /obj/item/clothing/shoes/laceup
 	r_pocket = /obj/item/flashlight/flare
-	backpack = /obj/item/storage/backpack/satchel/explorer
-	satchel = /obj/item/storage/backpack/satchel/explorer
+	r_hand = /obj/item/storage/backpack/satchel/explorer
 	suit_store = /obj/item/gun/ballistic/revolver/police
 	backpack_contents = list(
 		/obj/item/pda/detective = 1,
@@ -932,8 +936,7 @@
 	head = /obj/item/clothing/head/helmet/f13/civilians/ncr_police_helmet
 	shoes =  /obj/item/clothing/shoes/jackboots
 	r_pocket = /obj/item/flashlight/flare
-	backpack = /obj/item/storage/backpack/satchel/explorer
-	satchel = /obj/item/storage/backpack/satchel/explorer
+	r_hand = /obj/item/storage/backpack/satchel/explorer
 	suit_store = /obj/item/gun/ballistic/revolver/police
 	backpack_contents = list(
 		/obj/item/pda = 1,
@@ -947,8 +950,7 @@
 	head = /obj/item/clothing/head/fedora
 	shoes =  /obj/item/clothing/shoes/laceup
 	r_pocket = /obj/item/flashlight/flare
-	backpack = /obj/item/storage/backpack/satchel/leather/withwallet
-	satchel = /obj/item/storage/backpack/satchel/leather/withwallet
+	r_hand = /obj/item/storage/backpack/satchel/leather/withwallet
 	backpack_contents = list(
 		/obj/item/card/id/dogtag/town/ncr = 1,
 		/obj/item/ammo_box/a357 = 1)

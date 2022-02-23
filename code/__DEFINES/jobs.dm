@@ -235,6 +235,7 @@
 #define F13PRIEST (1<<8)
 #define F13YAKUZA (1<<9)
 #define F13PEASANT (1<<10)
+#define F13TOURIST	(1<<11)
 
 #define JOB_AVAILABLE 0
 #define JOB_UNAVAILABLE_GENERIC 1
