@@ -7,7 +7,7 @@
 	desc = "should not exist."
 	icon_state = "revolver"
 	mag_type = /obj/item/ammo_box/magazine/internal/cylinder
-	fire_delay = 5	
+	fire_delay = 5
 	spread = 1
 	force = 12 // Pistol whip
 	casing_ejector = FALSE
@@ -138,13 +138,14 @@
 	spread = 4
 	obj_flags = UNIQUE_RENAME
 	var/list/safe_calibers
-	
+
+
 ///////////////////
 // .32 REVOLVERS //
 ///////////////////
 
 // .32 Detective					Keywords: .38, Double action, 6 rounds cylinder, Short barrel, Bootgun
-/obj/item/gun/ballistic/revolver/detective/32rev
+/obj/item/gun/ballistic/revolver/detective/revolver32
 	name = ".32 Holdout revolver"
 	desc = "A small revolver that is very concealable."
 	w_class = WEIGHT_CLASS_TINY
@@ -218,8 +219,8 @@
 	extra_damage = 36
 	fire_delay = 4
 	block_chance = 20
-	
-//Police revolver					Keywords: .357, Double action, 6 rounds cylinder, Pocket Pistol 
+
+//Police revolver					Keywords: .357, Double action, 6 rounds cylinder, Pocket Pistol
 /obj/item/gun/ballistic/revolver/police
 	name = "police revolver"
 	desc = "Pre-war double action police revolver chambered in .357 magnum."

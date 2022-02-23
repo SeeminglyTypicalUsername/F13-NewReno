@@ -65,7 +65,7 @@
 	fire_sound = 'sound/f13weapons/22pistol.ogg'
 
 
-/obj/item/gun/ballistic/automatic/pistol/pisto32
+/obj/item/gun/ballistic/automatic/pistol/pistol32
 	name = ".32 holdout pistol"
 	desc = "a cheap ccompact pistol chambered in .32acp. Look's like something out of a pre-war spy movie. "
 	icon = 'icons/obj/guns/projectile.dmi'
