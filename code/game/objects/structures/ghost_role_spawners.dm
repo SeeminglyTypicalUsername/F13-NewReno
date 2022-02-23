@@ -711,7 +711,7 @@
 	new /obj/item/clothing/head/chameleon(src)
 	new /obj/item/clothing/mask/chameleon(src)
 	new /obj/item/storage/backpack/chameleon(src)
-
+/*
 //F13 Ghost Roles
 /obj/effect/mob_spawn/human/fallout13 //Not to actually be used on server
 	mob_species = /datum/species/human
@@ -859,7 +859,7 @@
 	var/area/A = get_area(src)
 	if(A)
 		notify_ghosts("A small gang of raiders are arriving at \the [A.name].", source = src, action=NOTIFY_ATTACK, flashwindow = FALSE, ignore_key = POLL_IGNORE_RAIDER, ignore_dnr_observers = FALSE)
-
+*/
 /*/obj/effect/mob_spawn/human/fallout13/tribal
 	name = "Spear Hunter Spawn"
 	desc = "An entry point for spear hunters to join a battle."
@@ -877,7 +877,7 @@
 		/obj/item/binoculars = 1,
 		/obj/item/restraints/legcuffs/bola/tactical = 1
 	)
-	
+
 /obj/effect/mob_spawn/human/fallout13/tribal/ranged
 	name = "Bow Hunter Spawn"
 	desc = "An entry point for bow hunters to join a battle."
