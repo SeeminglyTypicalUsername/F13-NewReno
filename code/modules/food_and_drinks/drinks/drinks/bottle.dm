@@ -30,36 +30,18 @@
 
 	var/obj/item/bodypart/affecting = user.zone_selected //Find what the player is aiming at
 
-	var/headarmor = 0 // Target's head armor
 	var/armor_block = min(90, target.run_armor_check(affecting, "melee", null, null,armour_penetration)) // For normal attack damage
-
-	//If they have a hat/helmet and the user is targeting their head.
-	if(affecting == BODY_ZONE_HEAD)
-		var/obj/item/I = target.get_item_by_slot(SLOT_HEAD)
-		if(I)
-			headarmor = I.armor.melee
-
-	//Calculate the knockdown duration for the target.
-	//var/armor_duration = (knockdown_duration - headarmor) + force
 
 	//Apply the damage!
 	target.apply_damage(force, BRUTE, affecting, armor_block)
 
-	// You are going to knock someone out for longer if they are not wearing a helmet.
-	var/head_attack_message = ""
-	if(affecting == BODY_ZONE_HEAD && iscarbon(target))
-		head_attack_message = " on the head"
-		//Knockdown the target for the duration that we calculated and divide it by 5.
-		//if(armor_duration)
-		//	target.DefaultCombatKnockdown(min(armor_duration, 200)) // What the fuck were tg coders thinking
-
 	//Display an attack message.
 	if(target != user)
-		target.visible_message("<span class='danger'>[user] has hit [target][head_attack_message] with a bottle of [src.name]!</span>", \
-				"<span class='userdanger'>[user] has hit [target][head_attack_message] with a bottle of [src.name]!</span>")
+		target.visible_message("<span class='danger'>[user] has hit [target] with a bottle of [src.name]!</span>", \
+				"<span class='userdanger'>[user] has hit [target] with a bottle of [src.name]!</span>")
 	else
-		user.visible_message("<span class='danger'>[target] hits [target.p_them()]self with a bottle of [src.name][head_attack_message]!</span>", \
-				"<span class='userdanger'>[target] hits [target.p_them()]self with a bottle of [src.name][head_attack_message]!</span>")
+		user.visible_message("<span class='danger'>[target] hits [target.p_them()]self with a bottle of [src.name]!</span>", \
+				"<span class='userdanger'>[target] hits [target.p_them()]self with a bottle of [src.name]!</span>")
 
 	//Attack logs
 	log_combat(user, target, "attacked", src)
