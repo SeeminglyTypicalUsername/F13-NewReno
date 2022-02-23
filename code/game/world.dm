@@ -74,6 +74,7 @@ GLOBAL_LIST(topic_status_cache)
 	TgsNew(new /datum/tgs_event_handler/impl, TGS_SECURITY_TRUSTED)
 	GLOB.revdata.load_tgs_info()
 	GLOB.tgs_initialized = TRUE
+	TgsInitializationComplete();
 
 /world/proc/HandleTestRun()
 	//trigger things to run the whole process
