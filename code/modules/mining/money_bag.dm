@@ -130,6 +130,11 @@
 //Reno//
 ////////
 
+/obj/item/storage/bag/money/small/reno/threezerozero/PopulateContents()
+	// ~150 worth of assorted money
+	new /obj/item/stack/f13Cash/ncr/onefivezero(src)
+	new /obj/item/stack/f13Cash/ncr/onefivezero(src)
+
 /obj/item/storage/bag/money/small/reno/onefivezero/PopulateContents()
 	// ~150 worth of assorted money
 	new /obj/item/stack/f13Cash/ncr/onefivezero(src)
@@ -153,3 +158,7 @@
 /obj/item/storage/bag/money/small/reno/threezero/PopulateContents()
 	// ~30 worth of assorted money
 	new /obj/item/stack/f13Cash/ncr/threezero(src)
+
+/obj/item/storage/bag/money/small/reno/onezero/PopulateContents()
+	// ~10 worth of assorted money
+	new /obj/item/stack/f13Cash/ncr/onezero(src)

@@ -1034,3 +1034,14 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	name = "Doctor"
 	icon_state = "Doctor"
 
+/obj/effect/landmark/start/f13/civilians/raider
+	name = "Raider"
+	icon_state = "Raider"
+
+/obj/effect/landmark/start/f13/civilians/tourist
+	name = "Tourist"
+	icon_state = "Tourist"
+
+/obj/effect/landmark/start/f13/civilians/brahminbaron
+	name = "Brahmin Baron"
+	icon_state = "Brahmin Baron"

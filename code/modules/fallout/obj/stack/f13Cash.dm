@@ -272,6 +272,10 @@
     amount = 30
     merge_type = /obj/item/stack/f13Cash/ncr
 
+/obj/item/stack/f13Cash/ncr/onezero
+    amount = 10
+    merge_type = /obj/item/stack/f13Cash/ncr
+
 /obj/item/stack/f13Cash/random/ncr/low
 	min_qty = TEMP3_MIN / CASH_NCR
 	max_qty = TEMP3_MAX / CASH_NCR

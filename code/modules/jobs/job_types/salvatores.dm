@@ -68,7 +68,7 @@
 	//satchel =
 	//r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/onefivezero
 	r_pocket = /obj/item/stock_parts/cell/ammo/ec
 	mask = /obj/item/clothing/mask/cigarette/pipe
 	head = /obj/item/clothing/head/helmet/f13/salvatores/fedora
@@ -121,7 +121,7 @@
 	//satchel =
 	//r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/onezerozero
 	r_pocket = /obj/item/stock_parts/cell/ammo/ec
 	mask = /obj/item/clothing/mask/cigarette/cigar
 	head = /obj/item/clothing/head/helmet/f13/salvatores/fedora
@@ -174,7 +174,7 @@
 	//satchel =
 	//r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/sevenzero
 	r_pocket = /obj/item/stock_parts/cell/ammo/ec
 	mask = /obj/item/clothing/mask/cigarette/cigar
 	head = /obj/item/clothing/head/helmet/f13/salvatores/fedora
@@ -228,7 +228,7 @@
 	//satchel =
 	//r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero
 	r_pocket = /obj/item/stock_parts/cell/ammo/ec
 	//mask = /obj/item/clothing/mask/cigarette/cigar
 	head = /obj/item/clothing/head/helmet/f13/salvatores/fedora
@@ -282,7 +282,7 @@
 	//satchel =
 	r_hand = /obj/item/book/manual/chef_recipes
 	l_hand = /obj/item/storage/box/ingredients/italian
-	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero
 	r_pocket = /obj/item/stock_parts/cell/ammo/ec
 	mask = /obj/item/clothing/mask/fakemoustache/italian
 	head = /obj/item/clothing/head/chefhat

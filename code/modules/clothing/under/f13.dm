@@ -143,11 +143,12 @@
 	icon_state = "ahp_uniform"
 	item_state = "ahp_uniform"
 
-/obj/item/clothing/under/f13/religion/priest
-	name = "priest clothing"
-	desc = "Typical priest clothing."
+/obj/item/clothing/under/f13/brahminbaron/foreign_suit
+	name = "foreign suit"
+	desc = "A very well made suit."
 	icon_state = "schlimmsuit"
 	item_state = "schlimmsuit"
+
 
 //ENCLAVE PEACEKEEPERS
 
