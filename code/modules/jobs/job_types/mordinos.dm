@@ -10,16 +10,6 @@
 	enforces = "The Mordino family demands: Honor is the main (and possibly the only) core tenet of the Mordino family; never allow anyone to put in doubt the honor of the family, not even a joke should be left without consequences. Wearing the family suit is required, unless acting as an infiltrator."
 	objectivesList = list("Focus on the mass production of chems.", "Focus on managing the Desperado casino", "Extort the small businesses of New Reno to get a cut from their profits, but be weary, the other families may want a cut from them too.")
 
-///datum/outfit/job/mordinos
-	//jobtype = /datum/job/ncr
-	//backpack = /obj/item/storage/backpack/trekker
-	//satchel = /obj/item/storage/backpack/satchel/trekker
-	//ears = /obj/item/radio/headset/headset_ncr
-	//uniform	= /obj/item/clothing/under/f13/ncr
-	//belt = /obj/item/storage/belt/military/assault/ncr
-	//shoes = /obj/item/clothing/shoes/f13/military/ncr
-	//l_pocket = /obj/item/book/manual/ncr/jobguide
-
 /datum/outfit/job/ncr/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
 	..()
 	if(visualsOnly)
@@ -89,7 +79,7 @@
 	backpack_contents = list(
 		/obj/item/ammo_box/shotgun/buck = 1,
 		/obj/item/ammo_box/m44 = 1,
-		/obj/item/storage/bag/money/small/ncr = 1,
+		/obj/item/storage/bag/money/small/reno/onefivezero = 1,
 		/obj/item/circular_saw = 1,
 		/obj/item/melee/onehanded/knife/switchblade = 1,
 		)
@@ -137,7 +127,7 @@
 	//satchel =
 //	r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/onezerozero //placeholder
 	r_pocket = /obj/item/ammo_box/m44
 	mask = /obj/item/clothing/mask/cigarette/cigar/ncr
 	head = /obj/item/clothing/head/helmet/f13/mordinos/fedora
@@ -193,7 +183,7 @@
 	//satchel =
 //	r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncrenlisted //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/sevenzero
 	r_pocket = /obj/item/ammo_box/c38
 	mask = /obj/item/clothing/mask/cigarette/cigar
 	head = /obj/item/clothing/head/helmet/f13/mordinos/fedora
@@ -250,8 +240,7 @@
 	//satchel =
 //	r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncrenlisted //placeholder
-	r_pocket = /obj/item/ammo_box/magazine/internal/cylinder/rev38
+	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero
 	mask = /obj/item/clothing/mask/cigarette/bigboss
 	head = /obj/item/clothing/head/helmet/f13/mordinos/fedora
 //	neck = /obj/item/storage/belt/holster/legholster
@@ -311,25 +300,9 @@
 
 	//ears =
 	//id =
-	//glasses =
-	//gloves =
-	//backpack = /obj/item/storage/backpack/satchel/leather
-	//satchel =
-//	r_hand =
-	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncrenlisted //placeholder
-//	r_pocket = /obj/item/ammo_box/magazine/internal/cylinder/rev38
-//	mask = /obj/item/clothing/mask/cigarette/cigar
-//	head = /obj/item/clothing/head/helmet/f13/mordinos/fedora
-//	neck = /obj/item/storage/belt/holster/legholster
+	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero
 	shoes = /obj/item/clothing/shoes/laceup
 	uniform = /obj/item/clothing/under/f13/bartenderalt
-//	suit = /obj/item/clothing/suit/armor/f13/mordinos/grey_trench_coat
-//	belt = /obj/item/gun/ballistic/revolver/detective
-//	backpack_contents = list(
-//		/obj/item/ammo_box/m44 = 1,
-//		/obj/item/storage/bag/money/small/ncr = 1,
-//		)
 
 /*--------------------------------------------------------------*/
 
@@ -380,7 +353,7 @@
 	backpack_contents = list(
 		/obj/item/reagent_containers/hypospray/medipen/stimpak=2, \
 		/obj/item/healthanalyzer=1, \
-		/obj/item/storage/bag/money/small/wastelander)
+		/obj/item/storage/bag/money/small/reno/fourzero)
 
 /datum/outfit/job/wasteland/f13dendoctor/pre_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
 	..()

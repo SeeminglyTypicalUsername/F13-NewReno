@@ -1265,3 +1265,145 @@
 	assignment = "US dogtags"
 	access = list(ACCESS_ENCLAVE)
 
+///////////
+//RENO ID//
+///////////
+
+//bishops
+
+/obj/item/card/id/reno/bishops/ring/soldier
+	name = "bronze ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "bronze_ring"
+	item_state = "card-id_leg"
+	assignment = "bishop bronze ring"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/bishops/ring/capo
+	name = "silver ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "silver_ring"
+	item_state = "card-id_leg"
+	assignment = "bishop silver ring"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/bishops/ring/boss
+	name = "golden ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "bishop_ring"
+	item_state = "card-id_leg"
+	assignment = "bishop golden ring"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/bishops/id
+	name = "employment papers"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "papers"
+	item_state = "card-id_leg"
+	assignment = "bishop employment papers"
+	access = list(ACCESS_ENCLAVE)
+
+//mordinos
+
+/obj/item/card/id/reno/mordinos/ring/soldier
+	name = "bronze ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "bishop bronze ring"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/mordinos/ring/capo
+	name = "silver ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "bishop silver ring"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/mordinos/ring/boss
+	name = "golden ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "bishop golden ring"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/mordinos/id/worker
+	name = "employment papers"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "bishop employment papers"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/mordinos/id/chemist
+	name = "employment papers"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "bishop employment papers"
+	access = list(ACCESS_ENCLAVE)
+
+//salvatores
+
+/obj/item/card/id/reno/ring/soldier/
+	name = "bronze ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "US dogtags"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/ring/soldier/
+	name = "bronze ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "US dogtags"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/ring/soldier/
+	name = "bronze ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "US dogtags"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/ring/soldier/
+	name = "bronze ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "US dogtags"
+	access = list(ACCESS_ENCLAVE)
+
+//wrights
+
+/obj/item/card/id/reno/ring/soldier/
+	name = "bronze ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "US dogtags"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/ring/soldier/
+	name = "bronze ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "US dogtags"
+	access = list(ACCESS_ENCLAVE)
+
+/obj/item/card/id/reno/ring/soldier/
+	name = "bronze ring"
+	desc = "Issued to Enclave citizens with photo and fingerprint."
+	icon_state = "enclavenoncombat"
+	item_state = "card-id_leg"
+	assignment = "US dogtags"
+	access = list(ACCESS_ENCLAVE)
+
+//hotel
+

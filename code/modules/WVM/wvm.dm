@@ -861,6 +861,94 @@ GLOBAL_VAR_INIT(vendor_cash, 0)
 		new /datum/data/wasteland_equipment("AER14",						/obj/item/gun/energy/laser/aer14,									300)
 		)
 
+/obj/machinery/mineral/wasteland_vendor/reno/guns/pipes/ammo
+	name = "improvised ammo supply console"
+	icon_state = "order_console"
+	prize_list = list(
+		new /datum/data/wasteland_equipment("10mm Improvised",					/obj/item/ammo_box/c10mm/improvised,							8),
+		new /datum/data/wasteland_equipment("Zipgun Clips",						/obj/item/ammo_box/magazine/zipgun,								5),
+		new /datum/data/wasteland_equipment("44 Improvised",					/obj/item/ammo_box/m44box/improvised,							8),
+		new /datum/data/wasteland_equipment("45 Improvised",					/obj/item/ammo_box/c45/improvised,								8),
+		new /datum/data/wasteland_equipment("223 Improvised",					/obj/item/ammo_box/a556/sport/improvised,						8),
+		new /datum/data/wasteland_equipment("Autopipe Belts",					/obj/item/ammo_box/magazine/autopipe,							18),
+		new /datum/data/wasteland_equipment("Improvised Buckshot",				/obj/item/ammo_box/shotgun/improvised,							20)
+		)
+	highpop_list = list(
+		new /datum/data/wasteland_equipment("10mm Improvised",					/obj/item/ammo_box/c10mm/improvised,							8),
+		new /datum/data/wasteland_equipment("Zipgun Clips",						/obj/item/ammo_box/magazine/zipgun,								5),
+		new /datum/data/wasteland_equipment("44 Improvised",					/obj/item/ammo_box/m44box/improvised,							8),
+		new /datum/data/wasteland_equipment("45 Improvised",					/obj/item/ammo_box/c45/improvised,								8),
+		new /datum/data/wasteland_equipment("223 Improvised",					/obj/item/ammo_box/a556/sport/improvised,						8),
+		new /datum/data/wasteland_equipment("Autopipe Belts",					/obj/item/ammo_box/magazine/autopipe,							18),
+		new /datum/data/wasteland_equipment("Improvised Buckshot",				/obj/item/ammo_box/shotgun/improvised,							20)
+		)
+
+/obj/machinery/mineral/wasteland_vendor/reno/guns/energy/ammo
+	name = "cell supply console"
+	icon_state = "order_console"
+	prize_list = list(
+		new /datum/data/wasteland_equipment("Energy Cell",						/obj/item/stock_parts/cell/ammo/ec,								40),
+		new /datum/data/wasteland_equipment("Microfusion Cell",					/obj/item/stock_parts/cell/ammo/mfc,							40)
+		)
+	highpop_list = list(
+		new /datum/data/wasteland_equipment("Energy Cell",						/obj/item/stock_parts/cell/ammo/ec,								40),
+		new /datum/data/wasteland_equipment("Microfusion Cell",					/obj/item/stock_parts/cell/ammo/mfc,							40)
+		)
+
+/obj/machinery/mineral/wasteland_vendor/reno/guns/ammo
+	name = "ammo supply console"
+	icon_state = "order_console"
+	prize_list = list(
+		new /datum/data/wasteland_equipment("Buckshot",							/obj/item/ammo_box/shotgun/buck,								45),
+		new /datum/data/wasteland_equipment("308",								/obj/item/ammo_box/a308,										10),
+		new /datum/data/wasteland_equipment("762",								/obj/item/ammo_box/a762,										10),
+		new /datum/data/wasteland_equipment("lr22",								/obj/item/ammo_box/magazine/m22,								16),
+		new /datum/data/wasteland_equipment("10mm",								/obj/item/ammo_box/magazine/m10mm_adv/simple,					18),
+		new /datum/data/wasteland_equipment("Desert Eagle Magazine",			/obj/item/ammo_box/magazine/m44,								16),
+		new /datum/data/wasteland_equipment("38",								/obj/item/ammo_box/c38,											5),
+		new /datum/data/wasteland_equipment("357",								/obj/item/ammo_box/a357,										12),
+		new /datum/data/wasteland_equipment("44",								/obj/item/ammo_box/m44,											12),
+		new /datum/data/wasteland_equipment("Tommy Mag",						/obj/item/ammo_box/magazine/tommygunm45,						50),
+		new /datum/data/wasteland_equipment("Energy Cell",						/obj/item/stock_parts/cell/ammo/ec,								50),
+		new /datum/data/wasteland_equipment("Microfusion Cell",					/obj/item/stock_parts/cell/ammo/mfc,							50)
+		)
+	highpop_list = list(
+		new /datum/data/wasteland_equipment("Buckshot",							/obj/item/ammo_box/shotgun/buck,								45),
+		new /datum/data/wasteland_equipment("308",								/obj/item/ammo_box/a308,										10),
+		new /datum/data/wasteland_equipment("762",								/obj/item/ammo_box/a762,										10),
+		new /datum/data/wasteland_equipment("lr22",								/obj/item/ammo_box/magazine/m22,								16),
+		new /datum/data/wasteland_equipment("10mm",								/obj/item/ammo_box/magazine/m10mm_adv/simple,					18),
+		new /datum/data/wasteland_equipment("Desert Eagle Magazine",			/obj/item/ammo_box/magazine/m44,								16),
+		new /datum/data/wasteland_equipment("38",								/obj/item/ammo_box/c38,											5),
+		new /datum/data/wasteland_equipment("357",								/obj/item/ammo_box/a357,										12),
+		new /datum/data/wasteland_equipment("44",								/obj/item/ammo_box/m44,											12),
+		new /datum/data/wasteland_equipment("Tommy Mag",						/obj/item/ammo_box/magazine/tommygunm45,						50),
+		new /datum/data/wasteland_equipment("Energy Cell",						/obj/item/stock_parts/cell/ammo/ec,								50),
+		new /datum/data/wasteland_equipment("Microfusion Cell",					/obj/item/stock_parts/cell/ammo/mfc,							50)
+		)
+
+/obj/machinery/mineral/wasteland_vendor/reno/alcohol
+	name = "alcohol supply orders"
+	icon_state = "order_console"
+	prize_list = list(
+		new /datum/data/wasteland_equipment("Flour",						/obj/item/reagent_containers/food/condiment/flour,					5),
+		new /datum/data/wasteland_equipment("Universal Enzyme",				/obj/item/reagent_containers/food/condiment/enzyme,					5),
+		new /datum/data/wasteland_equipment("Wine",							/obj/item/reagent_containers/food/drinks/bottle/wine,				15),
+		new /datum/data/wasteland_equipment("Whiskey",						/obj/item/reagent_containers/food/drinks/bottle/whiskey,			20),
+		new /datum/data/wasteland_equipment("Champagne",					/obj/item/reagent_containers/food/drinks/bottle/champagne,			35),
+		new /datum/data/wasteland_equipment("Mont De Requin",				/obj/item/reagent_containers/food/drinks/bottle/trappist,			40),
+		new /datum/data/wasteland_equipment("Rotgut",						/obj/item/reagent_containers/food/drinks/bottle/rotgut,				50)
+		)
+	highpop_list = list(
+		new /datum/data/wasteland_equipment("Flour",						/obj/item/reagent_containers/food/condiment/flour,					5),
+		new /datum/data/wasteland_equipment("Universal Enzyme",				/obj/item/reagent_containers/food/condiment/enzyme,					5),
+		new /datum/data/wasteland_equipment("Wine",							/obj/item/reagent_containers/food/drinks/bottle/wine,				15),
+		new /datum/data/wasteland_equipment("Whiskey",						/obj/item/reagent_containers/food/drinks/bottle/whiskey,			20),
+		new /datum/data/wasteland_equipment("Champagne",					/obj/item/reagent_containers/food/drinks/bottle/champagne,			35),
+		new /datum/data/wasteland_equipment("Mont De Requin",				/obj/item/reagent_containers/food/drinks/bottle/trappist,			40),
+		new /datum/data/wasteland_equipment("Rotgut",						/obj/item/reagent_containers/food/drinks/bottle/rotgut,				50)
+		)
+
 /* These are shit, don't add them.
 
 /obj/machinery/mineral/wasteland_vendor/camp

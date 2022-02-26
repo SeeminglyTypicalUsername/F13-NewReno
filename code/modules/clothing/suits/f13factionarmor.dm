@@ -980,3 +980,14 @@
 	icon_state = "schlimmcoat"
 	item_state = "schlimmcoat"
 	armor = list("melee" = 10, "bullet" = 10, "laser" = 10, "bio" = 0, "rad" = 0, "fire" = 25, "acid" = 25) //up to change
+
+///////////
+//raiders//
+///////////
+
+/obj/item/clothing/suit/armor/f13/raiders/roadwarriors
+	name = "roadsign armor"
+	desc = "A couple of roadsigns put together, seemingly originating from highway 80 due to the sign on the back."
+	icon_state = "road_armor"
+	item_state = "road_armor"
+	armor = list("melee" = 35, "bullet" = 20, "laser" = 25, "bio" = 0, "rad" = 0, "fire" = 25, "acid" = 25) //up to change

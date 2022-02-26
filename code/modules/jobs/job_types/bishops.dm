@@ -70,7 +70,7 @@
 	//satchel =
 	r_hand = /obj/item/gun/ballistic/revolver/caravan_shotgun
 	//l_hand =
-	//l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+	//l_pocket =
 	r_pocket = /obj/item/stock_parts/cell/ammo/ec
 	mask = /obj/item/clothing/mask/cigarette/cigar/ncr
 	head = /obj/item/clothing/head/helmet/f13/bishops/fedora
@@ -81,7 +81,7 @@
 	backpack_contents = list(
 		/obj/item/ammo_box/shotgun/buck = 1,
 		/obj/item/ammo_box/m44 = 1,
-		/obj/item/storage/bag/money/small/ncr = 1,
+		/obj/item/storage/bag/money/small/reno/onefivezero = 1,
 		/obj/item/circular_saw = 1,
 		/obj/item/melee/onehanded/knife/switchblade = 1,
 		)
@@ -129,7 +129,7 @@
 	//satchel =
 //	r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/onezerozero
 	r_pocket = /obj/item/ammo_box/m44
 	mask = /obj/item/clothing/mask/cigarette/cigar/ncr
 	head = /obj/item/clothing/head/helmet/f13/bishops/fedora
@@ -185,7 +185,7 @@
 	//satchel =
 //	r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncrenlisted //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/sevenzero //placeholder
 	r_pocket = /obj/item/ammo_box/c38
 	mask = /obj/item/clothing/mask/cigarette/cigar
 	head = /obj/item/clothing/head/helmet/f13/bishops/fedora
@@ -242,7 +242,7 @@
 	satchel = /obj/item/storage/backpack/satchel
 //	r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncrenlisted //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero //placeholder
 //	r_pocket =
 	//mask =
 	head = /obj/item/clothing/head/helmet/f13/bishops/fedora
@@ -309,7 +309,7 @@
 	satchel = /obj/item/storage/backpack/satchel
 //	r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/ncrenlisted //placeholder
+	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero //placeholder
 //	r_pocket =
 //	mask =
 //	head =
