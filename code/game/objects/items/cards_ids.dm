@@ -1276,6 +1276,7 @@
 	desc = "An old ring that is seemingly of some value."
 	icon_state = "bronze_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "bishop bronze ring"
 	access = list(ACCESS_BISHOPS)
 
@@ -1284,6 +1285,7 @@
 	desc = "A well crafted silver ring."
 	icon_state = "silver_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "bishop silver ring"
 	access = list(ACCESS_BISHOPS)
 
@@ -1292,6 +1294,7 @@
 	desc = "A ring that is seemingly made of gold. Seems valuable."
 	icon_state = "bishop_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "bishop golden ring"
 	access = list(ACCESS_BISHOPS)
 
@@ -1300,6 +1303,7 @@
 	desc = "Papers detailing general information about an employee."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "bishop employment papers"
 	access = list(ACCESS_BISHOPS)
 
@@ -1310,6 +1314,7 @@
 	desc = "An old ring that is seemingly of some value."
 	icon_state = "bronze_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "mordino bronze ring"
 	access = list(ACCESS_MORDINOS)
 
@@ -1318,6 +1323,7 @@
 	desc = "A well crafted silver ring."
 	icon_state = "silver_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "bishop silver ring"
 	access = list(ACCESS_MORDINOS)
 
@@ -1326,6 +1332,7 @@
 	desc = "A ring that is seemingly made of gold. Seems valuable."
 	icon_state = "enclavenoncombat"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "mordino golden ring"
 	access = list(ACCESS_MORDINOS)
 
@@ -1334,6 +1341,7 @@
 	desc = "Papers detailing general information about an employee."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "mordino employment papers"
 	access = list(ACCESS_MORDINOS)
 
@@ -1342,6 +1350,7 @@
 	desc = "Papers detailing general information about an employee."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "mordino employment papers"
 	access = list(ACCESS_MORDINOS)
 
@@ -1352,6 +1361,7 @@
 	desc = "An old ring that is seemingly of some value."
 	icon_state = "bronze_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "salvatore bronze ring"
 	access = list(ACCESS_SALVATORES)
 
@@ -1360,6 +1370,7 @@
 	desc = "A well crafted silver ring."
 	icon_state = "silver_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "salvatore silver ring"
 	access = list(ACCESS_SALVATORES)
 
@@ -1368,6 +1379,7 @@
 	desc = "A ring that is seemingly made of gold. Seems valuable."
 	icon_state = "enclavenoncombat"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "salvatore gold ring"
 	access = list(ACCESS_SALVATORES)
 
@@ -1376,6 +1388,7 @@
 	desc = "Papers detailing general information about an employee."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "salvatore employment papers"
 	access = list(ACCESS_SALVATORES)
 
@@ -1386,6 +1399,7 @@
 	desc = "An old ring that is seemingly of some value."
 	icon_state = "bronze_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "wright bronze ring"
 	access = list(ACCESS_WRIGHTS)
 
@@ -1394,6 +1408,7 @@
 	desc = "A well crafted silver ring."
 	icon_state = "silver_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "wright silver ring"
 	access = list(ACCESS_WRIGHTS)
 
@@ -1402,6 +1417,7 @@
 	desc = "A ring that is seemingly made of gold. Seems valuable."
 	icon_state = "enclavenoncombat"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "wright golden ring"
 	access = list(ACCESS_WRIGHTS)
 
@@ -1412,6 +1428,7 @@
 	desc = "Papers detailing the official ownership of New Reno's hotel."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "hotel deed"
 	access = list(ACCESS_HOTEL)
 
@@ -1420,6 +1437,7 @@
 	desc = "Papers detailing general information about an employee."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "hotel employment papers"
 	access = list(ACCESS_HOTEL)
 
@@ -1428,6 +1446,7 @@
 	desc = "Papers detailing the official ownership of New Reno Arms."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "NRA deed"
 	access = list(ACCESS_NRA)
 
@@ -1436,6 +1455,7 @@
 	desc = "Papers detailing the official ownership of the Jungle Gym."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "jungle gym deed"
 	access = list(ACCESS_NRA)
 
@@ -1444,6 +1464,7 @@
 	desc = "Papers showing a medical license of sorts. You aren't sure if it is credible or not."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "medical license"
 	access = list(ACCESS_RENO_CLINIC)
 
@@ -1452,6 +1473,7 @@
 	desc = "Papers detailing the offical ownership of the New Reno Pharmacy."
 	icon_state = "papers"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "pharmacy deed"
 	access = list(ACCESS_PHAR)
 
@@ -1460,5 +1482,6 @@
 	desc = "A well crafted silver ring with a funny dragon on it."
 	icon_state = "silver_ring"
 	item_state = null
+	uses_overlays = FALSE
 	assignment = "yakuza ring"
 	access = list(ACCESS_YAKUZA)

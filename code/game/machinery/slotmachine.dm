@@ -82,12 +82,12 @@
 			if(!user.transferItemToLoc(C, drop_location()))
 				return
 			C.throw_at(user, 3, 10)
-			to_chat(user, "<span class='warning'>[src] spits your caps back out!</span>")
+			to_chat(user, "<span class='warning'>[src] spits your dollars back out!</span>")
 
 		else
 			if(!user.temporarilyRemoveItemFromInventory(C))
 				return
-			to_chat(user, "<span class='notice'>You insert [C.amount] caps into [src]'s slot!</span>")
+			to_chat(user, "<span class='notice'>You insert [C.amount] dollars into [src]'s slot!</span>")
 			playsound(src, 'sound/items/change_jaws.ogg', 60, 1)
 			balance += C.amount
 			qdel(C)
@@ -133,7 +133,7 @@
 		dat = reeltext
 
 	else
-		dat = {"Five caps to play!<BR>
+		dat = {"Five dollars to play!<BR>
 		<B>Prize Money Available:</B> [money]<BR>
 		<B>Credit Remaining:</B> [balance]<BR>
 		[plays] players have tried their luck today, and [jackpots] have won a jackpot!<BR>
@@ -238,17 +238,17 @@
 	var/linelength = get_lines()
 
 	if(reels[1][2] + reels[2][2] + reels[3][2] + reels[4][2] + reels[5][2] == "[SEVEN][SEVEN][SEVEN][SEVEN][SEVEN]")
-		visible_message("<b>[src]</b> says, 'JACKPOT! You win [JACKPOT] caps!'")
+		visible_message("<b>[src]</b> says, 'JACKPOT! You win [JACKPOT] dollars!'")
 		priority_announce("Congratulations to [user ? user.real_name : usrname] for winning the jackpot at the slot machine in [get_area(src)]!")
 		jackpots += 1
 		give_money(JACKPOT)
 
 	else if(linelength == 5)
-		visible_message("<b>[src]</b> says, 'Big Winner! You win [BIG_PRIZE] caps!'")
+		visible_message("<b>[src]</b> says, 'Big Winner! You win [BIG_PRIZE] dollars!'")
 		give_money(BIG_PRIZE)
 
 	else if(linelength == 4)
-		visible_message("<b>[src]</b> says, 'Winner! You win [BIG_PRIZE] caps!'")
+		visible_message("<b>[src]</b> says, 'Winner! You win [BIG_PRIZE] dollars!'")
 		give_money(SMALL_PRIZE)
 
 	else if(linelength == 3)
