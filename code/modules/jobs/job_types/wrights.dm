@@ -61,7 +61,7 @@
 	jobtype = /datum/job/wrights/f13boss
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/wrights/ring/boss
 	//glasses =
 	//gloves =
 	backpack = /obj/item/storage/backpack/satchel/leather
@@ -119,7 +119,7 @@
 	jobtype = /datum/job/wrights/f13underboss
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/wrights/ring/officer
 	//glasses =
 	//gloves =
 	backpack = /obj/item/storage/backpack/satchel/leather
@@ -174,7 +174,7 @@
 	jobtype = /datum/job/wrights/f13capo
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/wrights/ring/officer
 	//glasses =
 	//gloves =
 	backpack = /obj/item/storage/backpack/satchel
@@ -232,7 +232,7 @@
 	jobtype = /datum/job/wrights/f13soldier
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/wrights/ring/soldier
 	//glasses =
 	//gloves =
 	backpack = /obj/item/storage/backpack/satchel

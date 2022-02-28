@@ -180,7 +180,7 @@ GLOBAL_VAR_INIT(vendor_cash, 0)
 /obj/machinery/trading_machine/proc/remove_all_caps()
 	if(stored_caps <= 0)
 		return
-	var/obj/item/stack/f13Cash/caps/C = new /obj/item/stack/f13Cash/caps
+	var/obj/item/stack/f13Cash/caps/C = new /obj/item/stack/f13Cash/ncr
 	if(stored_caps > C.max_amount)
 		C.add(C.max_amount - 1)
 		C.forceMove(src.loc)
@@ -1192,15 +1192,15 @@ GLOBAL_VAR_INIT(vendor_cash, 0)
 		stored_caps += inserted_value
 		I.use(currency.amount)
 		playsound(src, 'sound/items/change_jaws.ogg', 60, 1)
-		to_chat(usr, "You put [inserted_value] bottle caps value to a vending machine.")
+		to_chat(usr, "You put [inserted_value] dollars value to a vending machine.")
 		src.ui_interact(usr)
 	else if(istype(I, /obj/item/stack/f13Cash/ncr))
 		var/obj/item/stack/f13Cash/ncr/currency = I
-		var/inserted_value = FLOOR(currency.amount * 0.4, 1)
+		var/inserted_value = FLOOR(currency.amount * 1, 1)
 		stored_caps += inserted_value
 		I.use(currency.amount)
 		playsound(src, 'sound/items/change_jaws.ogg', 60, 1)
-		to_chat(usr, "You put [inserted_value] bottle caps value to a vending machine.")
+		to_chat(usr, "You put [inserted_value] dollars value to a vending machine.")
 		src.ui_interact(usr)
 	else if(istype(I, /obj/item/stack/f13Cash/denarius))
 		var/obj/item/stack/f13Cash/denarius/currency = I
@@ -1208,7 +1208,7 @@ GLOBAL_VAR_INIT(vendor_cash, 0)
 		stored_caps += inserted_value
 		I.use(currency.amount)
 		playsound(src, 'sound/items/change_jaws.ogg', 60, 1)
-		to_chat(usr, "You put [inserted_value] bottle caps value to a vending machine.")
+		to_chat(usr, "You put [inserted_value] dollars value to a vending machine.")
 		src.ui_interact(usr)
 	else if(istype(I, /obj/item/stack/f13Cash/aureus))
 		var/obj/item/stack/f13Cash/aureus/currency = I
@@ -1216,7 +1216,7 @@ GLOBAL_VAR_INIT(vendor_cash, 0)
 		stored_caps += inserted_value
 		I.use(currency.amount)
 		playsound(src, 'sound/items/change_jaws.ogg', 60, 1)
-		to_chat(usr, "You put [inserted_value] bottle caps value to a vending machine.")
+		to_chat(usr, "You put [inserted_value] dollars value to a vending machine.")
 		src.ui_interact(usr)
 	else
 		to_chat(usr, "Invalid currency!")
@@ -1226,7 +1226,7 @@ GLOBAL_VAR_INIT(vendor_cash, 0)
 /obj/machinery/mineral/wasteland_vendor/proc/remove_all_caps()
 	if(stored_caps <= 0)
 		return
-	var/obj/item/stack/f13Cash/C = new /obj/item/stack/f13Cash/caps
+	var/obj/item/stack/f13Cash/C = new /obj/item/stack/f13Cash/ncr
 	if(stored_caps > C.max_amount)
 		C.add(C.max_amount - 1)
 		C.forceMove(src.loc)

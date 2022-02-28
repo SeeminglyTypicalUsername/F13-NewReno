@@ -63,15 +63,14 @@
 	jobtype = /datum/job/bishops/f13boss
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/bishops/ring/boss
 	//glasses =
 	//gloves =
 	backpack = /obj/item/storage/backpack/satchel/leather
-	//satchel =
+	satchel = /obj/item/storage/backpack/satchel/leather
 	r_hand = /obj/item/gun/ballistic/revolver/caravan_shotgun
 	//l_hand =
 	//l_pocket =
-	r_pocket = /obj/item/stock_parts/cell/ammo/ec
 	mask = /obj/item/clothing/mask/cigarette/cigar/ncr
 	head = /obj/item/clothing/head/helmet/f13/bishops/fedora
 	neck = /obj/item/storage/belt/holster/legholster
@@ -122,11 +121,11 @@
 	jobtype = /datum/job/bishops/f13underboss
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/bishops/ring/officer
 	//glasses =
 	//gloves =
-	//backpack = /obj/item/storage/backpack/satchel/leather
-	//satchel =
+	backpack = /obj/item/storage/backpack/satchel
+	satchel = /obj/item/storage/backpack/satchel
 //	r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/onezerozero
@@ -178,11 +177,11 @@
 	jobtype = /datum/job/bishops/f13capo
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/bishops/ring/officer
 	//glasses =
 	//gloves =
 	backpack = /obj/item/storage/backpack/satchel
-	//satchel =
+	satchel = /obj/item/storage/backpack/satchel
 //	r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/sevenzero //placeholder
@@ -235,11 +234,11 @@
 	jobtype = /datum/job/bishops/f13soldier
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/bishops/ring/soldier
 	//glasses =
 	//gloves =
-	backpack = /obj/item/storage/backpack/satchel
-	satchel = /obj/item/storage/backpack/satchel
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
 //	r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero //placeholder
@@ -302,15 +301,15 @@
 	jobtype = /datum/job/mordinos/f13casinoworker
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/bishops/papers/worker
 	//glasses =
 	gloves = /obj/item/clothing/gloves/color/white
 	backpack = /obj/item/storage/backpack/satchel
 	satchel = /obj/item/storage/backpack/satchel
 //	r_hand =
 	//l_hand =
-	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero //placeholder
-//	r_pocket =
+	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero
+	r_pocket = /obj/item/card/slotmachine
 //	mask =
 //	head =
 //	neck =

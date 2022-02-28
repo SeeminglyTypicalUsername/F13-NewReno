@@ -1273,137 +1273,192 @@
 
 /obj/item/card/id/reno/bishops/ring/soldier
 	name = "bronze ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
+	desc = "An old ring that is seemingly of some value."
 	icon_state = "bronze_ring"
-	item_state = "card-id_leg"
+	item_state = null
 	assignment = "bishop bronze ring"
-	access = list(ACCESS_ENCLAVE)
+	access = list(ACCESS_BISHOPS)
 
-/obj/item/card/id/reno/bishops/ring/capo
+/obj/item/card/id/reno/bishops/ring/officer
 	name = "silver ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
+	desc = "A well crafted silver ring."
 	icon_state = "silver_ring"
-	item_state = "card-id_leg"
+	item_state = null
 	assignment = "bishop silver ring"
-	access = list(ACCESS_ENCLAVE)
+	access = list(ACCESS_BISHOPS)
 
 /obj/item/card/id/reno/bishops/ring/boss
 	name = "golden ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
+	desc = "A ring that is seemingly made of gold. Seems valuable."
 	icon_state = "bishop_ring"
-	item_state = "card-id_leg"
+	item_state = null
 	assignment = "bishop golden ring"
-	access = list(ACCESS_ENCLAVE)
+	access = list(ACCESS_BISHOPS)
 
-/obj/item/card/id/reno/bishops/id
+/obj/item/card/id/reno/bishops/papers/worker
 	name = "employment papers"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
+	desc = "Papers detailing general information about an employee."
 	icon_state = "papers"
-	item_state = "card-id_leg"
+	item_state = null
 	assignment = "bishop employment papers"
-	access = list(ACCESS_ENCLAVE)
+	access = list(ACCESS_BISHOPS)
 
 //mordinos
 
 /obj/item/card/id/reno/mordinos/ring/soldier
 	name = "bronze ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
-	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "bishop bronze ring"
-	access = list(ACCESS_ENCLAVE)
+	desc = "An old ring that is seemingly of some value."
+	icon_state = "bronze_ring"
+	item_state = null
+	assignment = "mordino bronze ring"
+	access = list(ACCESS_MORDINOS)
 
-/obj/item/card/id/reno/mordinos/ring/capo
+/obj/item/card/id/reno/mordinos/ring/officer
 	name = "silver ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
-	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
+	desc = "A well crafted silver ring."
+	icon_state = "silver_ring"
+	item_state = null
 	assignment = "bishop silver ring"
-	access = list(ACCESS_ENCLAVE)
+	access = list(ACCESS_MORDINOS)
 
 /obj/item/card/id/reno/mordinos/ring/boss
 	name = "golden ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
+	desc = "A ring that is seemingly made of gold. Seems valuable."
 	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "bishop golden ring"
-	access = list(ACCESS_ENCLAVE)
+	item_state = null
+	assignment = "mordino golden ring"
+	access = list(ACCESS_MORDINOS)
 
-/obj/item/card/id/reno/mordinos/id/worker
+/obj/item/card/id/reno/mordinos/papers/worker
 	name = "employment papers"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
-	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "bishop employment papers"
-	access = list(ACCESS_ENCLAVE)
+	desc = "Papers detailing general information about an employee."
+	icon_state = "papers"
+	item_state = null
+	assignment = "mordino employment papers"
+	access = list(ACCESS_MORDINOS)
 
-/obj/item/card/id/reno/mordinos/id/chemist
+/obj/item/card/id/reno/mordinos/papers/chemist
 	name = "employment papers"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
-	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "bishop employment papers"
-	access = list(ACCESS_ENCLAVE)
+	desc = "Papers detailing general information about an employee."
+	icon_state = "papers"
+	item_state = null
+	assignment = "mordino employment papers"
+	access = list(ACCESS_MORDINOS)
 
 //salvatores
 
-/obj/item/card/id/reno/ring/soldier/
+/obj/item/card/id/reno/salvatores/ring/soldier
 	name = "bronze ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
-	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "US dogtags"
-	access = list(ACCESS_ENCLAVE)
+	desc = "An old ring that is seemingly of some value."
+	icon_state = "bronze_ring"
+	item_state = null
+	assignment = "salvatore bronze ring"
+	access = list(ACCESS_SALVATORES)
 
-/obj/item/card/id/reno/ring/soldier/
-	name = "bronze ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
-	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "US dogtags"
-	access = list(ACCESS_ENCLAVE)
+/obj/item/card/id/reno/salvatores/ring/officer
+	name = "silver ring"
+	desc = "A well crafted silver ring."
+	icon_state = "silver_ring"
+	item_state = null
+	assignment = "salvatore silver ring"
+	access = list(ACCESS_SALVATORES)
 
-/obj/item/card/id/reno/ring/soldier/
-	name = "bronze ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
+/obj/item/card/id/reno/salvatores/ring/don
+	name = "golden ring"
+	desc = "A ring that is seemingly made of gold. Seems valuable."
 	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "US dogtags"
-	access = list(ACCESS_ENCLAVE)
+	item_state = null
+	assignment = "salvatore gold ring"
+	access = list(ACCESS_SALVATORES)
 
-/obj/item/card/id/reno/ring/soldier/
-	name = "bronze ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
-	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "US dogtags"
-	access = list(ACCESS_ENCLAVE)
+/obj/item/card/id/reno/salvatores/papers/worker
+	name = "employment papers"
+	desc = "Papers detailing general information about an employee."
+	icon_state = "papers"
+	item_state = null
+	assignment = "salvatore employment papers"
+	access = list(ACCESS_SALVATORES)
 
 //wrights
 
-/obj/item/card/id/reno/ring/soldier/
+/obj/item/card/id/reno/wrights/ring/soldier
 	name = "bronze ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
+	desc = "An old ring that is seemingly of some value."
+	icon_state = "bronze_ring"
+	item_state = null
+	assignment = "wright bronze ring"
+	access = list(ACCESS_WRIGHTS)
+
+/obj/item/card/id/reno/wrights/ring/officer
+	name = "silver ring"
+	desc = "A well crafted silver ring."
+	icon_state = "silver_ring"
+	item_state = null
+	assignment = "wright silver ring"
+	access = list(ACCESS_WRIGHTS)
+
+/obj/item/card/id/reno/wrights/ring/boss
+	name = "golden ring"
+	desc = "A ring that is seemingly made of gold. Seems valuable."
 	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "US dogtags"
-	access = list(ACCESS_ENCLAVE)
+	item_state = null
+	assignment = "wright golden ring"
+	access = list(ACCESS_WRIGHTS)
 
-/obj/item/card/id/reno/ring/soldier/
-	name = "bronze ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
-	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "US dogtags"
-	access = list(ACCESS_ENCLAVE)
+//misc
 
-/obj/item/card/id/reno/ring/soldier/
-	name = "bronze ring"
-	desc = "Issued to Enclave citizens with photo and fingerprint."
-	icon_state = "enclavenoncombat"
-	item_state = "card-id_leg"
-	assignment = "US dogtags"
-	access = list(ACCESS_ENCLAVE)
+/obj/item/card/id/reno/hotel/papers/owner
+	name = "hotel deed"
+	desc = "Papers detailing the official ownership of New Reno's hotel."
+	icon_state = "papers"
+	item_state = null
+	assignment = "hotel deed"
+	access = list(ACCESS_HOTEL)
 
-//hotel
+/obj/item/card/id/reno/hotel/papers/worker
+	name = "employment papers"
+	desc = "Papers detailing general information about an employee."
+	icon_state = "papers"
+	item_state = null
+	assignment = "hotel employment papers"
+	access = list(ACCESS_HOTEL)
 
+/obj/item/card/id/reno/nra/papers/owner
+	name = "new reno arms deed"
+	desc = "Papers detailing the official ownership of New Reno Arms."
+	icon_state = "papers"
+	item_state = null
+	assignment = "NRA deed"
+	access = list(ACCESS_NRA)
+
+/obj/item/card/id/reno/junglegym/papers/owner
+	name = "jungle gym deed"
+	desc = "Papers detailing the official ownership of the Jungle Gym."
+	icon_state = "papers"
+	item_state = null
+	assignment = "jungle gym deed"
+	access = list(ACCESS_NRA)
+
+/obj/item/card/id/reno/clinic/papers
+	name = "medical license"
+	desc = "Papers showing a medical license of sorts. You aren't sure if it is credible or not."
+	icon_state = "papers"
+	item_state = null
+	assignment = "medical license"
+	access = list(ACCESS_RENO_CLINIC)
+
+/obj/item/card/id/reno/pharmacy/owner
+	name = "pharmacy deed"
+	desc = "Papers detailing the offical ownership of the New Reno Pharmacy."
+	icon_state = "papers"
+	item_state = null
+	assignment = "pharmacy deed"
+	access = list(ACCESS_PHAR)
+
+/obj/item/card/id/reno/yakuza/ring
+	name = "silver ring"
+	desc = "A well crafted silver ring with a funny dragon on it."
+	icon_state = "silver_ring"
+	item_state = null
+	assignment = "yakuza ring"
+	access = list(ACCESS_YAKUZA)

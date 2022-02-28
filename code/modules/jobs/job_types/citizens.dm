@@ -38,7 +38,7 @@
 	jobtype = /datum/job/citizens/f13hotelowner
 
 	ears = /obj/item/pen
-	//id =
+	id = /obj/item/card/id/reno/hotel/papers/owner
 	glasses = /obj/item/clothing/glasses/monocle
 	gloves = /obj/item/clothing/gloves/color/white
 	backpack = /obj/item/storage/backpack/satchel/leather
@@ -101,7 +101,7 @@
 /datum/outfit/job/citizens/f13hotelconcierge
 	name = "Hotel Concierge"
 	jobtype = /datum/job/citizens/f13hotelconcierge
-
+	id = /obj/item/card/id/reno/hotel/papers/worker
 	ears = /obj/item/pen
 	gloves = /obj/item/clothing/gloves/color/white
 	backpack = /obj/item/storage/backpack/satchel/leather
@@ -173,7 +173,7 @@
 	jobtype = /datum/job/citizens/f13hotelowner
 
 	ears = /obj/item/pen
-	//id =
+	id = /obj/item/card/id/reno/pharmacy/owner
 	glasses = /obj/item/clothing/glasses/f13/biker
 	gloves = /obj/item/clothing/gloves/f13/leather
 	backpack = /obj/item/storage/backpack/satchel/explorer
@@ -231,7 +231,7 @@
 	jobtype = /datum/job/citizens/f13armsdealer
 
 	ears = /obj/item/pen
-	//id =
+	id = /obj/item/card/id/reno/nra/papers/owner
 	//glasses = /obj/item/clothing/glasses/monocle
 	gloves = /obj/item/clothing/gloves/color/black
 	backpack = /obj/item/storage/backpack/satchel/explorer
@@ -292,7 +292,7 @@
 	jobtype = /datum/job/citizens/f13junglegymowner
 
 	ears = /obj/item/pen
-	//id =
+	id = /obj/item/card/id/reno/junglegym/papers/owner
 	//glasses = /obj/item/clothing/glasses/monocle
 	//gloves = /obj/item/clothing/gloves/color/black
 	backpack = /obj/item/storage/backpack/satchel/explorer
@@ -348,7 +348,7 @@
 	name = "Doctor"
 	jobtype = /datum/job/citizens/f13doctor
 
-	//id = /obj/item/card/id/denid
+	id = /obj/item/card/id/reno/clinic/papers
 	belt = /obj/item/storage/belt/medical
 	shoes = /obj/item/clothing/shoes/laceup
 	//ears = /obj/item/radio/headset/headset_den
@@ -620,6 +620,7 @@
 	jobtype = /datum/job/citizens/f13yakuza
 
 	ears = /obj/item/pen
+	id = /obj/item/card/id/reno/yakuza/ring
 	gloves = /obj/item/clothing/gloves/color/white
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
