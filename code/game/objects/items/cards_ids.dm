@@ -1457,7 +1457,7 @@
 	item_state = null
 	uses_overlays = FALSE
 	assignment = "jungle gym deed"
-	access = list(ACCESS_NRA)
+	access = list(ACCESS_GYM)
 
 /obj/item/card/id/reno/clinic/papers
 	name = "medical license"
