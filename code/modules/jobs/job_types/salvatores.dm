@@ -61,11 +61,11 @@
 	jobtype = /datum/job/salvatores/f13don
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/salvatores/ring/don
 	//glasses =
 	//gloves =
-	//backpack =
-	//satchel =
+	backpack = /obj/item/storage/backpack/satchel/leather
+	satchel = /obj/item/storage/backpack/satchel/leather
 	//r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/onefivezero
@@ -114,11 +114,11 @@
 	jobtype = /datum/job/salvatores/f13underboss
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/salvatores/ring/officer
 	//glasses =
 	//gloves =
-	//backpack =
-	//satchel =
+	backpack = /obj/item/storage/backpack/satchel/leather
+	satchel = /obj/item/storage/backpack/satchel/leather
 	//r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/onezerozero
@@ -167,11 +167,11 @@
 	jobtype = /datum/job/salvatores/f13capo
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/salvatores/ring/officer
 	//glasses =
 	//gloves =
-	//backpack =
-	//satchel =
+	backpack = /obj/item/storage/backpack/satchel
+	satchel = /obj/item/storage/backpack/satchel
 	//r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/sevenzero
@@ -221,11 +221,11 @@
 	jobtype = /datum/job/salvatores/f13soldier
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/salvatores/ring/soldier
 	//glasses =
 	//gloves =
-	//backpack =
-	//satchel =
+	backpack = /obj/item/storage/backpack/satchel
+	satchel = /obj/item/storage/backpack/satchel
 	//r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero
@@ -275,11 +275,11 @@
 	jobtype = /datum/job/salvatores/f13bartender
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/salvatores/papers/worker
 	//glasses =
 	//gloves =
-	//backpack =
-	//satchel =
+	backpack = /obj/item/storage/backpack/satchel
+	satchel = /obj/item/storage/backpack/satchel
 	r_hand = /obj/item/book/manual/chef_recipes
 	l_hand = /obj/item/storage/box/ingredients/italian
 	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero

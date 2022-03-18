@@ -76,23 +76,23 @@
 	update_icon()
 
 /obj/machinery/computer/slot_machine/attackby(obj/item/I, mob/living/user, params)
-	if(istype(I, /obj/item/stack/f13Cash/caps))
+	if(istype(I, /obj/item/stack/f13Cash/ncr))
 		var/obj/item/stack/f13Cash/caps/C = I
 		if(prob(2))
 			if(!user.transferItemToLoc(C, drop_location()))
 				return
 			C.throw_at(user, 3, 10)
-			to_chat(user, "<span class='warning'>[src] spits your caps back out!</span>")
+			to_chat(user, "<span class='warning'>[src] spits your dollars back out!</span>")
 
 		else
 			if(!user.temporarilyRemoveItemFromInventory(C))
 				return
-			to_chat(user, "<span class='notice'>You insert [C.amount] caps into [src]'s slot!</span>")
+			to_chat(user, "<span class='notice'>You insert [C.amount] dollars into [src]'s slot!</span>")
 			playsound(src, 'sound/items/change_jaws.ogg', 60, 1)
 			balance += C.amount
 			qdel(C)
 	else if(istype(I, /obj/item/stack/f13Cash))
-		to_chat(user, "<span class='warning'>[src] only accepts bottle caps!</span>")
+		to_chat(user, "<span class='warning'>[src] only accepts ncr dollars!</span>")
 		return
 	else if(istype(I, /obj/item/card/slotmachine))
 		if(consumed_money > 0)
@@ -133,7 +133,7 @@
 		dat = reeltext
 
 	else
-		dat = {"Five caps to play!<BR>
+		dat = {"Five dollars to play!<BR>
 		<B>Prize Money Available:</B> [money]<BR>
 		<B>Credit Remaining:</B> [balance]<BR>
 		[plays] players have tried their luck today, and [jackpots] have won a jackpot!<BR>
@@ -238,17 +238,17 @@
 	var/linelength = get_lines()
 
 	if(reels[1][2] + reels[2][2] + reels[3][2] + reels[4][2] + reels[5][2] == "[SEVEN][SEVEN][SEVEN][SEVEN][SEVEN]")
-		visible_message("<b>[src]</b> says, 'JACKPOT! You win [JACKPOT] caps!'")
+		visible_message("<b>[src]</b> says, 'JACKPOT! You win [JACKPOT] dollars!'")
 		priority_announce("Congratulations to [user ? user.real_name : usrname] for winning the jackpot at the slot machine in [get_area(src)]!")
 		jackpots += 1
 		give_money(JACKPOT)
 
 	else if(linelength == 5)
-		visible_message("<b>[src]</b> says, 'Big Winner! You win [BIG_PRIZE] caps!'")
+		visible_message("<b>[src]</b> says, 'Big Winner! You win [BIG_PRIZE] dollars!'")
 		give_money(BIG_PRIZE)
 
 	else if(linelength == 4)
-		visible_message("<b>[src]</b> says, 'Winner! You win [BIG_PRIZE] caps!'")
+		visible_message("<b>[src]</b> says, 'Winner! You win [BIG_PRIZE] dollars!'")
 		give_money(SMALL_PRIZE)
 
 	else if(linelength == 3)
@@ -287,7 +287,7 @@
 		money = max(0, money - amount)
 	// Spawn the money
 	playsound(src, 'sound/items/coinflip.ogg', 60, 1)
-	var/obj/item/stack/f13Cash/caps/winning_money = new /obj/item/stack/f13Cash/caps
+	var/obj/item/stack/f13Cash/ncr/winning_money = new /obj/item/stack/f13Cash/ncr
 	winning_money.amount = amount_to_give
 	winning_money.update_desc()
 	winning_money.update_icon()

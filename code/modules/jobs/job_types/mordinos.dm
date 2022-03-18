@@ -4,8 +4,8 @@
 	faction = FACTION_MORDINOS
 	exp_type = EXP_TYPE_MORDINOS
 
-	access = list(ACCESS_NCR)
-	minimal_access = list(ACCESS_NCR)
+	access = list(ACCESS_MORDINOS)
+	minimal_access = list(ACCESS_MORDINOS)
 	forbids = "The Mordino family forbids: The Mordinos are picky when it comes to recruiting new enforcers; due to this policy, anyone not deemed strong enough will not make it into the family, so a strong willed personality is expected of the actual members (though not from the chemists and the casino workers). The family is also well known for their traditional understanding of gender roles, so women, although already rare in the family, will probably not make it past capos."
 	enforces = "The Mordino family demands: Honor is the main (and possibly the only) core tenet of the Mordino family; never allow anyone to put in doubt the honor of the family, not even a joke should be left without consequences. Wearing the family suit is required, unless acting as an infiltrator."
 	objectivesList = list("Focus on the mass production of chems.", "Focus on managing the Desperado casino", "Extort the small businesses of New Reno to get a cut from their profits, but be weary, the other families may want a cut from them too.")
@@ -61,11 +61,11 @@
 	jobtype = /datum/job/mordinos/f13boss
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/mordinos/ring/boss
 	//glasses =
 	//gloves =
 	backpack = /obj/item/storage/backpack/satchel/leather
-	//satchel =
+	satchel = /obj/item/storage/backpack/satchel/leather
 	r_hand = /obj/item/gun/ballistic/revolver/caravan_shotgun
 	//l_hand =
 	//l_pocket = /obj/item/storage/bag/money/small/ncr //placeholder
@@ -120,11 +120,11 @@
 	jobtype = /datum/job/mordinos/f13underboss
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/mordinos/ring/officer
 	//glasses =
 	//gloves =
-	//backpack = /obj/item/storage/backpack/satchel/leather
-	//satchel =
+	backpack = /obj/item/storage/backpack/satchel/leather
+	satchel = /obj/item/storage/backpack/satchel/leather
 //	r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/onezerozero //placeholder
@@ -176,11 +176,11 @@
 	jobtype = /datum/job/mordinos/f13capo
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/mordinos/ring/officer
 	//glasses =
 	//gloves =
-	//backpack = /obj/item/storage/backpack/satchel/leather
-	//satchel =
+	backpack = /obj/item/storage/backpack/satchel
+	satchel = /obj/item/storage/backpack/satchel
 //	r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/sevenzero
@@ -233,11 +233,11 @@
 	jobtype = /datum/job/mordinos/f13goon
 
 	//ears =
-	//id =
+	id = /obj/item/card/id/reno/mordinos/ring/soldier
 	//glasses =
 	//gloves =
-	//backpack = /obj/item/storage/backpack/satchel/leather
-	//satchel =
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
 //	r_hand =
 	//l_hand =
 	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero
@@ -299,7 +299,10 @@
 	jobtype = /datum/job/mordinos/f13casinoworker
 
 	//ears =
-	//id =
+	backpack = /obj/item/storage/backpack/satchel/explorer
+	satchel = /obj/item/storage/backpack/satchel/explorer
+	id = /obj/item/card/id/reno/mordinos/papers/worker
+	r_pocket = /obj/item/card/slotmachine
 	l_pocket = /obj/item/storage/bag/money/small/reno/fivezero
 	shoes = /obj/item/clothing/shoes/laceup
 	uniform = /obj/item/clothing/under/f13/bartenderalt
@@ -339,7 +342,7 @@
 	name = "Mordinos Chemist"
 	jobtype = /datum/job/mordinos/f13chemist
 
-	//id = /obj/item/card/id/denid
+	id = /obj/item/card/id/reno/mordinos/papers/chemist
 	belt = /obj/item/storage/belt/medical
 	shoes = /obj/item/clothing/shoes/laceup
 	//ears = /obj/item/radio/headset/headset_den

@@ -138,3 +138,13 @@
 /datum/quirk/longtimer/on_spawn()
 	var/mob/living/carbon/C = quirk_holder
 	C.generate_fake_scars(rand(min_scars, max_scars))
+
+/datum/quirk/dwarfism
+    name = "Dwarfism"
+    desc = "You are a dwarf."
+    value = 0
+    mob_trait = TRAIT_DWARFISM
+
+/datum/quirk/dwarfism/add()
+    var/mob/living/carbon/human/H = quirk_holder
+    var/datum/element/dwarfism = H.dna.species
