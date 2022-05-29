@@ -15,23 +15,7 @@
 
 	outfit = /datum/outfit/job/citizens/f13hotelowner
 
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
+	access = list(ACCESS_HOTEL)
 
 /datum/outfit/job/citizens/f13hotelowner
 	name = "Boss"
@@ -74,23 +58,7 @@
 
 	outfit = /datum/outfit/job/citizens/f13hotelconcierge
 
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
+	access = list(ACCESS_HOTEL)
 
 	loadout_options = list(
 	/datum/outfit/loadout/male_staff,
@@ -150,23 +118,7 @@
 
 	outfit = /datum/outfit/job/citizens/f13pharmacist
 
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
+	access = list(ACCESS_PHAR)
 
 /datum/outfit/job/citizens/f13pharmacist
 	name = "Pharmacist"
@@ -208,23 +160,7 @@
 
 	outfit = /datum/outfit/job/citizens/f13armsdealer
 
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
+	access = list(ACCESS_NRA)
 
 /datum/outfit/job/citizens/f13armsdealer
 	name = "Arms Dealer"
@@ -269,23 +205,7 @@
 
 	outfit = /datum/outfit/job/citizens/f13junglegymowner
 
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
+	access = list(ACCESS_GYM)
 
 /datum/outfit/job/citizens/f13junglegymowner
 	name = "Host"
@@ -327,23 +247,9 @@
 	selection_color = "#F7EFCF"
 
 	outfit = /datum/outfit/job/citizens/f13doctor
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
 
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
+	access = list(ACCESS_RENO_CLINIC)
+
 /datum/outfit/job/citizens/f13doctor
 	name = "Doctor"
 	jobtype = /datum/job/citizens/f13doctor
@@ -394,24 +300,6 @@
 	exp_requirements = EXP_TYPE_CITIZENS
 
 	outfit = /datum/outfit/job/citizens/f13bum
-
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
 
 /datum/outfit/job/citizens/f13bum
 	name = "Bum"
@@ -468,23 +356,6 @@
 
 	outfit = /datum/outfit/job/citizens/f13mercenary
 
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
 
 	loadout_options = list(
 	/datum/outfit/loadout/hitman,
@@ -546,24 +417,6 @@
 
 	outfit = /datum/outfit/job/citizens/f13mercenary
 
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
-
 
 /datum/outfit/job/citizens/f13priest
 	name = "Priest"
@@ -597,23 +450,7 @@
 
 	outfit = /datum/outfit/job/citizens/f13yakuza
 
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
 	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
 
 /datum/outfit/job/citizens/f13yakuza
 	name = "Yakuza"
@@ -648,24 +485,6 @@
 	exp_requirements = EXP_TYPE_CITIZENS
 
 	outfit = /datum/outfit/job/citizens/f13farmer
-
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
 
 /datum/outfit/job/citizens/f13farmer
 	name = "Farmer"
@@ -705,24 +524,6 @@
 	exp_requirements = EXP_TYPE_CITIZENS
 
 	outfit = /datum/outfit/job/citizens/f13renoraider
-
-/*
-	loadout_options = list(
-	/datum/outfit/loadout/pr,
-	/datum/outfit/loadout/pw,
-	)
-
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	minimal_access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_KITCHEN, ACCESS_CLINIC, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
-	matchmaking_allowed = list(
-		/datum/matchmaking_pref/friend = list(
-			/datum/job/oasis,
-		),
-		/datum/matchmaking_pref/rival = list(
-			/datum/job/oasis,
-		),
-	)
-*/
 
 	loadout_options = list(
 	/datum/outfit/loadout/raider_fugative,

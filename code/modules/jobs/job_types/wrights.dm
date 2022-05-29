@@ -4,8 +4,8 @@
 	faction = FACTION_WRIGHTS
 	exp_type = EXP_TYPE_WRIGHTS
 
-	access = list(ACCESS_NCR)
-	minimal_access = list(ACCESS_NCR)
+	access = list(ACCESS_WRIGHTS)
+	minimal_access = list(ACCESS_WRIGHTS)
 	forbids = "The Mordino family forbids: The Mordinos are picky when it comes to recruiting new enforcers; due to this policy, anyone not deemed strong enough will not make it into the family, so a strong willed personality is expected of the actual members (though not from the chemists and the casino workers). The family is also well known for their traditional understanding of gender roles, so women, although already rare in the family, will probably not make it past capos."
 	enforces = "The Mordino family demands: Honor is the main (and possibly the only) core tenet of the Mordino family; never allow anyone to put in doubt the honor of the family, not even a joke should be left without consequences. Wearing the family suit is required, unless acting as an infiltrator."
 	objectivesList = list("Focus on the mass production of chems.", "Focus on managing the Desperado casino", "Extort the small businesses of New Reno to get a cut from their profits, but be weary, the other families may want a cut from them too.")

@@ -4,8 +4,8 @@
 	faction = FACTION_BISHOPS
 	exp_type = EXP_TYPE_BISHOPS
 
-	access = list(ACCESS_NCR)
-	minimal_access = list(ACCESS_NCR)
+	access = list(ACCESS_BISHOPS)
+	minimal_access = list(ACCESS_BISHOPS)
 	forbids = "The Bishop family forbids: Due to their diplomatic nature there's little that the Bishop family would not admit nowadays, and the recent growth in numbers is in part because of this very reason. Nevertheless, the general rule ensued to all the members of the family is that they shouldn't act as common thugs, don't destroy property or steal from the casino, and don't pick unnecessary fights with the other gangs."
 	enforces = "The Bishops are an ambitious family; make sure to assert dominance among the other families of New Reno to let them know who is the most powerful gang in town. Make sure the Casino doesn't run short of money, alcohol and entretainment. Wearing the family suit is required, unless acting as an infiltrator."
 	objectivesList = list("Focus on managing the Shark Club casino.", "Extort the small businesses of New Reno to get a cut from their profits, but be weary, the other families may want a cut from them too.")
