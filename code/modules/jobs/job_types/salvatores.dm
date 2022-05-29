@@ -4,8 +4,8 @@
 	faction = FACTION_SALVATORES
 	exp_type = EXP_TYPE_SALVATORES
 
-	access = list(ACCESS_NCR)
-	minimal_access = list(ACCESS_NCR)
+	access = list(ACCESS_SALVATORES)
+	minimal_access = list(ACCESS_SALVATORES)
 	forbids = "The Salvatore family forbids: Both the West Side Massacre and the old Salvatore glory fading with age have made the family grown reclusive and distant from the rest of the gangs of New Reno. It wasn't until the Enclave started providing laser guns to the family that they became relevant again, and by this point, they were already bitter schemers. Avoid talking about the family secrets to the outside world, be it their relation to the Enclave, or any schemes that the boss may be planning."
 	enforces = "The Salvatore family is not of many taboos and will consider most types of business a 'fair game', but due to the lack of proper numbers to confront the big families, subterfuge and scheming should be favored instead of direct confrontation. Dispose of anyone digging among the family affairs. Do not allow your family to be insulted."
 	objectivesList = list("Focus on the acquisition and selling of laser weaponry.", "Focus on managing the Salvatore's Bar", "Extort the small businesses of New Reno to get a cut from their profits, but be weary, the other families may want a cut from them too; 'Extend loans to the tourists and gamblers, break their legs when they're unwilling (or unable) to pay'.")
