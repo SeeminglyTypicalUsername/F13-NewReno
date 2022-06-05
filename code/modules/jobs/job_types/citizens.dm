@@ -237,9 +237,9 @@
 
 /*--------------------------------------------------------------*/
 
-/datum/job/citizens/f13doctor
-	title = "Doctor"
-	flag = F13DOCTOR
+/datum/job/citizens/f13renodoctor
+	title = "Reno Doctor"
+	flag = F13RENODOCTOR
 	department_flag = CITIZENS
 	total_positions = 2
 	spawn_positions = 2
@@ -250,9 +250,9 @@
 
 	access = list(ACCESS_RENO_CLINIC)
 
-/datum/outfit/job/citizens/f13doctor
+/datum/outfit/job/citizens/f13renodoctor
 	name = "Doctor"
-	jobtype = /datum/job/citizens/f13doctor
+	jobtype = /datum/job/citizens/f13renodoctor
 
 	id = /obj/item/card/id/reno/clinic/papers
 	belt = /obj/item/storage/belt/medical
