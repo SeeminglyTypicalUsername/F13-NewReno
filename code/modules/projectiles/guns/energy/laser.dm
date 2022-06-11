@@ -366,7 +366,13 @@
 	scope_x_offset = 12
 	scope_y_offset = 20
 	equipsound = 'sound/f13weapons/equipsounds/aer9equip.ogg'
-
+/*
+/obj/item/gun/energy/laser/aer9/oasis
+	name = "\improper Hot-wired AER9 laser rifle"
+	desc = "A sturdy pre-war laser rifle. Emits beams of concentrated light to kill targets. This one has been jury-rigged against common sense to dump more power into its shots."
+	ammo_type = list(/obj/item/ammo_casing/energy/laser/lasgun/hitscan/focused)
+	fire_delay = 5
+*/
 //Ultracite Laser rifle
 /obj/item/gun/energy/laser/ultra_rifle
 	name = "\improper Ultracite laser rifle"
@@ -444,7 +450,10 @@
 	icon_state = "lasercw"
 	item_state = "rcw"
 	fire_delay = 3
-	burst_size = 2
+	burst_size = 1
+	automatic = 1
+	autofire_shot_delay = 2
+	spread = 14
 	ammo_type = list(/obj/item/ammo_casing/energy/laser/rcw/hitscan)
 	cell_type = /obj/item/stock_parts/cell/ammo/ecp
 	equipsound = 'sound/f13weapons/equipsounds/RCWequip.ogg'
@@ -590,9 +599,11 @@
 	slot_flags = null
 	w_class = WEIGHT_CLASS_HUGE
 	custom_materials = null
-	burst_size = 5
+	burst_size = 1
 	burst_shot_delay = 1
-	ranged_attack_speed = CLICK_CD_RAPID
+	automatic = 1
+	autofire_shot_delay = 2.5
+	spread = 8
 	fire_delay = 1
 	weapon_weight = WEAPON_HEAVY
 	fire_sound = 'sound/weapons/laser.ogg'
