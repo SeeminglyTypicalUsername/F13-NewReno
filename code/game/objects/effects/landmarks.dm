@@ -1030,9 +1030,9 @@ obj/effect/landmark/start/f13/ncrlogisticsofficer
 	name = "Farmer"
 	icon_state = "Farmer"
 
-/obj/effect/landmark/start/f13/civilians/doctor
-	name = "Doctor"
-	icon_state = "Doctor"
+/obj/effect/landmark/start/f13/civilians/renodoctor
+	name = "Reno Doctor"
+	icon_state = "Reno Doctor"
 
 /obj/effect/landmark/start/f13/civilians/raider
 	name = "Raider"

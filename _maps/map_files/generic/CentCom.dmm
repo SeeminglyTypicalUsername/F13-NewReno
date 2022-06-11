@@ -12560,11 +12560,11 @@
 /obj/docking_port/stationary{
 	dir = 2;
 	dwidth = 25;
-	height = 50;
-	id = "emergency_away";
+	height = 5;
+	id = "emergency_reno";
 	json_key = "emergency";
 	name = "CentCom Emergency Shuttle Dock";
-	width = 50
+	width = 33
 	},
 /turf/open/indestructible/ground/inside/subway,
 /area/centcom/evac)
@@ -35661,7 +35661,7 @@ Yw
 UF
 Yy
 td
-DB
+WT
 tm
 DB
 DB
@@ -40030,7 +40030,7 @@ Da
 zT
 Yy
 Ka
-WT
+DB
 tm
 DB
 DB

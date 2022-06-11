@@ -1,4 +1,5 @@
 "a" = (/turf/closed/wall/rust,/area/shuttle/escape)
+"b" = (/obj/docking_port/mobile/emergency{height = 5; id = "emergency home"; name = "BoxStation emergency evac bay"; width = 33},/turf/closed/wall/rust,/area/shuttle/escape)
 "c" = (/obj/structure/simple_door/bunker,/obj/effect/decal/cleanable/dirt,/turf/open/floor/plasteel/f13{icon_state = "floorgrime"},/area/shuttle/escape)
 "d" = (/obj/structure/table/reinforced,/obj/machinery/computer/terminal{dir = 8; termtag = "Secret"},/turf/open/floor/plasteel/f13{icon_state = "floorgrime"},/area/shuttle/escape)
 "e" = (/obj/structure/chair/booth{dir = 8},/turf/open/floor/plasteel/grimy,/area/shuttle/escape)
@@ -42,8 +43,8 @@
 "Z" = (/obj/structure/chair/comfy/shuttle{dir = 4},/turf/open/floor/plasteel/f13{icon_state = "floorgrime"},/area/shuttle/escape)
 
 (1,1,1) = {"
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aQQnnFnmRxEyFnnnraKoeUKoeasGOTlLj
+bacaaaaaTaaaaTaaaaaaaaaaaaaaaaaaa
+aQknnFnmkxEyFpnnraKoeUKoeasGOTlLj
 atppkwpXDpXXWXXDkBUUUUUUUIOOOaZdj
 anpQxVQEpnERVtnnQaMUUCihUavPzaZdj
 aacaaaaaTaaaaTNaaaaTaaaaaaaaaaaaa

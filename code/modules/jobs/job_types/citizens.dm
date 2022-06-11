@@ -240,13 +240,13 @@
 /datum/job/citizens/f13renodoctor
 	title = "Reno Doctor"
 	flag = F13RENODOCTOR
-	department_flag = CITIZENS
+	faction = CITIZENS
 	total_positions = 2
 	spawn_positions = 2
 	description = "You are a doctor for the small local clinic, the only entity providing healthcare to the people of New Reno. Since this is one of the few charities present in town, don't expect things to go smoothly. For one, you have no relation to the Followers of the Apocalypse, and although this allows you to not be bound by their rules, this also means that you are scrapping by with the few scarce resources you have at your disposition. Secondly, the families may not take kindly that you aid their hooked addicts, or heal their deceased rivals, so always be weary of what the gangs interests. Work discretely, heal your patients, aid the addicts, see if the priest may be able to lend a hand, and, if necessary, look for protection among the gangs, the Wrights probably being the most willing among them all."
 	selection_color = "#F7EFCF"
 
-	outfit = /datum/outfit/job/citizens/f13doctor
+	outfit = /datum/outfit/job/citizens/f13renodoctor
 
 	access = list(ACCESS_RENO_CLINIC)
 
@@ -415,7 +415,7 @@
 	selection_color = "#F7EFCF"
 	exp_requirements = EXP_TYPE_CITIZENS
 
-	outfit = /datum/outfit/job/citizens/f13mercenary
+	outfit = /datum/outfit/job/citizens/f13priest
 
 
 /datum/outfit/job/citizens/f13priest
@@ -450,7 +450,7 @@
 
 	outfit = /datum/outfit/job/citizens/f13yakuza
 
-	access = list(ACCESS_BAR, ACCESS_CARGO_BOT, ACCESS_MINT_VAULT, ACCESS_CLINIC, ACCESS_KITCHEN, ACCESS_MINING, ACCESS_FORENSICS_LOCKERS)
+	access = list(ACCESS_YAKUZA)
 
 /datum/outfit/job/citizens/f13yakuza
 	name = "Yakuza"
@@ -458,7 +458,6 @@
 
 	ears = /obj/item/pen
 	id = /obj/item/card/id/reno/yakuza/ring
-	gloves = /obj/item/clothing/gloves/color/white
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	l_pocket = /obj/item/stack/f13Cash/ncr/fourzero
@@ -736,6 +735,8 @@
 
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
+	ears = /obj/item/pen
+	id = null
 	///l_pocket =
 	shoes = /obj/item/clothing/shoes/f13/brownie
 	backpack_contents = list(
